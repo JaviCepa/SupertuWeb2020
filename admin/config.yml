@@ -27,5 +27,5 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Quote", name: "quote", widget: "string"}
-      - {label: "SocialLinks", name: "sociallinks", widget: "list"}
+      - {label: "SocialLinks", name: "sociallinks", widget: "list", fields: [{name: "sociallink", widget: "string"}]}]}
       - {label: "Body", name: "body", widget: "markdown"}
