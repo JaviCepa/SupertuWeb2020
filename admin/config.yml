@@ -4,6 +4,10 @@ backend:
   branch: master
   site_domain: supertu.netlify.com
   media_folder: "images/uploads"
+  
+publish_mode: editorial_workflow
+media_folder: "site/static/img"
+public_folder: "/img"
 
 collections:
   - name: "post" # Used in routes, e.g. /admin/collections/blog
