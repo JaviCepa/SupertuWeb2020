@@ -27,19 +27,19 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Quote", name: "quote", widget: "string"}
-      - {label: "SocialLinks",
-         name: "sociallinks"
-         widget: "list"
-         fields: 
-            - name: "type"
-              widget: "select"
-              options:
-                - {label: "N/A"}
-                - {label: "instagram"}
-                - {label: "facebook"}
-                - {label: "twitter"}
-                - {label: "googlemybusiness"}
-                - {label: "googleplus"}
-            - name: "sociallink"
-              widget: "string"}
+      - label: "SocialLinks"
+        name: "sociallinks"
+        widget: "list"
+        fields: 
+           - name: "type"
+             widget: "select"
+             options:
+               - {label: "N/A"}
+               - {label: "instagram"}
+               - {label: "facebook"}
+               - {label: "twitter"}
+               - {label: "googlemybusiness"}
+               - {label: "googleplus"}
+           - name: "sociallink"
+             widget: "string"
       - {label: "Body", name: "body", widget: "markdown", required: false }
