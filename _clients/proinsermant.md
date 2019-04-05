@@ -2,6 +2,8 @@
 layout: post
 name: Proinsermant
 quote: ¡Simplemente geniales!
-logo: /img/blink.gif
+logo: /img/upload/blink.gif
+sociallinks:
+  - twitter.com/proinsermant
 ---
 
