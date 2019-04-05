@@ -3,9 +3,8 @@ backend:
   repo: JaviCepa/supertu-web-netlify
   branch: master
   site_domain: supertu.netlify.com
-  media_folder: "images/uploads"
 
-media_folder: "site/static/img"
+media_folder: "/media"
 public_folder: "/img"
 
 collections:
