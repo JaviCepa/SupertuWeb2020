@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Hacienda del Álamo
+name: Proinsermant
 quote: Simplemente geniales!
+logo: /img/33308.png
 sociallinks:
-  - twitter.com/haciendadelalamo
+  - twitter.com/proinsermant
 ---
-Texto de ejemplo
+
