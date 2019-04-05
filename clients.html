@@ -27,7 +27,7 @@ permalink: /clients/
 					{% for client in site.clients %}
 					<li class="mix Branding">
                       <a href="{{ client.url }}">
-                        <img src=".{{ client.logo }}" alt="">
+                        <img src="{{ media_folder }}{{ client.logo }}" alt="">
                         <div class="overly">
                           <div class="position-center">
                             <h2>{{ client.name }}</h2>
