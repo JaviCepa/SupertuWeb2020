@@ -25,7 +25,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Name", name: "name", widget: "string"}
       - {label: "Quote", name: "quote", widget: "string"}
-      # - {label: "Body", name: "body", widget: "markdown", required: false }
+      - {label: "Logo", name: "logo", widget: image}
       - {label: "SocialLinks", name: "sociallinks", widget: "list", field: {label: SocialLink, name: sociallink, widget: string}}

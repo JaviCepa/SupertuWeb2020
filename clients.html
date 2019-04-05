@@ -17,96 +17,37 @@ permalink: /clients/
     </div>
 </section>
     <!-- Portfolio Start -->
+	
+<!-- {% for client in site.clients %} -->
+<!-- <div class="client-area"> -->
+  <!-- <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a> -->
+  <!-- <p class="post-date">{{ post.date | date_to_long_string }}</p> -->
+  <!-- <p> -->
+    <!-- {{ post.content | strip_html | truncatewords: 50 }} -->
+  <!-- </p> -->
+<!-- </div> -->
+
+	
 <section id="portfolio-work">
     <div class="container">
         <div class="row">
           <div class="col-md-12">
             <div class="block">
-              <div class="portfolio-menu">
-                <ul>
-                    <li class="filter" data-filter="all">Everything</li>
-                    <li class="filter" data-filter=".Branding">Branding</li>
-                    <li class="filter" data-filter=".Websites">Websites</li>
-                    <li class="filter" data-filter=".Graphic">Graphic</li>
-                    <li class="filter" data-filter=".design">design</li>
-                    <li class="filter" data-filter=".Video">Video</li>
-                </ul>
-              </div>
               <div class="portfolio-contant">
                 <ul id="portfolio-contant-active">
-                    <li class="mix Branding">
+					{% for client in site.clients %}
+					<li class="mix Branding">
                       <a href="#">
-                        <img src="{{ site.baseurl }}/img/portfolio/work1.jpg" alt="">
+                        <img src="{{ client.logo }}" alt="">
                         <div class="overly">
                           <div class="position-center">
-                            <h2>Tesla Motors</h2>
-                            <p>Labore et dolore magna aliqua. Ut enim ad </p>
-
+                            <h2>{{ client.name }}</h2>
+                            <p>{{ client.quote }}</p>
                           </div>
                         </div>
                       </a>
-                  </li>
-                  <li class="mix Websites">
-                    <a href="#">
-                      <img src="{{ site.baseurl }}/img/portfolio/work2.jpg" alt="">
-                      <div class="overly">
-                        <div class="position-center">
-                          <h2>Tesla Motors</h2>
-                          <p>Labore et dolore magna aliqua. Ut enim ad </p>
-
-                        </div>
-                      </div>
-                    </a>
-                  </li>
-                  <li class="mix Graphic">
-                    <a href="#">
-                      <img src="{{ site.baseurl }}/img/portfolio/work3.jpg" alt="">
-                      <div class="overly">
-                        <div class="position-center">
-                          <h2>Tesla Motors</h2>
-                          <p>Labore et dolore magna aliqua. Ut enim ad </p>
-
-                        </div>
-                      </div>
-
-                    </a>
-                  </li>
-                  <li class="mix design">
-                    <a href="#">
-                      <img src="{{ site.baseurl }}/img/portfolio/work4.jpg" alt="">
-                      <div class="overly">
-                        <div class="position-center">
-                          <h2>Tesla Motors</h2>
-                          <p>Labore et dolore magna aliqua. Ut enim ad </p>
-
-                        </div>
-                      </div>
-                    </a>
-                  </li>
-                  <li class="mix Video">
-                    <a href="#">
-                      <img src="{{ site.baseurl }}/img/portfolio/work5.jpg" alt="">
-                      <div class="overly">
-                        <div class="position-center">
-                          <h2>Tesla Motors</h2>
-                          <p>Labore et dolore magna aliqua. Ut enim ad </p>
-
-                        </div>
-                      </div>
-                    </a>
-                  </li>
-                  <li class="mix Graphic">
-                    <a href="#">
-                      <img src="{{ site.baseurl }}/img/portfolio/work6.jpg" alt="">
-                      <div class="overly">
-                        <div class="position-center">
-                          <h2>Tesla Motors</h2>
-                          <p>Labore et dolore magna aliqua. Ut enim ad </p>
-
-                        </div>
-                      </div>
-                    </a>
-                  </li>
+					</li>
+					{% endfor %}
                 </ul>
               </div>
             </div>
