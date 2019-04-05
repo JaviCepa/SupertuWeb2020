@@ -17,6 +17,17 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Contenido", name: "body", widget: "markdown"}
+  - name: "service"
+    label: "Servicios"
+    folder: "_services"
+    create: true
+    slug: "{{{year}}-{{month}}-{{day}}-{{slug}}"
+    identifier_field: name
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Nombre", name: "name", widget: "string"}
+      - {label: "Descripción", name: "description", widget: "string"}
+      - {label: "Imagen", name: "image", widget: image}
   - name: "client"
     label: "Clientes"
     folder: "_clients"

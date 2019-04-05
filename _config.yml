@@ -30,6 +30,7 @@ markdown: kramdown
 
 collections:
   - clients
+  - services
 
 # Category descriptions (for archive pages)
 descriptions:
