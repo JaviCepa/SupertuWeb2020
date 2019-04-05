@@ -4,8 +4,8 @@ backend:
   branch: master
   site_domain: supertu.netlify.com
 
-media_folder: "/media"
-public_folder: "/img"
+media_folder: "/img/upload"
+public_folder: "/img/upload"
 
 collections:
   - name: "blogpost"
