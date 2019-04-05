@@ -21,7 +21,7 @@ collections:
     label: "Clientes"
     folder: "_clients"
     create: true
-    slug: "{{slug}}"
+    slug: "{{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Name", name: "name", widget: "string"}
