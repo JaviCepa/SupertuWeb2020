@@ -15,8 +15,8 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Contenido", name: "body", widget: "markdown"}
   - name: "client"
     label: "Clientes"
     folder: "_clients"
@@ -25,6 +25,7 @@ collections:
     identifier_field: name
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Name", name: "name", widget: "string"}
-      - {label: "Quote", name: "quote", widget: "string"}
+      - {label: "Nombre", name: "name", widget: "string"}
+      - {label: "Descripción", name: "description", widget: "string"}
+      - {label: "Cita", name: "quote", widget: "string"}
       - {label: "Logo", name: "logo", widget: image}
