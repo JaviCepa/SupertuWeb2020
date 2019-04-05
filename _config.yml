@@ -21,6 +21,7 @@ url: "https://supertu.netlify.com" # the base hostname & protocol for your site
 baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
+permalink: /:title/
 
 # Build settings
 markdown: kramdown
