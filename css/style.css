@@ -38,11 +38,11 @@
 }
 
 #slider:before {
-    background: linear-gradient(to left, #18bc9c, #7acab1);
+    background: linear-gradient(to left, #7acab1, #18bc9c);
 }
 
 #global-header:before {
-    background: linear-gradient(to left, #18bc9c, #7acab1);
+    background: linear-gradient(to left, #7acab1, #18bc9c);
 }
 
 .btn-call-to-action {
@@ -57,7 +57,7 @@
 }
 
 #global-header {
-    padding: 50px;
+    padding: 50px 0px;
 }
 
 #service .service-item i {
@@ -66,4 +66,8 @@
 
 #service .service-item h4 {
     color: #18bc9c !important;
+}
+
+#global-header .block {
+    padding-left: 0px;
 }
