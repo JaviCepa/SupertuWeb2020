@@ -1,12 +1,12 @@
-- counter: "+21424"
+- counter: 21000
   icon: ion-ios-chatboxes-outline
   text: Tazas de café
-- counter: "+150"
+- counter: 150
   icon: ion-ios-glasses-outline
   text: Cuentas gestionadas
-- counter: +1200"
+- counter: 1200
   icon: ion-ios-compose-outline
   text: Bolígrafos agotados
-- counter: "+80"
+- counter: 81
   icon: ion-heart
   text: Clientes satisfechos

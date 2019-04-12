@@ -36,3 +36,16 @@
 .post-area a:hover {
   color: #0D0017;
 }
+
+#slider:before {
+    background: linear-gradient(to left, #18bc9c, #7acab1);
+}
+
+.btn-call-to-action {
+	background: #18bc9c;
+    font-weight: 600;
+}
+
+#call-to-action:before {
+    background: #126151;
+}
