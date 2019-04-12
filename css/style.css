@@ -37,7 +37,11 @@
   color: #0D0017;
 }
 
-#slider:before #global-header:before {
+#slider:before {
+    background: linear-gradient(to left, #18bc9c, #7acab1);
+}
+
+#global-header:before {
     background: linear-gradient(to left, #18bc9c, #7acab1);
 }
 
@@ -47,7 +51,8 @@
 }
 
 #call-to-action:before {
-    background: #126151;
+    background-color: #126151;
+    color: #ffffff;
 }
 
 #global-header {
