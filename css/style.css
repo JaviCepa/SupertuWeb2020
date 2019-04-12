@@ -46,7 +46,8 @@
 }
 
 .btn-call-to-action {
-	background: #18bc9c;
+	color: #ffffff !important;
+	background: #18bc9c !important;
     font-weight: 600;
 }
 
@@ -57,4 +58,12 @@
 
 #global-header {
     padding: 50px;
+}
+
+#service .service-item i {
+    color: #7acab1 !important;
+}
+
+#service .service-item h4 {
+    color: #18bc9c !important;
 }
