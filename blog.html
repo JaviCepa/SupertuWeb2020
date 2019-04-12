@@ -16,13 +16,11 @@ permalink: /blog/
   </div>
 </section>
 {% for post in site.posts %}
-<a href="{{ post.url | prepend: site.baseurl }}" class="bold">
-<div class="post-area">
-  {{ post.title }}
+<div class="post-area" style="cursor: pointer;" onclick="window.location='{{ post.url | prepend: site.baseurl }}';">
+  <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>
   <p class="post-date">{{ post.date | date_to_long_string }}</p>
   <p>
     {{ post.content | strip_html | truncatewords: 50 }}
   </p>
 </div>
-</a>
 {% endfor %}
