@@ -9,8 +9,8 @@ permalink: /clients/
         <div class="row">
             <div class="col-md-12">
                 <div class="block">
-                    <h1>Just some of our latest projects.</h1>
-                    <p>Don’t just take our word for it. Check out some of our latest work.</p>
+                    <h1>El mejor equipo</h1>
+                    <p>La mejor garantía</p>
                 </div>
             </div>
         </div>
@@ -24,17 +24,15 @@ permalink: /clients/
             <div class="block">
               <div class="portfolio-contant">
                 <ul id="portfolio-contant-active">
-					{% for client in site.clients %}
+					{% for teammember in site.team %}
 					<li class="mix Branding">
-                      <a href="{{ client.url }}">
-                        <img src="{{ media_folder }}{{ client.logo }}" alt="">
-                        <div class="overly">
-                          <div class="position-center">
-                            <h2>{{ client.name }}</h2>
-                            <p>{{ client.quote }}</p>
-                          </div>
-                        </div>
-                      </a>
+						<img src="{{ media_folder }}{{ teammember.image }}" alt="">
+						<div class="overly">
+						  <div class="position-center">
+							<h2>{{ teammember.name }}</h2>
+							<p>{{ teammember.quote }}</p>
+						  </div>
+						</div>
 					</li>
 					{% endfor %}
                 </ul>

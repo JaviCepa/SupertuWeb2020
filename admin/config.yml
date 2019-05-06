@@ -18,9 +18,9 @@ collections:
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Contenido", name: "body", widget: "markdown"}
       - {label: "SEO Description", name: "description", widget: "string"}
-  - name: "client"
-    label: "Clientes"
-    folder: "_clients"
+  - name: "teammember"
+    label: "Equipo"
+    folder: "_team"
     create: true
     slug: "{{{year}}-{{month}}-{{day}}-{{slug}}"
     identifier_field: name
@@ -29,4 +29,4 @@ collections:
       - {label: "Nombre", name: "name", widget: "string"}
       - {label: "Descripción", name: "description", widget: "string"}
       - {label: "Cita", name: "quote", widget: "string"}
-      - {label: "Logo", name: "logo", widget: image}
+      - {label: "Imagen", name: "image", widget: image}
