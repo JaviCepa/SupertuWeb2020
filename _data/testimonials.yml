@@ -1,16 +1,16 @@
-- name: Rose Ray
-  title: CEO-Themefisher
-  testimonial: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray sr.
-  title: CEO-Themefisher
-  testimonial: "An e-commerce site was created by this company with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray jr.
-  title: CEO-Themefisher
-  testimonial: "With the tools to make our business a success, this company created an e-commerce site, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray III
-  title: CEO-Themefisher
-  testimonial: "We feel that our site has unique elements that make us stand out from the crowd. This company created an e-commerce site with the tools to make our business a success, with innovative ideas."
-  image: img/item-img1.jpg
+- name: Carlos Sepúlveda
+  title: CEO-Proinsermant
+  testimonial: "Con Súper Tu tenemos la buena onda y cercanía esenciales para transmitir los valores de la empresa."
+  image: img/testimonials/proinsermant.jpg
+- name: Miguel Barrionuevo
+  title: Gerente-Hacienda del Álamo
+  testimonial: "Super Tú lleva nuestras RRSS con inmenso corazón y pasión. Y no sólo lo digo yo, también lo dicen los resultados."
+  image: img/testimonials/miguel.jpg
+- name: Claudia Cano
+  title: Directora-Schmidt Vélez-Málaga 
+  testimonial: "Desde que os conocí no habéis dejado de sorprenderme. Gran equipo de profesionales y buenisimas personas."
+  image: img/testimonials/claudia.jpg
+- name: Andrés Vega
+  title: CEO-Andyko
+  testimonial: "Si al conocimiento, profesionalidad y constancia; le sumas pasión y una sonrisa enorme, has definido al equipo de Súper Tú."
+  image: img/testimonials/andres.jpg
