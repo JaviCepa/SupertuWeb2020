@@ -17,7 +17,7 @@ permalink: /blog/
 </section>
 {% for post in site.posts %}
 <div class="post-entry" style="cursor: pointer;" onclick="window.location='{{ post.url | prepend: site.baseurl }}';">
-  <div style="display: block; font-weight: 500; float: left; background: url({{ media_folder }}{{ page.image }}); height: 100%; width: 200px;"></div>
+  <div style="display: block; font-weight: 500; float: left; background: url({{ media_folder }}{{ post.image }}); height: 100%; width: 200px;"></div>
   <div style="display: block; font-weight: 500; width: 20px;"></div>
   <div style="display: block; font-weight: 500;">
 	  <h2>
