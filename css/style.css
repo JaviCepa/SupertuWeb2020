@@ -88,6 +88,6 @@ body {
 
 #footer {
     width: 100%;
-	position: absolute !important;
+	position: relative !important;
 	bottom: 0 !important;
 }
