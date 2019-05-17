@@ -5,6 +5,8 @@ description: >-
   social media, redes sociales, agencia de marketing, clientes, agencias,
   publicidad, marketing, málaga
 ---
+![](/img/upload/giphy.gif)
+
 Iniciar un negocio no es fácil, todavía recuerdo mis primeros esfuerzos para conseguir clientes y sudar la gota gorda cuando uno, dos o ¡incluso 3! llegaron a caerse el mismo día. Imagino que esto hace que cuando se presenta un cliente inoportuno, difícil y poco respetuoso, yo tienda a apretar los dientes y aguantar como si se me fuera la vida en ello.
 
 ERROR
