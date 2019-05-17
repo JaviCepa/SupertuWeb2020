@@ -19,7 +19,7 @@ permalink: /blog/
 <div class="post-entry" style="cursor: pointer;" onclick="window.location='{{ post.url | prepend: site.baseurl }}';">
 	<div class="container">
 	  <div class="row" style="position: relative;">
-		<div class="col-sm-12 col-md-6" style="position: relative; background: url({{ media_folder }}{{ post.image }}); border-radius: 10px; background-position: center; background-size: cover;"></div>
+		<div class="col-sm-12 col-md-6" style="position: relative; background: url({{ media_folder }}{{ post.image }}); border-radius: 10px; background-position: center; background-size: cover; min-height: 250px;"></div>
 		<div class="col-sm-12 col-md-6" style="position: relative;">
 			<h2>
 			{{ post.title }}
