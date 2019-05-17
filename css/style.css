@@ -33,6 +33,11 @@ body {
   border-bottom: 1px dotted #ddd;
 }
 
+.post-entry
+{
+	padding: 40px;
+}
+
 .post-area a:link, .post-area a:visited {
   font-size: 30px;
   color: #333;
