@@ -17,18 +17,21 @@ permalink: /blog/
 </section>
 {% for post in site.posts %}
 <div class="post-entry" style="cursor: pointer;" onclick="window.location='{{ post.url | prepend: site.baseurl }}';">
-  <div style="display: block; font-weight: 500; float: left; background: url({{ media_folder }}{{ post.image }}); height: 177px; width: 270px; border-radius: 10px;"></div>
-  <div style="display: block; font-weight: 500; float: left; width: 20px; height: 177px;"></div>
-  <div style="display: block; font-weight: 500;">
-	  <h2>
+  <div class="container">
+    <div class="row">
+		<div style="display: block; font-weight: 500; float: left; background: url({{ media_folder }}{{ post.image }}); height: 177px; width: 270px; border-radius: 10px;"></div>
+	</div>
+	<div class="row">
+		<h2>
 	    {{ post.title }}
 	  </h2>
 	  <h3>
-	  <p class="post-date">{{ post.date | date_to_long_string }}</p>
+	  <p class="post-date">{{post.author}} - {{ post.date | date_to_long_string }}</p>
 	  </h3>
 	  <p>
 		{{ post.content | strip_html | truncatewords: 50 }}
 	  </p>
+	</div>
   </div>
 </div>
 {% endfor %}
