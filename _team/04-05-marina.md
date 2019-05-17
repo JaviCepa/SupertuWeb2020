@@ -3,7 +3,7 @@ layout: post
 name: Marina Aneas
 quote: "Lorem ipsum dolor sit amet"
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  Profesional de marketing digital, en concreto, apasionada por las redes sociales. Soy una charlatana innata. Por eso, la comunicación siempre ha sido y será parte de mi vida. Constancia y mucho cariño definen muy bien mi entorno de trabajo. ¿Mi lema? ¡PRODUCIR PRODUCIR PRODUCIR!
 image: /img/team/member-marina.jpg
 ---
 

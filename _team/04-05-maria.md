@@ -3,7 +3,7 @@ layout: post
 name: María Araujo
 quote: "Lorem ipsum dolor sit amet"
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  Fanática del Marketing Digital. Estoy especializada en Social Media Management, aunque siempre me gusta estar en constante aprendizaje y descubrir nuevas áreas. El regaliz es una de las bases de mi dieta en Supertú y estoy aquí por los afterwork. 
 image: /img/team/member-maria.jpg
 ---
 
