@@ -511,7 +511,9 @@ font header .navbar-default .navbar-nav li a:hover {
   bottom: 0;
   right: 0;
   left: 0;
-  background: rgba(0, 0, 0, 0.9);
+  color: white;
+  background: rgba(119, 201, 179, 0.8);
+  text-shadow: 3px 3px 6px #6b6b6b;
   opacity: 0;
   -webkit-transition: .3s all;
   -o-transition: .3s all;
