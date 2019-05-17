@@ -17,9 +17,9 @@ permalink: /blog/
 </section>
 {% for post in site.posts %}
 <div class="post-area" style="cursor: pointer;" onclick="window.location='{{ post.url | prepend: site.baseurl }}';">
-  <div style="float: left; background: url({{ post.url | prepend: site.baseurl }}); height: 100%; width: 200px;"></div>
-  <div style="width: 20px;></<div>>
-  <div>
+  <div style="display: block; float: left; background: url({{ post.url | prepend: site.baseurl }}); height: 100%; width: 200px;"></div>
+  <div style="display: block; width: 20px;"></div>
+  <div style="display: block;>
 	  <a href="" class="bold">{{ post.title }}</a>
 	  <p class="post-date">{{ post.date | date_to_long_string }}</p>
 	  <p>
