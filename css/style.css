@@ -38,9 +38,9 @@ body {
 	padding: 40px;
 }
 
-.post-area a:link, .post-area a:visited {
+.post-entry a:link, .post-area a:visited {
   font-size: 30px;
-  color: #333;
+  color: rgba(3, 92, 103, 0.8);
 }
 
 .post-area a:hover {
