@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teammember
 name: María Araujo
 quote: "Lorem ipsum dolor sit amet"
 description: >-
