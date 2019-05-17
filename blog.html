@@ -16,12 +16,16 @@ permalink: /blog/
   </div>
 </section>
 {% for post in site.posts %}
-<div class="post-area" style="cursor: pointer;" onclick="window.location='{{ post.url | prepend: site.baseurl }}';">
-  <div style="display: block; float: left; background: url({{ post.url | prepend: site.baseurl }}); height: 100%; width: 200px;"></div>
-  <div style="display: block; width: 20px;"></div>
-  <div style="display: block;>
-	  <a href="" class="bold">{{ post.title }}</a>
+<div class="post-entry" style="cursor: pointer;" onclick="window.location='{{ post.url | prepend: site.baseurl }}';">
+  <div style="display: block; font-weight: 500; float: left; background: url({{ post.url | prepend: site.baseurl }}); height: 100%; width: 200px;"></div>
+  <div style="display: block; font-weight: 500; width: 20px;"></div>
+  <div style="display: block; font-weight: 500;>
+	  <h2>
+	    <a href="" class="bold">{{ post.title }}</a>
+	  </h2>
+	  <h3>
 	  <p class="post-date">{{ post.date | date_to_long_string }}</p>
+	  </h3>
 	  <p>
 		{{ post.content | strip_html | truncatewords: 50 }}
 	  </p>
