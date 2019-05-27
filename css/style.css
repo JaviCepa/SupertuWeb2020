@@ -51,6 +51,10 @@ body {
 	background: linear-gradient(to left, rgba(3, 92, 103, 1), rgb(138, 199, 206));
 }
 
+#slider {
+	padding: 50px;
+}
+
 #global-header:before {
     background: linear-gradient(to left, rgba(3, 92, 103, 1), rgb(138, 199, 206));
 }
@@ -84,6 +88,13 @@ body {
 
 #intro {
     padding: 30px 0;
+}
+
+header {
+	position: fixed;
+    top: 0;
+    z-index: 100;
+    width: 100%;
 }
 
 #footer {
