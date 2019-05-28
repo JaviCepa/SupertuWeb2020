@@ -2,7 +2,7 @@
 layout: post
 title: '¡Vuela cliente, vuela! '
 author: Espe Olea
-image: /img/upload/captura-de-pantalla-2019-03-25-a-las-19.18.44.png
+image: /img/upload/266.jpg
 description: >-
   social media, redes sociales, agencia de marketing, clientes, agencias,
   publicidad, marketing, málaga
