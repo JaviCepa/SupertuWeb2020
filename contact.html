@@ -22,7 +22,7 @@ permalink: /contact/
     <div class="row">
       <div class="col-md-6 col-sm-12">
         <div class="block">
-          <form>
+          <form id="contact-form" name="contact" data-netlify="true">
             <div class="form-group">
               <input name="nombre" type="text" class="form-control" placeholder="Tu nombre" form="contact-form">
             </div>
@@ -32,17 +32,16 @@ permalink: /contact/
             <div class="form-group">
               <input name="asunto" type="text" class="form-control" placeholder="Asunto" form="contact-form">
             </div>
+			<div class="form-group-2">
+              <textarea name="mensaje" class="form-control" rows="3" placeholder="Mensaje"></textarea>
+            </div>
+            <button class="btn btn-default" type="submit">Enviar mensaje</button>
           </form>
         </div>
       </div>
       <div class="col-md-6 col-sm-12">
         <div class="block">
-          <form id="contact-form" name="contact" data-netlify="true">
-            <div class="form-group-2">
-              <textarea name="mensaje" class="form-control" rows="3" placeholder="Mensaje"></textarea>
-            </div>
-            <button class="btn btn-default" type="submit">Enviar mensaje</button>
-          </form>
+          <img src="img/contact.jpg" alt="Img" style="padding-top: 50px;">
         </div>
       </div>
     </div>
