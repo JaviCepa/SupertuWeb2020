@@ -23,10 +23,13 @@ permalink: /blog/
 		<div class="col-sm-12 col-md-6" style="position: relative;">
 			<h2>
 			{{ post.title }}
-		  </h2>
-		  <h3>
-		  <p class="post-date">{{post.author}} - {{ post.date | date_to_long_string }}</p>
-		  </h3>
+			</h2>
+			<h3>
+			{{ post.subtitle }}
+			</h3>
+		  <i>
+			<p class="post-date">{{post.author}} - {{ post.date | date_to_long_string }}</p>
+		  </i>
 		  <p>
 			{{ post.content | strip_html | truncatewords: 50 }}
 		  </p>

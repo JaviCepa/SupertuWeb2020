@@ -1,6 +1,7 @@
 ---
 layout: post
 title: '¡Vuela cliente, vuela! '
+subtitle: La importancia de saber decir no
 author: Espe Olea
 image: /img/upload/266.jpg
 description: >-
