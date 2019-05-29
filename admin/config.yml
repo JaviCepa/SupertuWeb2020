@@ -33,3 +33,12 @@ collections:
       - {label: "Descripción", name: "description", widget: "string"}
       - {label: "Cita", name: "quote", widget: "string"}
       - {label: "Imagen", name: "image", widget: image}
+  - name: "client"
+    label: "Clientes"
+    folder: "_clients"
+    create: true
+    slug: "{{{year}}-{{month}}-{{day}}-{{slug}}"
+    identifier_field: name
+    fields:
+      - {label: "Nombre", name: "name", widget: "string"}
+      - {label: "Imagen", name: "image", widget: image}
