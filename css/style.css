@@ -131,6 +131,7 @@ ul.share-buttons .sr-only{
 	height: 100px;
     z-index: 100;
 	background-image: linear-gradient(#FFFFFF00, white);
+	pointer-events: none;
 }
 
 .social-buttons a {
