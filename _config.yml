@@ -30,11 +30,9 @@ markdown: kramdown
 # ga_tracking_id: "UA-XXXX-1"
 
 collections:
-  team:
-      output: true
-      permalink: /:collection/:name
-  services
-  clients
+  - team
+  - services
+  - clients
 
 # Category descriptions (for archive pages)
 descriptions:
