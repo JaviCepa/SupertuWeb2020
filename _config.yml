@@ -30,7 +30,9 @@ markdown: kramdown
 # ga_tracking_id: "UA-XXXX-1"
 
 collections:
-  - team
+  - team:
+    output: true
+    permalink: /:collection/:name
   - services
   - clients
 
@@ -43,3 +45,4 @@ descriptions:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+ 
