@@ -31,6 +31,8 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Nombre", name: "name", widget: "string"}
       - {label: "Descripción", name: "description", widget: "string"}
+      - {label: "Teléfono", name: "telephone", widget: "string"}
+      - {label: "Cargo", name: "position", widget: "string"}
       - {label: "Cita", name: "quote", widget: "string"}
       - {label: "Imagen", name: "image", widget: image}
   - name: "client"
