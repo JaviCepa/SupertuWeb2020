@@ -1,8 +1,8 @@
 ---
 layout: teammember
 name: Marta Hernández
-position: -
-telephone: -
+position: TBD
+telephone: TBD
 quote: "Lorem ipsum dolor sit amet"
 description: >-
   Social Media Manager especializada en transcreación y traducción de contenidos español-inglés.
