@@ -34,6 +34,7 @@ collections:
       - {label: "Teléfono", name: "telephone", widget: "string"}
       - {label: "Cargo", name: "position", widget: "string"}
       - {label: "Cita", name: "quote", widget: "string"}
+      - {label: "Orden", name: "order", widget: "hidden"}
       - {label: "Imagen", name: "image", widget: "image"}
   - name: "client"
     label: "Clientes"

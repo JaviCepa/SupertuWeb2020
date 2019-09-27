@@ -19,7 +19,8 @@ permalink: /team/
 
 <section id="portfolio-work" style="padding-top: 40px;">
     <div class="container">
-		{% for teammember in site.team %}
+		{% assign sorted_team = site.team | sort:"order" %}
+		{% for teammember in sorted_team %}
         <div class="row" style="cursor: pointer;" onclick="window.location='{{ teammember.url | prepend: site.baseurl }}';">
           <div class="col-md-4">
             <div class="block">
