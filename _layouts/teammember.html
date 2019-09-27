@@ -9,12 +9,12 @@ layout: teammember
 <table class="mainFrame" >
  <tbody>
  <tr>
-  <td class="Celda" valign="top" width="35%">
+  <td class="Celda" valign="top" width="70%">
    <span class="name" >{{ page.name }}<span><br></span></span>
    <span class="position">{{ page.position }}<span><br></span></span>
-  </td>
-  <td class="Celda" valign="top" width="35%">
-   <span class="telefono"><strong>T.: {{ page.telephone }}</strong><span><br></span></span>
+
+
+   <span class="telefono"><strong><a href="tel:{{ page.telephone }}">T.: <{{ page.telephone }}</a></strong><span><br></span></span>
    <span class="Direccion">Av. Jane Bowles, s/n, 29011, <strong>Málaga</strong><span><br></span></span>
   </td>
   <td>
@@ -47,12 +47,12 @@ layout: teammember
 
 
 <style>
- .center{
+ .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
-
  }
+
  .basic{
   font-size:10pt;
   font-family:Verdana, Helvetica, sans-serif;
