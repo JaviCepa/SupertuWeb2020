@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teammember
 name: Kiwi
 description: Whippetito flatulento
 telephone: 618 887 993
