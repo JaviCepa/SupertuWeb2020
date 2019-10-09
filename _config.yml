@@ -14,8 +14,9 @@ keep_files:
 
 
 # Site settings
-title: Súper Tú
+title: Supertú | Tu agencia de redes sociales
 subtitle: "Hacemos de tu marca una súper marca"
+description: Agencia de redes sociales en Málaga con más de 10 años de experiencia en marketing digital y comunicación. ¿Quieres convertirte en una supermarca?
 url: "https://supertu.netlify.com" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""
