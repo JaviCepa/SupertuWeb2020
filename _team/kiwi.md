@@ -1,7 +1,7 @@
 ---
 layout: teammember
 name: Kiwi
-description: Whippetito adorable
+description: 'Cojín mullido y suave de 4 patas. '
 telephone: 618 887 993
 position: Perro
 quote: Soñador
