@@ -1,11 +1,11 @@
 ---
 layout: teammember
 name: Kiwi
-description: Whippetito flatulento
+description: Whippetito adorable
 telephone: 618 887 993
 position: Perro
+quote: Soñador
 order: 9
-quote: Lorem ipsum
 image: /img/upload/kiwi.jpg
 ---
 
