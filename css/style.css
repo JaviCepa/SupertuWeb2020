@@ -144,3 +144,18 @@ ul.share-buttons .sr-only{
 	height: 100%;
     padding-top: 32px;
 }
+
+.Branding {
+  animation: createBox 1s;
+}
+
+@keyframes createBox {
+  from {
+    transform: scale(0);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}

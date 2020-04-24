@@ -1,4 +1,6 @@
 
+site: SuperTu
+
 exclude:
   - "/vendor/"
   - "Gemfile"
