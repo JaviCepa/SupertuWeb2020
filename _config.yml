@@ -50,3 +50,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
  
+google_analytics: UA-51594905-1
