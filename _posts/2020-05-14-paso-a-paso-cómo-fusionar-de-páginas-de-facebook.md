@@ -5,7 +5,7 @@ subtitle: "En la agencia nos hemos encontrado de todo a lo largo de los años:
   clientes que no saben si tienes perfil en Facebook, otros que tienen perfil de
   persona para su empresa, el clásico de perder los accesos o, incluso, empresas
   que tienen varios perfiles creados."
-author: Marina Supertú
+author: Marina Aneas
 image: /img/upload/fusionar.png
 description: como fusionar dos paginas de facebook
 ---
