@@ -6,7 +6,7 @@ subtitle: "En la agencia nos hemos encontrado de todo a lo largo de los años:
   persona para su empresa, el clásico de perder los accesos o, incluso, empresas
   que tienen varios perfiles creados."
 author: Marina Aneas
-image: /img/upload/fusionar.png
+image: /img/upload/¿quieres.png
 description: como fusionar dos paginas de facebook
 ---
 Hoy queremos hablarte de éste último caso:“Tengo varios perfiles para la misma empresa y me gustaría unirlos”
