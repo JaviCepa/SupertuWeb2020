@@ -9,9 +9,9 @@ author: Marina Aneas
 image: /img/upload/¿quieres.png
 description: como fusionar dos paginas de facebook
 ---
-Hoy queremos hablarte de éste último caso:“Tengo varios perfiles para la misma empresa y me gustaría unirlos”
+Hoy queremos hablarte de éste último caso: “Tengo varios perfiles para la misma empresa y me gustaría unirlos”
 
-## Es muy importante que la imagen que proyectamos en las redes sociales sea la que queremos dar y, a veces, por desconocimiento o falta de tiempo dejamos de prestarle atención y la reputación en la plataforma empieza a deteriorarse. Tener dos páginas para la misma empresa es un claro ejemplo de poca dedicación a esta potente vía de comunicación.
+### Es muy importante que la imagen que proyectamos en las redes sociales sea la que queremos dar y, a veces, por desconocimiento o falta de tiempo dejamos de prestarle atención y la reputación en la plataforma empieza a deteriorarse. Tener dos páginas para la misma empresa es un claro ejemplo de poca dedicación a esta potente vía de comunicación.
 
 ¿Te ha pasado? ¡No te preocupes! Facebook nos deja fusionar dos páginas de su plataforma para aunar seguidores, publicaciones o contenido multimedia y poder encarrilar nuestras redes sociales. Hoy te enseñamos paso a paso cómo fusionar dos páginas de Facebook.
 
@@ -24,7 +24,7 @@ Empezaremos hablando de los criterios básicos que debes cumplir para que Facebo
 
 Si no cumples con estos requisitos, siempre puedes hacer estos cambios y luego fusionarlas
 
-## Una vez hemos conseguido reunir todos los requisitos, tendremos que pinchar en este enlace: [Fusionar dos páginas de Facebook](https://www.facebook.com/pages/merge/)
+### Una vez hemos conseguido reunir todos los requisitos, tendremos que pinchar en este enlace: [Fusionar dos páginas de Facebook](https://www.facebook.com/pages/merge/)
 
 EMPEZAMOS
 
