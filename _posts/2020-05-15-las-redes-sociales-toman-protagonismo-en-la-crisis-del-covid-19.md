@@ -6,9 +6,7 @@ author: María Araujo
 image: /img/upload/supertu-blog.png
 description: Las redes sociales toman protagonismo en la crisis del COVID-19
 ---
-Las redes sociales toman protagonismo en la crisis del COVID-19
-
-Con la llegada de esta nueva situación, inesperada para todos, las redes sociales han tomado un peso muy importante en la comunicación de nuestro negocio.
+Con la llegada de esta nueva situación, inesperada para todos, **las redes sociales han tomado un peso muy importante en la comunicación de nuestro negocio.**
 
 Gran parte de las empresas se han visto obligadas a echar el cierre de manera momentánea. Muchas de ellas son empresas locales o autónomos que nunca habían valorado la idea de comunicarse a través de las redes sociales para llegar a más personas.
 
