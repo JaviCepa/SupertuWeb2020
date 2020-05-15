@@ -6,7 +6,7 @@ author: María Araujo
 image: /img/upload/crear-optimizar-pagina-facebook.png
 description: Cómo crear y optimizar una página de Facebook para tu empresa
 ---
-En este artículo queremos enseñarte a **crear una página de Facebook para tu negocio** para que puedas comunicar todas tus novedades en ella.
+En este artículo queremos enseñarte a **crear una página de Facebook para tu negocio** para que puedas comunicar todas tus novedades en ella. 
 
 En primer lugar, es muy importante **diferenciar entre página y perfil**. Los perfiles de Facebook están destinados a personas y las páginas a empresas; por lo tanto, nunca debes crear un perfil para tu empresa ya que corres el riesgo de que Facebook te la elimine.
 
