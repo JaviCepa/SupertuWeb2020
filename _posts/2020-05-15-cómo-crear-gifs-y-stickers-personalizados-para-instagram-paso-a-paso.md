@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cómo crear gifs y stickers personalizados para Instagram - Paso a paso
+title: Cómo crear stickers personalizados para Instagram - Paso a paso
 subtitle: Crea stories únicos
 author: Marina Aneas
 image: /img/upload/fusionar-1-.png
