@@ -3,7 +3,7 @@ layout: post
 title: Las redes sociales toman protagonismo en la crisis del COVID-19
 subtitle: Eleva tu negocio al mundo digital
 author: María Araujo
-image: /img/upload/redes-sociales-coronavirus.png
+image: /img/upload/supertu-blog.png
 description: Las redes sociales toman protagonismo en la crisis del COVID-19
 ---
 Las redes sociales toman protagonismo en la crisis del COVID-19
