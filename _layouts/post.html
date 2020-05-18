@@ -7,20 +7,21 @@ layout: page
 
   <!-- Wrapper Start -->
   <section id="intro" style="border: 1px dotted #ddd;">
-    <div class="container" style="width: 670px;">
+    <div class="container">
       <div class="row">
-        <div>
+        <div class="col-md-2"></div>
+        <div class="col-md-8 col-sm-12">
           <div class="block">
             <h1 style="color: #045e66;">{{ page.title }}</h1>
-			<br/>
-			<h4 style="color: #71979a;"><i>{{ page.subtitle }}</i></h4>
+			      <br/>
+			      <h4 style="color: #71979a;"><i>{{ page.subtitle }}</i></h4>
             <div class="post-info-wrapper">
               <p class="italic">Por <span class="bold">{{ page.author }}</span> - <span class="bold">{{ page.date | date: "%B %-d, %Y" }}</span></p>
             </div>
-			<hr />
+			      <hr />
             {{ content }}
           </div>
-        </div><!-- .col-md-7 close -->
+        </div>
       </div>
     </div>
   </section>
