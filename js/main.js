@@ -2,9 +2,9 @@ $(document).ready(function(){
 	'use strict';
 
 	$("#testimonial-slider").owlCarousel({
-		paginationSpeed : 500,      
+		paginationSpeed: 500,
 		singleItem:true,
-		autoPlay: 3000,
+		autoPlay: 5000,
 	});
 
 
@@ -39,7 +39,6 @@ $(document).ready(function(){
         time: 1000
 		});
 		
-
 
 	// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Navigation
 

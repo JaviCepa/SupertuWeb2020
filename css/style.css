@@ -70,6 +70,23 @@ body {
     color: #ffffff;
 }
 
+.privacy-input {
+  display: flex;
+}
+
+.privacy-input input {
+  margin: 0;
+  width: 7%;
+}
+
+.privacy-input p {
+  margin: auto;
+}
+
+.privacy-input p a {
+  color: rgb(138, 199, 206);
+}
+
 #global-header {
     padding: 50px 0px;
 }
