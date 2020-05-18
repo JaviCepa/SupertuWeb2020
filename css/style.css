@@ -100,7 +100,40 @@ header {
 
 #footer {
     width: 100%;
+    padding-bottom: 56px;
 }
+
+#footer .row {
+  display: flex;
+}
+
+@media ( max-width : 767px) {
+	#footer .row {
+    display: block;
+  }
+}
+
+#footer .row .col {
+  margin: auto;
+}
+
+#footer .nav {
+  float: none !important;
+}
+
+#footer .nav li {
+  display: block;
+  float: none;
+  text-align: center;
+  margin: auto;
+}
+
+#footer p,
+#footer img,
+#footer ul {
+  padding-bottom: 24px;
+}
+
 
 ul.share-buttons{
   list-style: none;

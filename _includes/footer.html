@@ -2,12 +2,21 @@
 <footer id="footer">
   <div class="container">
     <div class="row">
-      <div class="col-md-12">
-        <div class="footer-manu">
-          <!-- {% include social-buttons.html %} -->
-        </div>
-        <p>Supertú S.L. &copy; 2019 - All rights reserved.</p>
+      <div class="col col-md-4 col-sm-12 col-xs-12">
+        {% include addressblock.html %}
+      </div>
+      <div class="col col-md-4 col-sm-12 col-xs-12">
+        <img src="{{ site.baseurl }}/img/logo_footer.png" alt="Logo">
+        <p>Hacemos de tu marca una supermarca en redes sociales. Convertimos a tus seguidores en clientes.</p>
+      </div>
+      <div class="col col-md-4 col-sm-12 col-xs-12">
+        {% include navbar.html %}
       </div>
     </div>
+    <div class="row">
+      <div class="col-md-12">
+        <p>Supertú S.L. &copy; 2019 - All rights reserved.</p>
+      </div>
+  </div>
   </div>
 </footer>
