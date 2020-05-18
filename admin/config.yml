@@ -45,8 +45,8 @@ collections:
     fields:
       - {label: "Nombre", name: "name", widget: "string"}
       - {label: "Logo", name: "logo", widget: image}
-      - {label: "Descripción", name: "description", widget: "string", default: ""}
-      - {label: "Instagram", name: "instagram", widget: "string", default: ""}
-      - {label: "Twitter", name: "twitter", widget: "string", default: ""}
-      - {label: "Facebook", name: "facebook", widget: "string", default: ""}
-      - {label: "LinkedIn", name: "linkedin", widget: "string", default: ""}
+      - {label: "Descripción", name: "description", widget: "string", required: false}
+      - {label: "Instagram", name: "instagram", widget: "string", required: false}
+      - {label: "Twitter", name: "twitter", widget: "string", required: false}
+      - {label: "Facebook", name: "facebook", widget: "string", required: false}
+      - {label: "LinkedIn", name: "linkedin", widget: "string", required: false}
