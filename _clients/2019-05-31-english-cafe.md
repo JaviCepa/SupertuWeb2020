@@ -1,9 +1,9 @@
 ---
-name: English cafe
-logo: /img/upload/englishcafe.jpg
+name: Agrosarmiento
+logo: /img/upload/logos-web.png
 description: ""
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: https://www.instagram.com/agrosarmientoes/
+twitter: https://twitter.com/agrosarmientoES
+facebook: https://www.facebook.com/agrosarmientoes
 linkedin: ""
 ---
