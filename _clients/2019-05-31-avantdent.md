@@ -1,10 +1,9 @@
 ---
 name: Avantdent
 logo: /img/upload/avantdent.png
-description: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard the
-instagram:
-facebook:
-twitter:
-linkedin:
+description: ""
+instagram: null
+twitter: null
+facebook: null
+linkedin: null
 ---
-
