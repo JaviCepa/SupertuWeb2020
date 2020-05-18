@@ -1,12 +1,11 @@
 ---
 layout: post
-title: '¡Vuela cliente, vuela! '
+title: "¡Vuela cliente, vuela! "
 subtitle: La importancia de saber decir NO
 author: Espe Olea
-image: /img/upload/266.jpg
-description: >-
-  social media, redes sociales, agencia de marketing, clientes, agencias,
-  publicidad, marketing, málaga
+image: /img/upload/saber-decir-no.png
+description: social media, redes sociales, agencia de marketing, clientes,
+  agencias, publicidad, marketing, málaga
 ---
 ¿Angustia, estrés y un alto nivel de sudoración cada vez que tu cliente te llama? 
 
