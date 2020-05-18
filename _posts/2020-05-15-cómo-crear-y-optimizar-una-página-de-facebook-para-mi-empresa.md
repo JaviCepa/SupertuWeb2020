@@ -34,7 +34,7 @@ Este es el apartado de ‘Información’ de nuestra página. Además, de crear 
 
 Dedícale unos minutos para rellenar al máximo esta pestaña.
 
-Siguiente paso: completar el CTA de nuestra página. ¿Conoces este término? CTA significa Call To Action (Llamada a la acción) y consiste en el botón azul que aparece en nuestra página de Facebook (te lo indicamos en la siguiente imagen).
+Siguiente paso: **completar el CTA de nuestra página**. ¿Conoces este término? CTA significa *Call To Action* (Llamada a la acción) y consiste en el botón azul que aparece en nuestra página de Facebook (te lo indicamos en la siguiente imagen).
 
 ![optimizar-pagina-facebook-2](https://lh6.googleusercontent.com/6ulnheA7RTMtfUhIswuUP63E-HIfYLZ66rX01nQCtlm90rAw0I3P1yye0p8jK5dT9vEDA00OQk-KjEJLde-VX4A_0jnH-cOG_gJ22czIgjSymxpaPTQY8tQ02NebjUzQqfGBJk74)
 
