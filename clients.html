@@ -19,27 +19,47 @@ permalink: /clients/
 
 <section id="portfolio-work">
     <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="block">
-              <div class="portfolio-contant">
-                <ul id="portfolio-contant-active">
-					{% for client in site.clients %}
-					<li class="Branding" style="border-radius: 20px; width:100px;">
-						<img src="{{ media_folder }}{{ client.logo }}" alt="">
-						<div class="overly">
-						  <div class="position-center">
-							<h5>{{ client.name }}</h5>
-							<!-- <p>{{ client.description }}</p> -->
-						  </div>
-						</div>
-					</li>
-					{% endfor %}
-                </ul>
+      <div class="block">
+        <div class="portfolio-contant">
+          <ul id="portfolio-contant-active">
+            {% assign cont = 3 %}
+
+            {% for client in site.clients %}
+              {% assign newRow = cont | modulo:3 %}
+              
+              {% if cont == 3%}
+                <div class="row">
+              {% else %}
+                {% if newRow == 0 %}
+                  </div>
+                  <div class="row">
+                {% endif %}
+              {% endif %}
+              
+              <div class="col-md-4">
+                <li class="client-li">
+                  <img class="client-img" src="{{ media_folder }}{{ client.logo }}" alt="">
+                  {% if client.description != "" %}
+                    <p>{{ client.description }}</p>
+                  {% endif %}
+                  <a href="https://www.instagram.com/somossupertu"><i class="fa fa-instagram"></i></a>
+                  <a href="https://twitter.com/somossupertu"><i class="fa fa-twitter"></i></a>
+                  <a href="https://www.facebook.com/somossupertu"><i class="fa fa-facebook"></i></a>
+                  <a href="https://www.linkedin.com/somossupertu"><i class="fa fa-linkedin"></i></a>
+                  <!-- <div class="overly">
+                    <div class="position-center">
+                    <h5>{{ client.name }}</h5>
+                    <p>{{ client.description }}</p>
+                    </div>
+                  </div> -->
+                </li>
               </div>
-            </div>
-          </div>
+
+              {% assign cont = cont | plus:1 %}
+            {% endfor %}
+          </ul>
         </div>
+      </div>
     </div>
 </section>
 

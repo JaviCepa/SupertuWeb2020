@@ -195,8 +195,27 @@ ul.share-buttons .sr-only{
     padding-top: 32px;
 }
 
-.Branding {
+.client-li {
+  width: 100% !important;
+  margin: auto !important;
+  text-align: center;
+  margin-bottom: 80px !important;
+}
+
+.client-li a {
+  color: #035c67 !important;
+  display: inline-block !important;
+  width: 30px;
+}
+
+.client-li a i {
+  font-size: 20px;
+}
+
+.client-img {
   animation: createBox 1s;
+  width: 100px !important;
+  border-radius: 20px;
 }
 
 @keyframes createBox {
@@ -209,3 +228,4 @@ ul.share-buttons .sr-only{
     opacity: 1;
   }
 }
+

@@ -45,3 +45,8 @@ collections:
     fields:
       - {label: "Nombre", name: "name", widget: "string"}
       - {label: "Logo", name: "logo", widget: image}
+      - {label: "Descripción", name: "description", widget: "string"}
+      - {label: "Instagram", name: "instragram", widget: "string"}
+      - {label: "Twitter", name: "twitter", widget: "string"}
+      - {label: "Facebook", name: "facebook", widget: "string"}
+      - {label: "LinkedIn", name: "linkedin", widget: "string"}
