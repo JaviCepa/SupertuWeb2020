@@ -43,16 +43,16 @@ permalink: /clients/
                     <p>{{ client.description }}</p>
                   {% endif %}
                   {% if client.instagram != "" %}
-                    <a href="https://www.instagram.com/somossupertu"><i class="fa fa-instagram"></i></a>
+                    <a href="{{client.instagram}}"><i class="fa fa-instagram"></i></a>
                   {% endif %}
                   {% if client.twitter != "" %}
-                    <a href="https://twitter.com/somossupertu"><i class="fa fa-twitter"></i></a>
+                    <a href="{{client.twitter}}"><i class="fa fa-twitter"></i></a>
                   {% endif %}
                   {% if client.facebook != "" %}
-                    <a href="https://www.facebook.com/somossupertu"><i class="fa fa-facebook"></i></a>
+                    <a href="{{client.facebook}}"><i class="fa fa-facebook"></i></a>
                   {% endif %}
                   {% if client.linkedin != "" %}
-                    <a href="https://www.linkedin.com/somossupertu"><i class="fa fa-linkedin"></i></a>
+                    <a href="{{client.linkedin}}"><i class="fa fa-linkedin"></i></a>
                   {% endif %}
                   <!-- <div class="overly">
                     <div class="position-center">
