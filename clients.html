@@ -39,19 +39,19 @@ permalink: /clients/
               <div class="col-md-4">
                 <li class="client-li">
                   <img class="client-img" src="{{ media_folder }}{{ client.logo }}" alt="">
-                  {% if client.description != "" %}
+                  {% if client.description and client.description != "" %}
                     <p>{{ client.description }}</p>
                   {% endif %}
-                  {% if client.instagram != "" %}
+                  {% if client.instagram and client.instagram != "" %}
                     <a href="{{client.instagram}}"><i class="fa fa-instagram"></i></a>
                   {% endif %}
-                  {% if client.twitter != "" %}
+                  {% if client.twitter and client.twitter != "" %}
                     <a href="{{client.twitter}}"><i class="fa fa-twitter"></i></a>
                   {% endif %}
-                  {% if client.facebook != "" %}
+                  {% if client.facebook and client.facebook != "" %}
                     <a href="{{client.facebook}}"><i class="fa fa-facebook"></i></a>
                   {% endif %}
-                  {% if client.linkedin != "" %}
+                  {% if client.linkedin and client.linkedin != "" %}
                     <a href="{{client.linkedin}}"><i class="fa fa-linkedin"></i></a>
                   {% endif %}
                   <!-- <div class="overly">
