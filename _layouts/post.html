@@ -9,8 +9,8 @@ layout: page
   <section id="intro" style="border: 1px dotted #ddd;">
     <div class="container">
       <div class="row">
-        <div class="col-md-2"></div>
-        <div class="col-md-8 col-sm-12">
+        <div class="col-md-1"></div>
+        <div class="col-md-7 col-sm-12">
           <div class="block">
             <h1 style="color: #045e66;">{{ page.title }}</h1>
 			      <br/>
@@ -21,6 +21,23 @@ layout: page
 			      <hr />
             {{ content }}
           </div>
+        </div>
+        <div class="col-md-1"></div>
+        <div class="autor col-md-3 col-sm-12">
+          {% assign author_data_list = site.team | where:"name",page.author %}
+          {% assign author_data = author_data_list[0] %}
+          <h1>Autor  </h1>
+          <div style="border-radius: 100%; width: 200px; height: 200px; overflow: hidden;">
+            <img src="{{ author_data.image }}" alt="{{ author_data.name }}" style="position: relative; height: 200px; right: {{ author_data.post_image_offset }}px">
+          </div>
+          <div>
+            <h2>{{ author_data.name }}</h2>
+            {% if author_data.linkedin and author_data.linkedin != "" %}
+              <a href="{{ author_data.linkedin }}"><i class="fa fa-linkedin"></i></a>
+            {% endif %}
+          </div>
+          <h3>{{ author_data.position }}</h3>
+          <!-- Ver más entradas -->
         </div>
       </div>
     </div>

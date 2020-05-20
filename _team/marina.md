@@ -11,5 +11,6 @@ position: Social Media Manager
 quote: Lorem ipsum dolor sit amet
 order: 2
 image: /img/team/member-marina.jpg
+post_image_offset: 75
 ---
 

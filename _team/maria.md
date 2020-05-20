@@ -11,5 +11,7 @@ position: Social Media Manager
 quote: Lorem ipsum dolor sit amet
 order: 3
 image: /img/team/member-maria.jpg
+linkedin: https://es.linkedin.com/in/araujomaria
+post_image_offset: 75
 ---
 

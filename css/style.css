@@ -229,3 +229,33 @@ ul.share-buttons .sr-only{
   }
 }
 
+.post .autor h1 {
+  color: #035c67;
+  border-bottom: 3px solid #035c67;
+  padding-bottom: 5px;
+  font-weight: bold;
+  margin-left: 3rem;
+  padding-right: 2rem;
+  width: min-content;
+}
+
+.post .autor h2 {
+  color: #035c67;
+  font-weight: bold;
+  font-size: 22px;
+  display: inline-block;
+  margin-right: 2rem;
+  margin-bottom: 0;
+}
+
+.post .autor i {
+  display: inline-block;
+  color: #035c67;
+  font-size: 22px;
+}
+
+.post .autor h3 {
+  color: #035c67;
+  font-size: 22px;
+  margin-top: 1rem;
+}

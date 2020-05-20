@@ -12,5 +12,6 @@ position: CEO
 quote: Lorem ipsum dolor sit amet
 order: 1
 image: /img/team/member-espe.jpg
+post_image_offset: 60
 ---
 

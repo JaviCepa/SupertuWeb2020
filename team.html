@@ -21,7 +21,7 @@ permalink: /team/
     <div class="container">
 		{% assign sorted_team = site.team | sort:"order" %}
 		{% for teammember in sorted_team %}
-        <div class="row""> <!-- onclick="window.location='{{ teammember.url | prepend: site.baseurl }}';"> -->
+        <div class="row"> <!-- onclick="window.location='{{ teammember.url | prepend: site.baseurl }}';"> -->
           <div class="col-md-4">
             <div class="block">
 				<img src="{{ teammember.image }}" style="height: 100%; width: 100%;">
