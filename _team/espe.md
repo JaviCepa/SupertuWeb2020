@@ -12,6 +12,7 @@ position: CEO
 quote: Lorem ipsum dolor sit amet
 order: 1
 image: /img/team/member-espe.jpg
+linkedin: https://es.linkedin.com/in/esperanzaolea
 post_image_offset: 60
 ---
 

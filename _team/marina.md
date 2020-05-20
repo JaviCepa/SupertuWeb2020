@@ -11,6 +11,7 @@ position: Social Media Manager
 quote: Lorem ipsum dolor sit amet
 order: 2
 image: /img/team/member-marina.jpg
+linkedin: https://es.linkedin.com/in/marinaaneas
 post_image_offset: 75
 ---
 
