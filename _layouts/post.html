@@ -37,7 +37,7 @@ layout: page
             {% endif %}
           </div>
           <h3>{{ author_data.position }}</h3>
-          <!-- Ver más entradas -->
+          <a class="view_more" href="/author/{{ author_data.name_filter }}/">Ver más entradas</a>
           
           {% assign post_have_tags = page.tags | size %}
           {% if post_have_tags > 0 %}

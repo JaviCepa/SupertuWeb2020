@@ -1,0 +1,21 @@
+---
+layout: page
+---
+<!-- Slider Start -->
+<section id="global-header">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="block">
+            <h1>Creando supermarcas</h1>
+            <p>Posts del autor {{ page.author }}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+</section>
+{% for post in site.posts %}
+    {% if post.author == page.author %}
+        {% include postentry.html %}
+    {% endif %}
+{% endfor %}

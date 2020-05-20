@@ -1,6 +1,7 @@
 ---
 layout: teammember
 name: Marina Aneas
+name_filter: marinaaneas
 description: >-
   Profesional de marketing digital, en concreto, apasionada por las redes
   sociales. Soy una charlatana innata. Por eso, la comunicación siempre ha sido

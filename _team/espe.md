@@ -1,6 +1,7 @@
 ---
 layout: teammember
 name: Espe Olea
+name_filter: espeolea
 description: >-
   Licenciada en Periodismo y especializada en marketing digital por University
   of Berkeley (San Francisco). Supertú es un lugar en el que amamos lo que
