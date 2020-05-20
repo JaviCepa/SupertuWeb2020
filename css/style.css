@@ -229,6 +229,11 @@ ul.share-buttons .sr-only{
   }
 }
 
+.autor {
+  margin: auto;
+  width: max-content;
+}
+
 .post .autor h1 {
   color: #035c67;
   border-bottom: 3px solid #035c67;
