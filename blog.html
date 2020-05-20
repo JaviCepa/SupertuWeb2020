@@ -16,29 +16,7 @@ permalink: /blog/
   </div>
 </section>
 {% for post in site.posts %}
-<div class="post-entry" style="cursor: pointer;" onclick="window.location='{{ post.url | prepend: site.baseurl }}';">
-	<div class="container">
-	  <div class="row" style="position: relative;">
-		<div class="col-sm-12 col-md-6" style="position: relative; min-height: 250px;">
-			<img src="{{ media_folder }}{{ post.image }}" style="max-width: 100%; border-radius: 10px;"/>
-		</div>
-		<div class="col-sm-12 col-md-6" style="position: relative;">
-			<h2 style="color: #2e7980;">
-			{{ post.title }}
-			</h2>
-			<h4 style="color: #8cbcbf;">
-			{{ post.subtitle }}
-			</h4>
-		  <i style="color: #c8cbcc;">
-			<p class="post-date">{{post.author}} - {{ post.date | date_to_long_string }}</p>
-		  </i>
-		  <p>
-			{{ post.content | strip_html | truncatewords: 50 }}
-		  </p>
-		</div>
-	  </div>
-	</div>
-</div>
+	{% include postentry.html %}
 {% endfor %}
 
 <!-- Call to action Start -->

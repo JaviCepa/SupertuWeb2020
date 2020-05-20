@@ -264,3 +264,12 @@ ul.share-buttons .sr-only{
   font-size: 22px;
   margin-top: 1rem;
 }
+
+.post .autor .categorias ul {
+  margin-top: 1rem;
+}
+
+.post .autor .categorias a {
+  color: #035c67;
+  font-size: 16px;
+}

@@ -38,6 +38,18 @@ layout: page
           </div>
           <h3>{{ author_data.position }}</h3>
           <!-- Ver más entradas -->
+          
+          {% assign post_have_tags = page.tags | size %}
+          {% if post_have_tags > 0 %}
+            <div class="categorias">
+              <h2>Categorías</h2>
+              <ul>
+                {% for tag in page.tags %}
+                  <li><a class="post" href="/tag/{{tag}}">{{tag}}</a></li>
+                {% endfor %}
+              </ul>
+            </div>
+          {% endif %}
         </div>
       </div>
     </div>
