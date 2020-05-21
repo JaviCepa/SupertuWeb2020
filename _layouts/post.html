@@ -47,11 +47,47 @@ layout: page
               <h2>Categorías</h2>
               <ul>
                 {% for tag in page.tags %}
-                  <li><a class="post" href="/tag/{{tag}}">{{tag}}</a></li>
+                  <li><a class="post" href="/tag/{{tag | replace: ' ', '-' }}">{{tag}}</a></li>
                 {% endfor %}
               </ul>
             </div>
           {% endif %}
+          
+          <!-- Construímos la lista con los demás tags que están en otros posts pero no en este -->
+
+          <!-- Para cada post de la colección -->
+          {% for post_doc in site.posts %}
+            <!-- Para cada tag de cada post -->
+            {% for other_tag in post_doc.tags %}
+              <!-- Si el tag no está ya en este post ni en la lista de otros tags a pintar -->
+              {% unless page.tags contains other_tag or other_tags contains other_tag %}
+                <!-- La lista está vacía, la inicializamos con liquid -->
+                {% if other_tags %}
+                  {% assign new_tag = other_tag | append: ',' | split: ',' %}
+                  {% assign other_tags = other_tags | concat: new_tag %}
+                <!-- La lista tiene elementos, lo añadimos -->
+                {% else %}
+                  {% assign other_tags = other_tag | append: ',' | split: ',' %}
+                {% endif %}
+              {% endunless %}
+            {% endfor %}
+          {% endfor %}
+
+
+          <!-- Pintamos la lista de los otros tags -->
+          
+          {% assign there_are_other_tags = other_tags | size %}
+          {% if there_are_other_tags > 0 %}
+            <div class="categorias">
+              <h2>Otras categorías</h2>
+              <ul>
+                {% for tag in other_tags %}
+                  <li><a class="post" href="/tag/{{tag | replace: ' ', '-' }}">{{tag}}</a></li>
+                {% endfor %}
+              </ul>
+            </div>
+          {% endif %}
+
         </div>
       </div>
     </div>

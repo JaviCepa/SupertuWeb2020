@@ -5,7 +5,11 @@ module Jekyll
         def generate(site)
             tags = site.posts.docs.flat_map { |post| post.data['tags'] || [] }.to_set
             tags.each do |tag|
-                site.pages << TagPage.new(site, site.source, tag)
+                newTag = tag.dup
+                if newTag.include? " "
+                    newTag[" "] = "-"
+                end
+                site.pages << TagPage.new(site, site.source, newTag)
             end
             
             authors = []
@@ -30,8 +34,14 @@ module Jekyll
 
             self.process(@name)
             self.read_yaml(File.join(base, '_layouts'), 'tag.html')
-            self.data['tag'] = tag
-            self.data['title'] = "Tag: #{tag}"
+            
+            newTag = tag.dup
+            if newTag.include? "-"
+                newTag["-"] = " "
+            end
+            
+            self.data['tag'] = newTag
+            self.data['title'] = "Tag: #{newTag}"
         end
     end
     
