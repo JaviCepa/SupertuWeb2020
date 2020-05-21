@@ -11,12 +11,9 @@ module Jekyll
             authors = []
             site.collections["team"].docs.flat_map.each do |team_member|
                 if team_member.data['name_filter']
-                    print team_member.data['name_filter']
                     authors += [{ "name_filter" => team_member.data['name_filter'] || "", "author" => team_member.data['name'] || ""}]
                 end
             end
-
-            print authors
             
             authors.each do |author|
                 site.pages << AuthorPage.new(site, site.source, author["name_filter"], author["author"])

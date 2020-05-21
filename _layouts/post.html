@@ -18,8 +18,10 @@ layout: page
             <div class="post-info-wrapper">
               <p class="italic">Por <span class="bold">{{ page.author }}</span> - <span class="bold">{{ page.date | date: "%B %-d, %Y" }}</span></p>
             </div>
-			      <hr />
-            {{ content }}
+            <hr />
+            <div class="content">
+              {{ content }}
+            </div>
           </div>
         </div>
         <div class="col-md-1"></div>
