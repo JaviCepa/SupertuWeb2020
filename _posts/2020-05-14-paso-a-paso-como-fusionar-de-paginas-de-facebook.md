@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paso a Paso - Cómo fusionar de páginas de Facebook
+title: "Cómo fusionar de páginas de Facebook - Paso a Paso "
 subtitle: Unir páginas es unir fuerzas
 tags:
   - Facebook
