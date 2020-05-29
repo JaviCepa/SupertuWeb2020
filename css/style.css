@@ -151,6 +151,18 @@ header {
   padding-bottom: 24px;
 }
 
+#footer p:last-of-type {
+  padding-bottom: 0;
+}
+
+#footer .row:last-of-type {
+  margin-bottom: 40px;
+}
+
+#footer .legal-link {
+  color: #919191;
+  font-size: 12px;
+}
 
 ul.share-buttons{
   list-style: none;
