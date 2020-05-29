@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paso a Paso - Cómo fusionar de páginas de Facebook
+title: "Cómo fusionar de páginas de Facebook - Paso a Paso "
 subtitle: Unir páginas es unir fuerzas
 tags:
   - Facebook
@@ -14,9 +14,9 @@ En la agencia nos hemos encontrado de todo a lo largo de los años: clientes que
 
 ### Es muy importante que la imagen que proyectamos en las redes sociales sea la que queremos dar y, a veces, por desconocimiento o falta de tiempo dejamos de prestarle atención y la reputación en la plataforma empieza a deteriorarse. Tener dos páginas para la misma empresa es un claro ejemplo de poca dedicación a esta potente vía de comunicación.
 
-¿Te ha pasado? ¡No te preocupes! Facebook nos deja fusionar dos páginas de su plataforma para aunar seguidores, publicaciones o contenido multimedia y poder encarrilar nuestras redes sociales. Hoy te enseñamos paso a paso cómo fusionar dos páginas de Facebook.
+¿Te ha pasado? ¡No te preocupes! Facebook nos deja fusionar dos páginas de su plataforma para aunar seguidores, publicaciones o contenido multimedia y poder encarrilar nuestras redes sociales. Hoy te enseñamos paso a paso **cómo fusionar dos páginas de Facebook**.
 
-Empezaremos hablando de los criterios básicos que debes cumplir para que Facebook acepte tu solicitud de fusión de dos páginas:
+Empezaremos hablando de los criterios básicos que debes cumplir para que **Facebook** acepte tu solicitud de fusión de dos páginas:
 
 1. Debes ser administrador de las dos páginas de la empresa
 2. Los dos perfiles de empresa deben tener el mismo nombre o un nombre parecido
@@ -36,6 +36,6 @@ EMPEZAMOS
 
 Este proceso puede durar desde unas cuantas horas hasta días, dependiendo de cuanta información se vaya a fusionar.
 
-Esperamos haber sido de ayuda y que hayas podido completar la fusión de páginas de Facebook con éxito✅
+Esperamos haber sido de ayuda y que hayas podido completar la **fusión de páginas de Facebook** con éxito✅
 
 *Supertú es una agencia de marketing enfocada en la comunicación a través de redes sociales, ¿quieres pedir tu presupuesto?[¡Hazlo aquí!](https://supertu.es/contact)*

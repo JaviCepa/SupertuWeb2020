@@ -8,7 +8,7 @@ author: Marina Aneas
 image: /img/upload/stikers-para-instagram.png
 description: crear sticker personalizados
 ---
-Si has llegado hasta este blog es porque has visto todo el potencial que tienen los GIFS y stickers en la plataforma de stories de Instagram y quieres aprovechar. 
+Si has llegado hasta este blog es porque has visto todo el potencial que tienen los GIFS y stickers en la plataforma de **stories de Instagram** y quieres aprovechar. 
 
 ## ¿Por qué usar stickers de otras empresas o personas cuando puedo crear unos propios con contenido que refuerce mis historias? Eso nos preguntamos nosotras, así que empezamos a indagar un poco y… ¡Lo conseguimos!
 
