@@ -320,3 +320,38 @@ ul.share-buttons .sr-only{
 .post .content li {
   margin-bottom: 1rem;
 }
+
+.float-right {
+  float: right;
+}
+
+.size-adjust {
+  max-width: max-content;
+}
+
+/* Landings */
+
+
+.landing-call-to-action h1 {
+  font-size: 26px !important;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.landing-call-to-action h1,
+.landing-call-to-action h2 {
+  text-align: left;
+}
+
+.landing-call-to-action p {
+  text-align: left;
+  font-size: 18px !important;
+  margin-bottom: 20px;
+}
+
+.landing-call-to-action li {
+  text-align: left;
+  font-size: 18px !important;
+  margin-bottom: 20px;
+  list-style-type: disc;
+}
