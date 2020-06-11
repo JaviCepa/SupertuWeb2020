@@ -331,15 +331,26 @@ ul.share-buttons .sr-only{
 
 /* Landings */
 
+.landing-call-to-action {
+  background: rgb(3,92,103) !important;
+  background: linear-gradient(90deg, rgba(3,92,103,1) 0%, rgba(15,111,122,1) 20%, rgba(178,231,237,1) 100%) !important;
+}
 
-.landing-call-to-action h1 {
-  font-size: 26px !important;
-  margin-top: 0;
-  margin-bottom: 20px;
+.landing-call-to-action button {
+  background-color:	#753831 !important;
 }
 
 .landing-call-to-action h1,
-.landing-call-to-action h2 {
+.landing-call-to-action h3 {
+  font-size: 26px !important;
+  margin-top: 0;
+  margin-bottom: 20px;
+  color: #fca398;
+}
+
+.landing-call-to-action h1,
+.landing-call-to-action h2,
+.landing-call-to-action h3 {
   text-align: left;
 }
 
@@ -354,4 +365,50 @@ ul.share-buttons .sr-only{
   font-size: 18px !important;
   margin-bottom: 20px;
   list-style-type: disc;
+}
+
+.landing .service-item {
+  border-radius: 20px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+  max-width: fit-content;
+  height: 100%;
+  margin: auto;
+  padding: 3rem;
+}
+
+.landing .service-item h4 {
+  padding-top: 0 !important;
+  text-transform: uppercase;
+  letter-spacing: 6px;
+}
+
+.landing .service-item p {
+  display: inline-block;
+}
+
+.landing .service-item .price {
+  font-size: 38px !important;
+  font-weight: bold;
+}
+
+.landing .service-item ul {
+  padding: 0 15%;
+}
+
+.landing .service-item li {
+  list-style-type: disc;
+  margin-bottom: 1rem;
+  text-align: left;
+}
+
+.landing .service-item li:first-child {
+  margin-top: 1rem;
+}
+
+.landing .service-item li:last-of-type {
+  margin-bottom: 0;
+}
+
+.landing .row {
+  display: flex;
 }
