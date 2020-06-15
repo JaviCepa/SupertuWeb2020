@@ -70,6 +70,47 @@ body {
     color: #ffffff;
 }
 
+.privacy ul {
+  margin: 2rem 0;
+  margin-left: 4rem
+}
+
+.privacy ul li {
+  margin: 2rem 0;
+  list-style-type: disc;
+}
+
+.privacy ul ol {
+  margin: 2rem 0;
+  list-style-type: decimal;
+}
+
+.privacy ul ul {
+  margin: 2rem 0;
+  margin-left: 8rem;
+}
+
+.privacy ul ul li {
+  list-style-type: circle;
+}
+
+.privacy table {
+  margin: 2rem auto;
+}
+
+.privacy table,
+.privacy tr,
+.privacy th {
+  border: 1px solid black;
+  padding: 1rem;
+  text-align: center;
+}
+
+.privacy table ul {
+  margin: 0;
+  padding: 2rem;
+}
+
 .privacy-input {
   display: flex;
 }
@@ -145,6 +186,10 @@ header {
   margin: auto;
 }
 
+#footer a {
+  display: block;
+}
+
 #footer p,
 #footer img,
 #footer ul {
@@ -159,7 +204,7 @@ header {
   margin-bottom: 40px;
 }
 
-#footer .legal-link {
+#footer .informative-texts-link {
   color: #919191;
   font-size: 12px;
 }
