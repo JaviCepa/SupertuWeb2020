@@ -6,5 +6,5 @@ description: Estrategia 360º bilingüe para sus perfiles en redes sociales,
   gestión de campañas orientadas al tráfico en la web y obtención de leads.
 twitter: https://twitter.com/WelexLaw
 facebook: https://www.facebook.com/WelexLawyersAccountants/
-linkedin: https://www.linkedin.com/company/11131735/admin/
+linkedin: https://www.linkedin.com/company/welex
 ---
