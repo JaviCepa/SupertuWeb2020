@@ -13,8 +13,6 @@
   </head>
   <body class="loading{% if site.data.settings.advanced_settings.ajax_loading == true %} ajax-loading{% endif %}"
   data-site-url="{{ site.url }}" data-page-url="{{ page.url | replace: 'index.html', '' }}">
-    {% include header.html %}
-
     <div class="page-loader"></div>
 
     <div class="page">
@@ -29,6 +27,7 @@
       {% else %}
         <div class="shadow_content">
       {% endif %}
+        {% include header.html %}
         {{ content }}
         </div>
       </div>

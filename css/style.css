@@ -466,3 +466,37 @@ ul.share-buttons .sr-only{
 .landing .landing-service-item li:last-of-type {
   margin-bottom: 0;
 }
+
+.landing .responsive-contact {
+  display: none;
+}
+
+@media ( max-width : 430px) {
+  .landing-header-content a {
+    display: none;
+  }
+
+  .landing-header-content a:first-of-type {
+    display: block;
+    text-align: center;
+  }
+
+  .landing form button {
+    font-size: 15px !important;
+  }
+
+  .landing .responsive-contact {
+    display: block;
+  }
+
+  .landing .responsive-contact a {
+    float: none;
+    display: block;
+    width: 100%;
+    margin: auto;
+  }
+
+  .landing .responsive-contact img {
+    padding: 2rem;
+  }
+}
