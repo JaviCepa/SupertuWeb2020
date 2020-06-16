@@ -1,0 +1,67 @@
+<!-- Slider Start -->
+<section id="global-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block">
+                    <h1>La inversión más inteligente</h1>
+                    <p>La satisfacción de nuestros clientes</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="portfolio-work">
+    <div class="container">
+      <div class="block">
+        <div class="portfolio-contant">
+          <ul id="portfolio-contant-active">
+            {% assign cont = 3 %}
+
+            {% for client in site.clients %}
+              {% assign newRow = cont | modulo:3 %}
+              
+              {% if cont == 3%}
+                <div class="row">
+              {% else %}
+                {% if newRow == 0 %}
+                  </div>
+                  <div class="row">
+                {% endif %}
+              {% endif %}
+              
+              <div class="col-md-4">
+                <li class="client-li">
+                  <img class="client-img" src="{{ media_folder }}{{ client.logo }}" alt="">
+                  {% if client.description and client.description != "" %}
+                    <p>{{ client.description }}</p>
+                  {% endif %}
+                  {% if client.instagram and client.instagram != "" %}
+                    <a href="{{client.instagram}}"><i class="fa fa-instagram"></i></a>
+                  {% endif %}
+                  {% if client.twitter and client.twitter != "" %}
+                    <a href="{{client.twitter}}"><i class="fa fa-twitter"></i></a>
+                  {% endif %}
+                  {% if client.facebook and client.facebook != "" %}
+                    <a href="{{client.facebook}}"><i class="fa fa-facebook"></i></a>
+                  {% endif %}
+                  {% if client.linkedin and client.linkedin != "" %}
+                    <a href="{{client.linkedin}}"><i class="fa fa-linkedin"></i></a>
+                  {% endif %}
+                  <!-- <div class="overly">
+                    <div class="position-center">
+                    <h5>{{ client.name }}</h5>
+                    <p>{{ client.description }}</p>
+                    </div>
+                  </div> -->
+                </li>
+              </div>
+
+              {% assign cont = cont | plus:1 %}
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </div>
+</section>
