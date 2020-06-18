@@ -1,0 +1,62 @@
+<section class="landing-call-to-action" id="call-to-action">
+  <div class="container">
+    <div class="block">
+      <section id="contact-form">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-6 col-sm-6">
+          
+              <h1>OBTÉN LEADS POR REDES SOCIALES</h1>
+              <p>Gestionamos las campañas de publicidad que realizas en redes sociales:</p>
+              <ul>
+                <li>Creamos diseños exclusivos de manera constante</li>
+                <li>Segmentamos tu público y lo optimizamos a diario para llegar a tu target</li>
+                <li>Nos marcamos metas para ofrecerte los leads diarios que necesitas</li>
+              </ul>
+              <h3>Sácale el máximo partido a la publicidad de Facebook e Instagram</h3>
+              <p>LLÁMANOS para llevar tus campañas de publicidad en redes sociales al siguiente nivel.</p>
+            </div>
+
+            <div class="col-md-6 col-sm-6">
+              <div class="block">
+                <form name="contact" method="POST" data-netlify="true">
+                  <div class="form-group">
+                    <input name="nombre" type="text" class="form-control" placeholder="Tu nombre" aria-required="true" required>
+                  </div>
+                  <div class="form-group">
+                    <input name="email" type="text" class="form-control" placeholder="Tu email" aria-required="true" required>
+                  </div>
+                  <div class="form-group">
+                    <textarea name="mensaje" class="form-control" rows="3" placeholder="Mensaje" aria-required="true" required></textarea>
+                  </div>
+                  <div class="privacy-input">
+                    <input name="privacy" type="checkbox"  class="form-control" aria-required="true" required>
+                    <p style="display: inline-block;">Acepto los términos de condiciones de la <a target="_blank" href="{{ site.baseurl }}/privacy">política de privacidad</a></p>
+                  </div>
+                  <div class="form-group" data-netlify-recaptcha="true"></div>
+                  
+                  <button class="btn btn-default btn-call-to-action" type="submit">¡Quiero ser una supermarca!</button>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</section>
+
+<section class="responsive-contact">
+  <div class="row">
+    <div class="col-sm-12">
+      <a class="size-adjust float-right" href="mailto:hola@supertu.es">
+        <img src="{{ site.baseurl }}/img/landings/mail.png" alt="Logo">
+      </a>
+    </div>
+    <div class="col-sm-12">
+      <a class="size-adjust float-right" href="tel:+34653903359">
+        <img src="{{ site.baseurl }}/img/landings/whatsapp.png" alt="Logo">
+      </a>
+    </div>
+  </div>
+</section>
