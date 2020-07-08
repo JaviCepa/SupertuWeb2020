@@ -292,6 +292,10 @@ ul.share-buttons .sr-only{
   width: max-content;
 }
 
+.blog-header h1 {
+  font-size: 40px;
+}
+
 .post .autor h1 {
   color: #035c67;
   border-bottom: 3px solid #035c67;
