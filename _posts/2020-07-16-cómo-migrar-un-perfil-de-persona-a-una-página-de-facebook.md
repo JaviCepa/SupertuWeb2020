@@ -8,7 +8,7 @@ author: Marina Aneas
 image: /img/upload/migrarperfilfacebook.png
 description: migrar perfil pagina facebook
 ---
-Una página comercial o fan page en Facebook nos aportará muchos beneficios a nuestro negocio, si sabemos como sacar provecho de esta plataforma tan potente. Entre los beneficios de tener una se encuentran, por ejemplo, los anuncios en las plataformas de Facebook e Instagram, que ya sabrás lo importantes que son tanto para negocios online como offline.
+Una página comercial o fan page en Facebook aportará muchos beneficios a nuestro negocio si sabemos cómo sacar provecho de esta plataforma tan potente. Entre las ventajas de tenerla se encuentran, por ejemplo, los anuncios en Facebook e Instagram, que ya sabrás lo importantes que son tanto para negocios online como offline.
 
 ## Si tu negocio tiene un perfil personal y quieres migrarlo a una página de Facebook, aquí te vamos a enseñar cómo hacerlo paso a paso.
 
@@ -22,13 +22,9 @@ Es importante que sepas que Facebook solo te dejará migrar a tus amigos, que se
 
 ![](https://lh5.googleusercontent.com/kOEpyI9Jl0s4KOYtqJ-BIZ5VzS7zSuhL7mm3buQyvgaojHsGEahom7T4G_n7X6Fm2dj-cTv-ii74UqLBZ-PBHxsREoDyK3M3IzQlezpG8Ghh6N3_1YTDWpAdJEuQtBPYLDz7pP0c)
 
-
-
 * Paso 2: A continuación, [haz clic aquí](https://www.facebook.com/pages/create/migrate/), te llevará a la página específica de Facebook para **migrar perfiles personales a páginas comerciales**; te saldrá una pantalla parecida a esta con el nombre del perfil en el que estás logueado.
 
 ![](https://lh6.googleusercontent.com/g3kmZJ8zZZzcI2RYMTN01omhryZbVVCXhlVGMi6KialCPBOmp2Qv7fyiKqArJqrgtp14XtDgrIS5GRYPgPl7g9WZ9uZjLrg-f2az-Lm1AVmBF6_dcQU7Zxr6LrJDGG0oNE2swPUf)
-
-
 
 * Paso 3: Una vez le hayas dado al botón “Empezar”, la página puede tardar más de lo normal en cargarse. Selecciona lo que quieres traspasar y configura tu negocio con categorías.
 * Paso 4: Solo debes darle a continuar y te saldrá un mensaje así
