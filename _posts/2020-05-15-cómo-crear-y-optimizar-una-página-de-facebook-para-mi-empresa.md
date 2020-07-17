@@ -12,11 +12,11 @@ En este artículo queremos enseñarte a **crear una página de Facebook para tu 
 
 En primer lugar, es muy importante **diferenciar entre página y perfil**. Los perfiles de Facebook están destinados a personas y las páginas a empresas; por lo tanto, nunca debes crear un perfil para tu empresa ya que corres el riesgo de que Facebook te la elimine.
 
-*Si en algún momento creaste un perfil para tu empresa por equivocación, te recomendamos leer este artículo: “Cómo migrar un perfil de Facebook a página de empresa” y en pocos pasos te ayudaremos a transformarlo.*
+*Si en algún momento creaste un perfil para tu empresa por equivocación, te recomendamos leer este artículo: “[Cómo migrar un perfil de Facebook a página de empresa](https://supertu.es/c%C3%B3mo-migrar-un-perfil-de-persona-a-una-p%C3%A1gina-de-facebook/)” y en pocos pasos te ayudaremos a transformarlo.*
 
 Una vez que tenemos claro estos términos, ¡vamos a empezar!
 
-En primer lugar, debes hacer clic en el siguiente enlace [www.facebook.com/pages/create](http://www.facebook.com/pages/create) y deberás ver una pantalla como esta:
+En primer lugar, debes hacer clic en el siguiente enlace [www.facebook.com/pages/create](http://www.facebook.com/pages/create) , verás una pantalla como esta:
 
 ![crear-pagina-facebook](https://lh6.googleusercontent.com/S1uhYy6EO0DMHaHDcVbgH206UEAs1grfqHWZf5QWdqgYc803sPVZNfhJPkjeSHJy1GGl2w7NIObC6ZbLJ62h0cnzYdYUlS2fxAPfn1rojrJy6iXxHFBSp-_EpYuXZCNYIFAJR2hH)
 
