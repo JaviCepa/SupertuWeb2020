@@ -1,5 +1,6 @@
 ---
 layout: service
+order: 6
 name: Reportes de resultados
 description: Lo de invertir en comunicación en redes sociales suena muy bonito
   pero… ¿De verdad sirve? Un buen plan sin un buen análisis de datos, no sirve,

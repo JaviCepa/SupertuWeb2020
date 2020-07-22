@@ -1,5 +1,6 @@
 ---
 layout: service
+order: 7
 name: Redacción de contenidos
 description: No te preocupes por los contenidos de tu blog, en Supertú no sólo
   los redactamos sino que también los creamos.  Nosotras te propondremos temas

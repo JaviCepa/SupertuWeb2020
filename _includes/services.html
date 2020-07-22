@@ -16,7 +16,8 @@
 <section id="service">
   <div class="container">
     <div class="row ">
-      {% for service in site.services %}
+      {% assign services = site.services | sort: "order" %}
+      {% for service in services %}
         <div class="col-sm-6 col-md-4">
           <a href="{{ service.permalink }}" class="service-item">
             <i class="ion-{{ service.icon }}"></i>

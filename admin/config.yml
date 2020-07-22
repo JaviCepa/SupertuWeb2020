@@ -60,7 +60,9 @@ collections:
     identifier_field: name
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "service"}
+      - {label: "Título", name: "title", widget: "string"}
       - {label: "Nombre", name: "name", widget: "string"}
+      - {label: "Orden", name: "order", widget: "string"}
       - {label: "Icono", name: "icon", widget: "string"}
       - {label: "Descripción", name: "description", widget: "string"}
       - {label: "URL", name: "permalink", widget: "string"}
