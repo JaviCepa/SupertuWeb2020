@@ -505,3 +505,17 @@ ul.share-buttons .sr-only{
     padding: 2rem;
   }
 }
+
+.service li {
+  text-align: left;
+  margin-bottom: 20px;
+  list-style-type: disc;
+}
+
+.service i {
+  font-size: 60px;
+}
+
+.service p:first-of-type {
+  margin-top: 2rem;
+}

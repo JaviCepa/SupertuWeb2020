@@ -1,0 +1,30 @@
+---
+layout: page
+---
+
+<div class="service">
+
+  <section id="global-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block">
+                    <i class="ion-{{ page.icon }}"></i>
+                    <h1>{{ page.name }}</h1>
+                    <!-- <p>Esto es todo lo que hacemos para que tu marca triunfe en social media</p> -->
+                </div>
+            </div>
+        </div>
+    </div>
+  </section>
+  
+  <div class="content container">
+    <div class="col-sm-2"></div>
+    <div class="col-sm-8">
+      {{ content }}
+    </div>
+  </div>
+</div>
+
+<!-- Call to action Start -->
+{% include calltoaction.html %}

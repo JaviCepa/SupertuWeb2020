@@ -52,3 +52,15 @@ collections:
       - {label: "Twitter", name: "twitter", widget: "string", required: false}
       - {label: "Facebook", name: "facebook", widget: "string", required: false}
       - {label: "LinkedIn", name: "linkedin", widget: "string", required: false}
+  - name: "services"
+    label: "Servicios"
+    folder: "_services"
+    create: true
+    slug: "{{{year}}-{{month}}-{{day}}-{{slug}}"
+    identifier_field: name
+    fields:
+      - {label: "Nombre", name: "name", widget: "string"}
+      - {label: "Icono", name: "icon", widget: "string"}
+      - {label: "Descripción", name: "description", widget: "string"}
+      - {label: "URL", name: "permalink", widget: "string"}
+      - {label: "Contenido", name: "body", widget: "markdown"}
