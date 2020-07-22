@@ -3,7 +3,7 @@ layout: service
 title: Redacción de contenidos
 name: Redacción de contenidos
 order: 7
-icon: ios-copy-outline
+icon: ion-ios-copy-outline
 description: No te preocupes por los contenidos de tu blog, en Supertú no sólo
   los redactamos sino que también los creamos.  Nosotras te propondremos temas
   de actualidad de tu sector, tú eliges los que más te gusten y nos encargaremos

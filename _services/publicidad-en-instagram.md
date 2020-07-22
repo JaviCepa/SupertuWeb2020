@@ -3,7 +3,7 @@ layout: service
 title: Publicidad en Instagram
 name: Publicidad en Instagram
 order: 5
-icon: speakerphone
+icon: ion-speakerphone
 description: Creamos campañas de publicidad que acompañen a tu marca en
   Instagram. Elige tu objetivo y nosotras trazamos la trayectoria. Además las
   monitorizaremos día a día y recibirás un resumen en tu reporte de resultados.

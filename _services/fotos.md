@@ -3,7 +3,7 @@ layout: service
 title: Fotos y microvídeos
 name: Fotos y microvídeos
 order: 3
-icon: camera
+icon: ion-camera
 description: Si te falta material gráfico, no te preocupes. En Supertú somos
   autosuficientes, si nos falta material corporativo, iremos a tu
   oficina/local/negocio a prepararlo. ¡Tu comunidad estará encantada con tu
