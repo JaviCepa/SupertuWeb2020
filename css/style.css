@@ -517,7 +517,11 @@ ul.share-buttons .sr-only{
 }
 
 .service p:first-of-type {
-  margin-top: 2rem;
+  margin-top: 4rem;
+}
+
+.service p:last-of-type {
+  margin-bottom: 4rem;
 }
 
 #service .fa {

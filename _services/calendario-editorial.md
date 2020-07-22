@@ -28,4 +28,6 @@ Una vez realizado este documento te lo enviamos para que lo veamos juntos. Tú n
 
 Lo que nos suele suceder con los calendarios editoriales, es que en el primer mes y el segundo necesitaremos que nos ayudes un poco a afinar 100% los contenidos a lo que tú quieres y esperas ver. Una vez te pillamos el punto, tiramos millas solas, ya que **cada mes que pasa conocemos mejor tu marca**, y nos resultará más fácil  expresarnos con su propia voz.
 
-Puedes ver un ejemplo de calendario editorial [aquí](https://docs.google.com/presentation/d/1Bm72D-RxqqH-_R6Yt1anXTt-3zgtXYCqZhYcJoHone8/edit?ts=5f102c44#slide=id.g8d91ca56d4_0_48). 😉
+Puedes ver un ejemplo de calendario editorial [aquí][1]
+
+[1]:{{ site.url }}/download/SuperTu - Estrategia de contenidos - Javaloyes.pdf
