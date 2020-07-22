@@ -9,7 +9,7 @@ image: /img/upload/service_1.png
 icon: camera
 permalink: /fotos-y-microvideos/
 ---
-as redes sociales son como una máquina tragaperras, se comen todo el contenido que le metas. Esto hace que sea difícil de gestionar para las marcas si no se les dedica el tiempo y el know how adecuados. En Supertú te pediremos que nos compartas todo el contenido que tengas de tu marca, así sean fotos del año de la polca, no te preocupes. Nosotros filtramos todo el contenido que tengas, le damos brillo y esplendor y… ¡Listo para publicar!
+Las redes sociales son como una máquina tragaperras, se comen todo el contenido que le metas. Esto hace que sea difícil de gestionar para las marcas si no se les dedica el tiempo y el know how adecuados. En Supertú te pediremos que nos compartas todo el contenido que tengas de tu marca, así sean fotos del año de la polca, no te preocupes. Nosotros filtramos todo el contenido que tengas, le damos brillo y esplendor y… ¡Listo para publicar!
 
 Si tienes un espacio físico, un tienda, clínica, fábrica… Solemos pasarnos por allí a menudo para realizar fotos y vídeos óptimos para redes sociales. 
 
