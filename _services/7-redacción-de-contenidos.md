@@ -8,6 +8,6 @@ description: >-
 image: /img/upload/service_6.png
 icon: ios-copy-outline
 
-permalink: /#/
+permalink: /redaccion-de-contenidos/
 ---
 

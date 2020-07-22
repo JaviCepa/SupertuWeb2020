@@ -7,6 +7,6 @@ description: >-
 image: /img/upload/service_5.png
 icon: eye
 
-permalink: /#/
+permalink: /campanas-de-publicidad/
 ---
 

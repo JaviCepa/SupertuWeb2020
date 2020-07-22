@@ -8,6 +8,6 @@ description: >-
 image: /img/upload/service_6.png
 icon: coffee
 
-permalink: /#/
+permalink: /social-media-as-a-service/
 ---
 

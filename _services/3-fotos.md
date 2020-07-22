@@ -7,6 +7,6 @@ description: >-
 image: /img/upload/service_1.png
 icon: camera
 
-permalink: /#/
+permalink: /fotos/
 ---
 

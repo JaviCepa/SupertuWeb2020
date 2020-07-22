@@ -7,6 +7,6 @@ description: >-
 image: /img/upload/service_4.png
 icon: videocamera
 
-permalink: /#/
+permalink: /microvideos/
 ---
 

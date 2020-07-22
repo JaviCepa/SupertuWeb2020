@@ -62,5 +62,5 @@ collections:
       - {label: "Nombre", name: "name", widget: "string"}
       - {label: "Icono", name: "icon", widget: "string"}
       - {label: "Descripción", name: "description", widget: "string"}
-      # - {label: "URL", name: "permalink", widget: "string"}
+      - {label: "URL", name: "permalink", widget: "string"}
       - {label: "Contenido", name: "body", widget: "markdown"}

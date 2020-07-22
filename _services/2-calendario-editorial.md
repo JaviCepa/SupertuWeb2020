@@ -8,6 +8,6 @@ description: >-
 image: /img/upload/service_1.png
 icon: calendar
 
-permalink: /#/
+permalink: /calendario-editorial/
 ---
 

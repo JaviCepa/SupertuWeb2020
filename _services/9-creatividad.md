@@ -8,5 +8,5 @@ description: >-
 image: /img/upload/service_6.png
 icon: ios-lightbulb-outline
 
-permalink: /#/
+permalink: /creatividad/
 ---

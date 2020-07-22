@@ -8,6 +8,6 @@ description: >-
 image: /img/upload/service_6.png
 icon: arrow-graph-up-right
 
-permalink: /#/
+permalink: /reporte-de-resultados/
 ---
 
