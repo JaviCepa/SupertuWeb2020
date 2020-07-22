@@ -2,8 +2,10 @@
 layout: post
 title: "¡Vuela cliente, vuela! "
 subtitle: La importancia de saber decir NO
+tags:
+  - Marketing
 author: Espe Olea
-image: /img/upload/saber-decir-no.png
+image: /img/upload/vuela-cliente.png
 description: social media, redes sociales, agencia de marketing, clientes,
   agencias, publicidad, marketing, málaga
 ---
