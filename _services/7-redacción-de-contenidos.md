@@ -1,14 +1,15 @@
 ---
 layout: service
-order: 7
+title: Redacción de contenidos
 name: Redacción de contenidos
+order: 7
+icon: ios-copy-outline
 description: No te preocupes por los contenidos de tu blog, en Supertú no sólo
   los redactamos sino que también los creamos.  Nosotras te propondremos temas
   de actualidad de tu sector, tú eliges los que más te gusten y nos encargaremos
   de  escribir acerca de ellos ¿Suena bien?
-image: /img/upload/service_6.png
-icon: ios-copy-outline
 permalink: /redaccion-de-contenidos/
+image: /img/upload/service_6.png
 ---
 Las imágenes y los vídeos son importantes, no hay duda, pero también lo son los copys.
 
