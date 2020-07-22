@@ -17,12 +17,12 @@ Para evitar esa incertidumbre y acordar contigo un **plan de acción**, nosotros
 
 El calendario editorial además de quitarte incertidumbre, nos ayuda a:
 
-* **Acordar los contenidos** que van con tu marca
+* **Acordar los contenidos** que van con tu marca ✍🏻 
 * Definir un **léxico y un tono** afín a tu marca
-* Realizar **creatividades y composiciones** exclusivas que aporten un valor añadido a tus contenidos
+* Realizar **creatividades y composiciones 🤩**  exclusivas que aporten un valor añadido a tus contenidos
 * Definir cuándo haremos **concursos**, cómo serán las **dinámicas** y qué **artículos/servicio** queremos promocionar
 * Dar difusión a los **eventos** de interés para tu marca que puedan tener lugar a lo largo del mes
-* Y por último y más importante: analizar los **datos** y afinarlos para el mes siguiente
+* Y por último y más importante: analizar los **datos 📊**  y afinarlos para el mes siguiente
 
 Una vez realizado este documento te lo enviamos para que lo veamos juntos. Tú nos das feedback acerca de si te encajan las imágenes, los copys (palabra técnica que usamos cuando hablamos de los textos) y el lugar del mes en el que hemos insertado el contenido. Con tu “ok”, empezamos a publicar y una vez finaliza el mes, analizamos los datos y preparamos el calendario editorial del mes siguiente.
 
