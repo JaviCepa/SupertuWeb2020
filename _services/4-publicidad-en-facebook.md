@@ -1,14 +1,15 @@
 ---
 layout: service
-order: 4
+title: Publicidad en Facebook
 name: Publicidad en Facebook
+order: 4
+icon: speakerphone
 description: Creamos campañas de publicidad que acompañen a tu marca. Facebook,
   Instagram, Linkedin, Youtube… Elige tu objetivo y nosotras trazamos la
   trayectoria. Además las monitorizaremos día a día y recibirás un resumen en tu
   reporte de resultados.
-image: /img/upload/service_5.png
-icon: speakerphone
 permalink: /publicidad-en-facebook/
+image: /img/upload/service_5.png
 ---
 La publicidad en redes sociales es un imprescindible a la hora de conseguir clientes.
 
