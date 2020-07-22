@@ -59,6 +59,7 @@ collections:
     slug: "{{{year}}-{{month}}-{{day}}-{{slug}}"
     identifier_field: name
     fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "service"}
       - {label: "Nombre", name: "name", widget: "string"}
       - {label: "Icono", name: "icon", widget: "string"}
       - {label: "Descripción", name: "description", widget: "string"}

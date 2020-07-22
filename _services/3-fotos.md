@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: service
 name: Fotos
 description: >-
   Si te falta material gráfico, no te preocupes. En Supertú somos autosuficientes, si nos falta material

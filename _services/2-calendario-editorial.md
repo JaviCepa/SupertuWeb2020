@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: service
 name: Calendario editorial
 description: >-
   Uno de los documentos que más agradecen nuestros clientes. Podrás ver qué publicamos cada día de la semana

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: service
 name: Microvídeos
 description: >-
   El contenido de vídeo se ha consolidado como un imprescindible de la comunicación corporativa, por

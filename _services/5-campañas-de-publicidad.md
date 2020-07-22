@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: service
 name: Campañas de publicidad
 description: >-
   Creamos campañas de publicidad que acompañen a tu marca. Facebook, Instagram, Linkedin, Youtube… Elige tu objetivo y

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: service
 name: Social Media As-A-Service
 description: >-
   En Supertú entendemos que externalizar es exactamente eso: quitarte una preocupación y dejar el trabajo en 

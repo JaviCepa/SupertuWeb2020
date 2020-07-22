@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: service
 name: Reporte de resultados
 description: >-
   Lo de invertir en comunicación en redes sociales suena muy bonito pero… ¿De verdad sirve? Un buen plan sin un
