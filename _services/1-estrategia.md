@@ -1,14 +1,14 @@
 ---
 layout: service
-order: 1
+title: Estrategia
 name: Estrategia
-description: >-
-  Una súper marca, necesita un súper plan. Si quieres saber hasta dónde llegarás en 3, 6 o 9 meses...
-  ¡Llámanos! Prepararemos a tu medida un plan viable y de máxima rentabilidad, gratis y sin compromiso.
-image: /img/upload/service_3.png
+order: 1
 icon: compass
-
+description: Una súper marca, necesita un súper plan. Si quieres saber hasta
+  dónde llegarás en 3, 6 o 9 meses... ¡Llámanos! Prepararemos a tu medida un
+  plan viable y de máxima rentabilidad, gratis y sin compromiso.
 permalink: /estrategia-en-redes-sociales/
+image: /img/upload/service_3.png
 ---
 
 <p>Si quieres tomarte tus redes sociales en serio, pero no sabes qué se puede hacer ni por dónde empezar: no te preocupes, aquí estamos para ti. Vemos tu marca con vista de pájaro y te ayudamos a definir un plan en redes sociales que nos ayude a contestar las siguientes preguntas:</p>
