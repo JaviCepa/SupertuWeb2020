@@ -1,7 +1,7 @@
 ---
 layout: service
 title: Calendario editorial
-name: Qué es un calendario editorial en social media
+name: Calendario editorial en social media
 order: 2
 icon: ion-calendar
 description: Uno de los documentos que más agradecen nuestros clientes. Podrás
