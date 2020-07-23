@@ -5,7 +5,7 @@ subtitle: La importancia de saber decir NO
 tags:
   - Marketing
 author: Espe Olea
-image: /img/upload/saber-decir-no.png
+image: /img/upload/la-importancia-de-saber-decir-no.png
 description: social media, redes sociales, agencia de marketing, clientes,
   agencias, publicidad, marketing, málaga
 ---
