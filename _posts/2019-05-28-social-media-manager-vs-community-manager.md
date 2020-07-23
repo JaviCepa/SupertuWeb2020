@@ -6,7 +6,7 @@ tags:
   - Redes sociales
 author: Espe Olea
 image: /img/upload/social-media-manager-vs-community-manager.png
-description: "community manager, social media manager, marketing digital, malaga "
+description: community manager, social media manager, marketing digital
 ---
 ¿Cómo diferenciarlos y qué necesita mi empresa?
 
