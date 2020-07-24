@@ -5,7 +5,7 @@ subtitle: Eleva tu negocio al mundo digital
 tags:
   - Actualidad
 author: María Araujo
-image: /img/upload/supertu-blog.png
+image: /img/upload/las-redes-sociales-toman-protagonismo-en-la-crisis-del-covid-19.png
 description: Las redes sociales toman protagonismo en la crisis del COVID-19
 ---
 Con la llegada de esta nueva situación, inesperada para todos, **las redes sociales han tomado un peso muy importante en la comunicación de nuestro negocio.**

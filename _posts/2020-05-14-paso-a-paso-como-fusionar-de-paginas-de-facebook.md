@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Cómo fusionar de páginas de Facebook - Paso a Paso "
+title: "Cómo fusionar dos páginas de Facebook - Paso a Paso "
 subtitle: Unir páginas es unir fuerzas
 tags:
   - Facebook
 author: Marina Aneas
-image: /img/upload/fusionar.png
+image: /img/upload/cómo-fusionar-dos-páginas-de-facebook.png
 description: como fusionar dos paginas de facebook
 ---
 En la agencia nos hemos encontrado de todo a lo largo de los años: clientes que no saben si tienes perfil en Facebook, otros que tienen perfil de persona para su empresa, el clásico de perder los accesos o, incluso, empresas que tienen varios perfiles creados.

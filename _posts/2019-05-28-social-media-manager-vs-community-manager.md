@@ -5,8 +5,8 @@ subtitle: La diferencia entre planificar y ejecutar
 tags:
   - Redes sociales
 author: Espe Olea
-image: /img/upload/socia-media-manager.png
-description: "community manager, social media manager, marketing digital, malaga "
+image: /img/upload/social-media-manager-vs-community-manager.png
+description: community manager, social media manager, marketing digital
 ---
 ¿Cómo diferenciarlos y qué necesita mi empresa?
 
