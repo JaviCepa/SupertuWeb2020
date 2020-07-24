@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Como espiar los anuncios de tu competencia en Facebook
+title: Cómo espiar los anuncios de tu competencia en Facebook
 subtitle: Un truco para ver los anuncios de tu competencia
 tags:
   - Facebook

@@ -6,9 +6,7 @@ module Jekyll
             tags = site.posts.docs.flat_map { |post| post.data['tags'] || [] }.to_set
             tags.each do |tag|
                 newTag = tag.dup
-                if newTag.include? " "
-                    newTag[" "] = "-"
-                end
+                newTag = newTag.gsub(" ", "-")
                 site.pages << TagPage.new(site, site.source, newTag)
             end
             
@@ -36,9 +34,7 @@ module Jekyll
             self.read_yaml(File.join(base, '_layouts'), 'tag.html')
             
             newTag = tag.dup
-            if newTag.include? "-"
-                newTag["-"] = " "
-            end
+            newTag = newTag.gsub("-", " ")
             
             self.data['tag'] = newTag
             self.data['title'] = "Tag: #{newTag}"

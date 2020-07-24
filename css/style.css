@@ -157,6 +157,47 @@ header {
     width: 100%;
 }
 
+.navbar li:last-of-type {
+  margin-left: 12rem;
+}
+
+.navbar .contact-info a {
+  padding: 0 !important;
+  float: none;
+  color: #035c67;
+  font-weight: bolder;
+}
+
+.navbar .contact-info div:first-of-type {
+  margin-top: -1rem;
+}
+
+.navbar .contact-info div:last-of-type {
+  margin: auto;
+  margin-top: 1rem;
+}
+
+.navbar .contact-info img {
+  width: 18px;
+  margin-right: 1rem;
+}
+
+@media only screen and (max-width: 767px) {
+
+  .navbar .contact-info div {
+    padding: 10px 26px !important;
+  }
+
+  .navbar .contact-info a {
+    padding: 0 !important;
+    margin-top: 0;
+  }
+
+  .navbar li:last-of-type {
+    margin-left: 0;
+  }
+}
+
 #footer {
     width: 100%;
     padding-bottom: 56px;
