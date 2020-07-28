@@ -5,7 +5,7 @@ subtitle: Lleva tu negocio a la primera posición de Google.
 tags:
   - Google My Business
 author: María Araujo
-image: /img/upload/cómo-sacarle-el-máximo-partido-a-tu-perfil-de-google-my-business.png
+image: /img/upload/como-sacarle-el-maximo-partido-a-tu-perfil-de-google-my-business.png
 description: Máximo rendimiento de tu negocio en Google My Business
 ---
 # Empecemos por lo básico, ¿qué es Google My Business?

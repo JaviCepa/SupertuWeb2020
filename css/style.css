@@ -157,8 +157,10 @@ header {
     width: 100%;
 }
 
-.navbar li:last-of-type {
-  margin-left: 12rem;
+.navbar-center {
+  margin: auto;
+  width: 80%;
+  float: none;
 }
 
 .navbar .contact-info a {
@@ -205,6 +207,14 @@ header {
 
 #footer .row {
   display: flex;
+}
+
+#footer .contact-info {
+  display: none !important;
+}
+
+#footer .navbar-brand {
+  display: none !important;
 }
 
 @media ( max-width : 767px) {

@@ -5,7 +5,7 @@ subtitle: Crea stories únicos
 tags:
   - Instagram
 author: Marina Aneas
-image: /img/upload/cómo-crear-stickers-personalizados-para-instagram.png
+image: /img/upload/como-crear-stickers-personalizados-para-instagram.png
 description: crear sticker personalizados
 ---
 Si has llegado hasta este blog es porque has visto todo el potencial que tienen los GIFS y stickers en la plataforma de **stories de Instagram** y quieres aprovechar. 

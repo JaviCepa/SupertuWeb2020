@@ -5,7 +5,7 @@ subtitle: ¡Sácale partido a tu página de fans!
 tags:
   - Facebook
 author: María Araujo
-image: /img/upload/cómo-crear-y-optimizar-una-página-de-facebook-para-mi-empresa.png
+image: /img/upload/como-crear-y-optimizar-una-pagina-de-facebook-para-mi-empresa.png
 description: Cómo crear y optimizar una página de Facebook para tu empresa
 ---
 En este artículo queremos enseñarte a **crear una página de Facebook para tu negocio** para que puedas comunicar todas tus novedades en ella. 
