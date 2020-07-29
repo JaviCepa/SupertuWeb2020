@@ -6,4 +6,5 @@ description: "Laura Olea es una empresa de moda malagueña. Con más de 20 años
   primera colección de ropa, hecho a mano en Málaga. "
 instagram: https://www.instagram.com/lauraolea/
 facebook: https://www.facebook.com/LauraOleaTocadosySombreros/
+websiteUrl: https://lauraolea.com/
 ---

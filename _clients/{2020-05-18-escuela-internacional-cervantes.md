@@ -6,4 +6,5 @@ description: Mediante las redes sociales tratamos de dar a conocer la escuela a
 instagram: https://www.instagram.com/cervanteseimalaga/
 twitter: https://twitter.com/cervantesei
 facebook: https://www.facebook.com/www.cervantes.to/
+websiteUrl: https://www.cervantes.to/es/
 ---

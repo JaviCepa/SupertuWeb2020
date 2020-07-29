@@ -7,4 +7,5 @@ description: Empresa de diseño de cocinas premium en costa oeste de Málaga.
   Ads orientadas a la obtención de clientes potenciales.
 instagram: https://www.instagram.com/kitchenandstyle/
 facebook: https://www.facebook.com/kitchenandStyleMalaga/
+websiteUrl: https://kitchenandstyle.es/
 ---

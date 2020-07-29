@@ -7,4 +7,5 @@ description: Schmidt es una tienda de cocinas y muebles del hogar situada en
   mayor número de clientes potenciales.
 instagram: https://www.instagram.com/schmidt.malaga/
 facebook: https://www.facebook.com/SchmidtCocinasMalagaTorreDelMar/
+websiteUrl: https://www.home-design.schmidt/es-es/tienda-schmidt/0003001966-malaga
 ---

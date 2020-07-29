@@ -7,4 +7,5 @@ description: P.S. Del Prado es una empresa dedicada al mantenimiento de
   conocer la empresa en toda la provincia. Comunicación B2B y B2C
 instagram: https://www.instagram.com/psdelprado/
 facebook: https://www.facebook.com/psdelpradomalaga/
+websiteUrl: https://www.psdelprado.com/
 ---

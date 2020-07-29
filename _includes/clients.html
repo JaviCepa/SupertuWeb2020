@@ -33,7 +33,13 @@
               
               <div class="col-md-4">
                 <li class="client-li">
-                  <img class="client-img" src="{{ media_folder }}{{ client.logo }}" alt="">
+                  {% if client.websiteUrl %}
+                    <a href="{{ client.websiteUrl }}" style="width: 100%;">
+                      <img class="client-img" src="{{ media_folder }}{{ client.logo }}" alt="">
+                    </a>
+                  {% else %}
+                    <img class="client-img" src="{{ media_folder }}{{ client.logo }}" alt="">
+                  {% endif %}
                   {% if client.description and client.description != "" %}
                     <p>{{ client.description }}</p>
                   {% endif %}

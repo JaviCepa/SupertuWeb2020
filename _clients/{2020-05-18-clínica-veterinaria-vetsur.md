@@ -5,4 +5,5 @@ description: Comunicación online acerca de la clínica y estrategias de captaci
   de clientes potenciales.
 instagram: https://www.instagram.com/clinicavetsur/
 facebook: https://www.facebook.com/vetsurclinicaveterinaria/
+websiteUrl: https://www.clinicaveterinariavetsur.es/
 ---
