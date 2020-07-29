@@ -3,7 +3,7 @@ layout: post
 title: "¡Vuela cliente, vuela! "
 subtitle: La importancia de saber decir NO
 tags:
-  - Marketing
+  - Marketing en redes sociales
 author: Espe Olea
 image: /img/upload/la-importancia-de-saber-decir-no.png
 description: social media, redes sociales, agencia de marketing, clientes,
@@ -35,4 +35,4 @@ Después de muchas reprimendas inmerecidas y alguna que otro desprecio a nuestro
 
 No se decirte cual es la fórmula correcta, lo que se es que querer gustarle a todo el mundo es el caldo de cultivo de muchas frustraciones tanto del CEO de una empresa como de su equipo. 
 
-A día de hoy (Supertú tiene 5 años), [cada “NO” me ha costado varios días sin dormir](https://lamenteesmaravillosa.com/aprende-decir-no/), pero ha merecido mucho la pena.
+A día de hoy (Supertú tiene 6 años), [cada “NO” me ha costado varios días sin dormir](https://lamenteesmaravillosa.com/aprende-decir-no/), pero ha merecido mucho la pena.
