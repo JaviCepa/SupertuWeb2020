@@ -181,6 +181,6 @@ $(document).ready(function(){
 		var navButton = $('button.navbar-toggle');
 
 		if(!navButton.hasClass("collapsed"))
-		$('.navbar-toggle').click();
+			$('.collapse').collapse('hide');
 	});
 });
