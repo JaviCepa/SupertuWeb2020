@@ -45,6 +45,7 @@ $(document).ready(function(){
 	// Global vars
 	var navTarget = $('body').attr('data-page-url');
 	var docTitle = document.title;
+	var docDescription = $("meta[name='description']")[0].content;
 	var History = window.History;
 	var lastUrl = document.URL.substr(0, document.URL.length-1);
 	var newUrl;
@@ -90,7 +91,9 @@ $(document).ready(function(){
 
 					// Set page title
 					docTitle = $('.page__content').attr('data-page-title');
+					docDescription = $('.page__content').attr('data-page-description');
 					document.title = docTitle;
+					$("meta[name='description']")[0].content = docDescription;
 
 				}, transitionTime);
 
@@ -162,6 +165,7 @@ $(document).ready(function(){
 				
 				// Switch the URL via History
 				History.pushState(null, docTitle, thisTarget);
+				History.pushState(null, docDescription, thisTarget);
 			}
 
 		});
