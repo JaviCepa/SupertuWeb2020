@@ -20,8 +20,12 @@ permalink: /team/
 <section id="portfolio-work" style="padding-top: 40px;">
     <div class="container">
 		{% assign sorted_team = site.team | sort:"order" %}
-		{% for teammember in sorted_team %}
-        <div class="row"> <!-- onclick="window.location='{{ teammember.url | prepend: site.baseurl }}';"> -->
+        {% for teammember in sorted_team %}
+        {% if teammember.name_filter %}
+            <div class="row" style="cursor: pointer;" onclick="window.location='/author/{{ teammember.name_filter }}';">
+        {% else %}
+        <div class="row">
+        {% endif %}
           <div class="col-md-4">
             <div class="block">
 				<img src="{{ teammember.image }}" style="height: 100%; width: 100%;">
