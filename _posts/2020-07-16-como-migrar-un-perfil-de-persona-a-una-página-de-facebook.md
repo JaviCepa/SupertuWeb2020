@@ -8,7 +8,7 @@ author: Marina Aneas
 image: /img/upload/como-migrar-un-perfil-de-persona-a-una-pagina-de-facebook.png
 description: migrar perfil pagina facebook
 ---
-Una página comercial o fan page en Facebook aportará muchos beneficios a nuestro negocio si sabemos cómo sacar provecho de esta plataforma tan potente. Entre las ventajas de tenerla se encuentran, por ejemplo, los anuncios en Facebook e Instagram, que ya sabrás lo importantes que son tanto para negocios online como offline.
+Una página comercial o fan page en Facebook aportará muchos beneficios a nuestro negocio si sabemos cómo sacar provecho de esta plataforma tan potente. Entre las ventajas de tenerla se encuentran, por ejemplo, [los anuncios en Facebook](https://supertu.es/publicidad-en-facebook/) e [Instagram](https://supertu.es/publicidad-en-instagram/), que ya sabrás lo importantes que son tanto para negocios online como offline.
 
 ## Si tu negocio tiene un perfil personal y quieres migrarlo a una página de Facebook, aquí te vamos a enseñar cómo hacerlo paso a paso.
 
