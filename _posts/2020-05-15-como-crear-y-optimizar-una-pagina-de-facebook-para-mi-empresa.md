@@ -22,7 +22,7 @@ En primer lugar, debes hacer clic en el siguiente enlace [www.facebook.com/pages
 
 El siguiente paso será elegir la categoría de negocio que más se ajuste a tu empresa y elegiremos un nombre de página y una categoría.
 
-Una vez realizado este paso, ya tenemos nuestra página creada. Ahora solo nos queda optimizarla al máximo. Para ello, comenzaremos poniendo una imagen de perfil. Lo ideal es poner el logotipo de tu empresa para que los usuarios puedan reconocerte. Esta imagen debe tener una resolución de 500x500 píxeles.
+Una vez realizado este paso, ya tenemos nuestra página creada. Ahora solo nos queda optimizarla al máximo. Para ello, comenzaremos poniendo una imagen de perfil. Pon el logotipo de tu empresa para que los usuarios puedan reconocerte. Esta imagen debe tener una resolución de 500x500 píxeles.
 
 Una vez creada, pasamos al siguiente punto: la portada de Facebook. En la portada de Facebook puedes poner una imagen, un vídeo o una presentación de imágenes. Cualquier opción que elijas debe tener un formato de 851x315 píxeles.
 
@@ -46,4 +46,4 @@ En este botón tenemos la oportunidad de poner varias opciones: un enlace a tu w
 
 A nivel inicial, con esto sería suficiente para poder empezar. ¡Pero no es todo lo que puedes hacer con tu página!
 
-Si quieres llevar tus redes sociales a un nivel más profesional, puedes ponerte en contacto con nosotras a través del formulario de contacto que encontrarás al final de esta página.
+Si quieres llevar tus [redes sociales a un nivel más profesional](https://supertu.es/servicios-social-media), puedes ponerte en contacto con nosotras a través del formulario de contacto que encontrarás al final de esta página.
