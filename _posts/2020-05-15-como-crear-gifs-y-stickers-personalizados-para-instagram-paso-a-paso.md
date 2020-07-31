@@ -43,4 +43,6 @@ Una vez has hecho tu solicitud para el cambio del estado de tu cuenta, tendrás 
 
 Una vez hayan aceptado tu solicitud como brand o artist channel, en el plazo de 24 horas tus creaciones irán apareciendo en los motores de búsqueda de las diferentes integraciones de GIPHY.
 
+Si estás listo para hacer stickers, sube al siguiente nivel pinchando [aquí](https://supertu.es/vender-en-redes-sociales-tienda-en-facebook-e-instagram/).
+
 *Supertú es una agencia de marketing enfocada en la comunicación a través de redes sociales, ¿quieres pedir tu presupuesto?[¡Hazlo aquí!](https://supertu.es/contact)*
