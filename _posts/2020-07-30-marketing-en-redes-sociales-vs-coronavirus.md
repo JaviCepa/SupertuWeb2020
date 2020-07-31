@@ -14,11 +14,11 @@ Lo que hemos aprendido de nuestros clientes durante los últimos años, es que n
 
 Esto es un tema cultural, no depende de lo bien o lo mal que hagamos nuestro trabajo o de con qué empeño lo expliquemos. Depende del momento vital que vive el empresario y de qué interés genuino muestra por lo que hacemos.
 
-El avance de esta percepción de las empresas por lo online, ha tenido una evolución curiosa. La publicidad en redes sociales ha pasado de ser el extraterrestre del que nadie habla el idioma, a la piedra filosofal de cualquier negocio. Y esto se ha visto profundamente favorecido por la pandemia.
+El avance de esta percepción de las empresas por lo online, ha tenido una evolución curiosa. La [publicidad en redes sociales](https://supertu.es/publicidad-en-facebook/) ha pasado de ser el extraterrestre del que nadie habla el idioma, a la piedra filosofal de cualquier negocio. Y esto se ha visto profundamente favorecido por la pandemia.
 
-En nuestra primera semana de encierro perdimos 7 clientes. Del tirón. Sin tiritas. Es la reacción más lógica, a mi también me pasa. Cuando veo que el beneficio flaquea, congelo los "gastos". Pero, ¡ay amigo! Lo nuestro no es un "gasto" cualquiera. A medida que pasaban los días y el gobierno extendía el estado de alarma, nuestros clientes empezaron a darse cuenta de que los canales sociales eran los únicos que tenían vivos y operativos. Hemos tenido clientes dedicados a la venta de inmuebles para extranjeros que han tenido todas sus oficinas comerciales cerradas y a los que los únicos leads que les llegaban era gracias a nuestro trabajo en sus redes sociales. 
+En nuestra primera semana de encierro perdimos 7 [clientes](https://supertu.es/clientes). Del tirón. Sin tiritas. Es la reacción más lógica, a mi también me pasa. Cuando veo que el beneficio flaquea, congelo los "gastos". Pero, ¡ay amigo! Lo nuestro no es un "gasto" cualquiera. A medida que pasaban los días y el gobierno extendía el estado de alarma, nuestros clientes empezaron a darse cuenta de que los canales sociales eran los únicos que tenían vivos y operativos. Hemos tenido clientes dedicados a la venta de inmuebles para extranjeros que han tenido todas sus oficinas comerciales cerradas y a los que los únicos leads que les llegaban era gracias a nuestro trabajo en sus redes sociales. 
 
-Un claro ejemplo lo hemos vivido también con los restaurantes, una vez que se permitió que volvieran a abrir sus puertas, se preguntaron: ¿Y ahora cómo va a saber la gente que estamos abiertos a no ser que pasen por delante de nuestro local?. Un post de Instagram patrocinado con 5€ te resuelve la papeleta. Pero si el camino de lo social, no lo tienes abierto, se te hace un mundo.
+Un claro ejemplo lo hemos vivido también con los restaurantes, una vez que se permitió que volvieran a abrir sus puertas, se preguntaron: ¿Y ahora cómo va a saber la gente que estamos abiertos a no ser que pasen por delante de nuestro local?. [Un post de Instagram patrocinado](https://supertu.es/publicidad-en-instagram/) con 5€ te resuelve la papeleta. Pero si el camino de lo social, no lo tienes abierto, se te hace un mundo.
 
 Los perfiles de empresas en redes sociales no solo se crean, sino que se optimizan casi a diario. Es un trabajo de chinos pero tremendamente efectivo. Se combinan con publicaciones coherentes y de calidad. Y por último, se aderezan con publicidad. Esa es la clave para que el engranaje funcione.
 
@@ -32,4 +32,4 @@ Esto cobra un valor especial cuando vives en un país con una crisis económica 
 
 El coronavirus ha sido y está siendo un desastre mundial, pero como somos de buscarle el lado positivo a todo, os diré que nos ha ayudado a entender el teletrabajo más que nunca, la conciliación y el valor de las redes  sociales (aunque esto último ya lo sabíamos); entre otras muchas cosas.
 
-Si te decides a poner a punto tus canales  de redes sociales y sacarles el máximo rendimiento. ¡Escríbenos!
+*Supertú es una agencia de marketing enfocada en la comunicación a través de redes sociales, ¿quieres pedir tu presupuesto?[¡Hazlo aquí!](https://supertu.es/contact)*
