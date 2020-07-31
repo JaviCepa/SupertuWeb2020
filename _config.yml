@@ -45,6 +45,7 @@ descriptions:
   - cat: blogpost
     desc: "El blog de Super Tú"
 
+include: ["_redirects"]
 
 plugins:
   # - jekyll-seo-tag
