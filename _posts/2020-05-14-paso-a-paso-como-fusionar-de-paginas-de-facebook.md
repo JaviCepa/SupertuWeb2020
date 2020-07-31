@@ -38,4 +38,6 @@ Este proceso puede durar desde unas cuantas horas hasta días, dependiendo de cu
 
 Esperamos haber sido de ayuda y que hayas podido completar la **fusión de páginas de Facebook** con éxito✅
 
+Si ya tienes lista la fusión y quieres pasar al siguiente nivel, échale un vistazo a [este post](https://supertu.es/como-crear-y-optimizar-una-pagina-de-facebook-para-mi-empresa/) 😉
+
 *Supertú es una agencia de marketing enfocada en la comunicación a través de redes sociales, ¿quieres pedir tu presupuesto?[¡Hazlo aquí!](https://supertu.es/contact)*
