@@ -14,9 +14,9 @@ Determinar, investigar y analizar a la competencia de tu negocio es algo que tod
 
 Normalmente, investigamos cómo comunican, precios, productos, geolocalización y una extensa lista que necesitaría otro artículo independiente. Pues hoy queremos alargar un poquito más esa lista y os vamos a enseñar cómo podéis espiar los anuncios de vuestra competencia en Facebook e Instagram.
 
-Con esto, podrás ver el tipo de anuncios que realiza, las imágenes, los textos y cómo segmenta a su público objetivo en las redes. ¿Quieres saber cómo? Sigue leyendo…
+Con esto, podrás ver el tipo de [anuncios](https://supertu.es/publicidad-en-facebook/) que realiza, las imágenes, los textos y cómo segmenta a su público objetivo en las redes. ¿Quieres saber cómo? Sigue leyendo…
 
-Invertir en social ads (o anuncios en redes sociales) es algo que, con una buena estrategia detrás, podrá darte grandes resultados en un plazo medio de tiempo. Podrá darte reconocimiento de marca, información valiosa sobre tu público potencial y, cómo no, puede aumentar los beneficios de tu negocio promocionando tus productos o servicio.
+Invertir en [social ads](https://supertu.es/publicidad-en-instagram/) (o anuncios en redes sociales) es algo que, con una buena estrategia detrás, podrá darte grandes resultados en un plazo medio de tiempo. Podrá darte reconocimiento de marca, información valiosa sobre tu público potencial y, cómo no, puede aumentar los beneficios de tu negocio promocionando tus productos o servicio.
 
 ### Primero os queremos hablar de una plataforma que nos facilita el mismísimo Facebook para ver los anuncios activos de cada página comercial: [Ads Library](https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ES&impression_search_field=has_impressions_lifetime)
 
