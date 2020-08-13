@@ -159,8 +159,12 @@ header {
 
 .navbar-center {
   margin: auto;
-  width: 80%;
+  width: fit-content;
   float: none;
+}
+
+.navbar-right {
+  width: 100%;
 }
 
 .navbar .contact-info a {

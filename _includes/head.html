@@ -1,5 +1,6 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
+{% if page.noIndex%}<meta name="robots" content="noindex">{% endif %}
 <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
 
@@ -54,3 +55,23 @@
 <script src="{{ site.baseurl }}/js/history.js"></script>
 
 <script src="{{ site.baseurl }}/js/main.js"></script>
+
+<script>
+    window.Papercups = {
+      config: {
+        accountId: 'ddf37235-e2f9-4cfa-ac49-5a22dba36dbb',
+        title: 'Bienvenido/a a Super Tú!',
+        subtitle: 'Pregunta lo que sea! Te responderemos lo antes posible 😊',
+        primaryColor: '#035c67',
+        greeting: 'Hola! Tienes alguna pregunta?',
+        newMessagePlaceholder: 'Empieza a escribir...',
+        baseUrl: 'https://app.papercups.io'
+      },
+    };
+  </script>
+  <script
+    type="text/javascript"
+    async
+    defer
+    src="https://app.papercups.io/widget.js"
+  ></script>
