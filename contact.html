@@ -41,22 +41,37 @@ permalink: /contacta/
         <div class="block">
           <form name="contact" method="POST" data-netlify="true">
             <div class="form-group">
-              <input name="nombre" type="text" class="form-control" placeholder="Tu nombre"required>
+				<label>
+				  ¿Cómo te llamas?
+				  <input name="nombre" type="text" class="form-control" placeholder="Tu nombre"required>
+				</label>
             </div>
             <div class="form-group">
-              <input name="email" type="text" class="form-control" placeholder="Tu email"required>
+			  <label>
+			    ¿Cual es tu email?
+                <input name="email" type="text" class="form-control" placeholder="Tu email"required>
+			  </label>
             </div>
             <div class="form-group">
+			  <label>
+			  ¿Sobre qué tema quieres contactarnos?
               <input name="asunto" type="text" class="form-control" placeholder="Asunto"required>
+			  </label>
             </div>
-			      <div class="form-group">
+			<div class="form-group">
+			  <label>
+			  Cuéntanos qué necesitas
               <textarea name="mensaje" class="form-control" rows="3" placeholder="Mensaje"required></textarea>
+			  </label>
             </div>
             <div class="privacy-input">
+			  <label>
+			  ¿Aceptas los términos de la política de privacidad?
               <input name="privacy" type="checkbox"  class="form-control" aria-required="true" required>
+			  </label>
               <p style="display: inline-block;">Acepto los términos de condiciones de la <a target="_blank" href="{{ site.baseurl }}/privacy">política de privacidad</a></p>
             </div>
-			<div class="form-group" data-netlify-recaptcha="true"></div>
+			<div class="form-group" <!--data-netlify-recaptcha="true"-->></div>
             <button class="btn btn-default" type="submit">Enviar mensaje</button>
           </form>
         </div>
