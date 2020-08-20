@@ -32,11 +32,7 @@ permalink: /
       </div>
       <div class="col-md-5 col-sm-12">
         <div class="block">
-		<picture style="padding-top: 50px;">
-		  <source srcset="img/wrapper-img-1.webp" type="image/webp">
-		  <source srcset="img/wrapper-img-1.jpg" type="image/jpeg"> 
-		  <img src="img/wrapper-img-1.jpg" alt="Nosotras">
-		</picture>
+		  <img src="img/wrapper-img-1.webp" loading="lazy" alt="Nosotras">
         </div>
       </div>
     </div>
@@ -48,11 +44,7 @@ permalink: /
     <div class="row">
 		<div class="col-md-5 col-sm-12">
         <div class="block">
-		<picture style="padding-top: 50px;">
-		  <source srcset="img/wrapper-img-2.webp" type="image/webp">
-		  <source srcset="img/wrapper-img-2.jpg" type="image/jpeg"> 
-		  <img src="img/wrapper-img-2.jpg" alt="Intro">
-		</picture>
+		<img src="img/wrapper-img-2.webp" loading="lazy" alt="Intro">
         </div>
       </div>
       <div class="col-md-7 col-sm-12">
@@ -81,13 +73,7 @@ permalink: /
         </div>
       </div>
 	  <div class="col-md-5 col-sm-12">
-        <div class="block">
-			<picture style="padding-top: 50px;">
-			  <source srcset="img/wrapper-img-3.webp" type="image/webp">
-			  <source srcset="img/wrapper-img-3.jpg" type="image/jpeg"> 
-			  <img src="img/wrapper-img-3.jpg" alt="Nativas digitales">
-			</picture>
-        </div>
+		<img src="img/wrapper-img-3.webp" loading="lazy" alt="Nativas digitales">
       </div>
     </div>
   </div>
@@ -132,7 +118,7 @@ permalink: /
                 <img src="img/cotation.png" alt="IMG">
                 <p>{{ tm.testimonial }}</p>
                 <div class="user">
-                  <img src="{{ tm.image }}" alt="Pepole">
+                  <img src="{{ tm.image }}" alt="Clientes" loading="lazy">
                   <p><span>{{ tm.name }}</span> {{ tm.title }}</p>
                 </div>
             </div>
