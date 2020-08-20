@@ -126,7 +126,8 @@ body {
 }
 
 .privacy-input p a {
-  color: rgb(138, 199, 206);
+  color: rgb(255, 255, 255);
+  text-decoration: underline;
 }
 
 #global-header {
