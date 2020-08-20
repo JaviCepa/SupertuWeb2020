@@ -146,7 +146,7 @@ font header .navbar-default .navbar-nav li a:hover {
   margin: 0;
 }
 #intro .block p {
-  color: #7B7B7B;
+  color: #000000;
   padding-top: 20px;
 }
 #intro .block img {
@@ -278,7 +278,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #testimonial .block p {
   padding-top: 50px;
-  color: #7B7B7B;
+  color: #000000;
 }
 #testimonial .counter-box li {
   width: 50%;

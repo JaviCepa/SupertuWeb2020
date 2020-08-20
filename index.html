@@ -32,10 +32,10 @@ permalink: /
       </div>
       <div class="col-md-5 col-sm-12">
         <div class="block">
-		<picture alt="Img" style="padding-top: 50px;">
+		<picture style="padding-top: 50px;">
 		  <source srcset="img/wrapper-img-1.webp" type="image/webp">
 		  <source srcset="img/wrapper-img-1.jpg" type="image/jpeg"> 
-		  <img src="img/wrapper-img-1.jpg">
+		  <img src="img/wrapper-img-1.jpg" alt="Nosotras">
 		</picture>
         </div>
       </div>
@@ -48,10 +48,10 @@ permalink: /
     <div class="row">
 		<div class="col-md-5 col-sm-12">
         <div class="block">
-		<picture alt="Img" style="padding-top: 50px;">
+		<picture style="padding-top: 50px;">
 		  <source srcset="img/wrapper-img-2.webp" type="image/webp">
 		  <source srcset="img/wrapper-img-2.jpg" type="image/jpeg"> 
-		  <img src="img/wrapper-img-2.jpg">
+		  <img src="img/wrapper-img-2.jpg" alt="Intro">
 		</picture>
         </div>
       </div>
@@ -82,10 +82,10 @@ permalink: /
       </div>
 	  <div class="col-md-5 col-sm-12">
         <div class="block">
-			<picture alt="Img" style="padding-top: 50px;">
+			<picture style="padding-top: 50px;">
 			  <source srcset="img/wrapper-img-3.webp" type="image/webp">
 			  <source srcset="img/wrapper-img-3.jpg" type="image/jpeg"> 
-			  <img src="img/wrapper-img-3.jpg">
+			  <img src="img/wrapper-img-3.jpg" alt="Nativas digitales">
 			</picture>
         </div>
       </div>
@@ -109,12 +109,12 @@ permalink: /
       <div class="col-md-6">
         {% if site.data.funfacts.size > 0 %}
         <div class="block">
-          {% for ff in site.data.funfacts %}
           <ul class="counter-box clearfix">
+			{% for ff in site.data.funfacts %}
             <li>
               <div class="block">
                 <i class="{{ ff.icon }}"></i>
-                <h4 class="counter">{{ ff.counter }}</h4>
+                <h3 class="counter">{{ ff.counter }}</h3>
                 <span>{{ ff.text }}</span>
               </div>
             </li>
