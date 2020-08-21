@@ -288,14 +288,14 @@ ul.share-buttons .sr-only{
 
 .social-buttons {
 	color: #035c67;
-	padding: 20px;
+	padding: 0px;
 	position: fixed;
 	bottom: 0;
 	width: 100%;
 	height: 130px;
     z-index: 100;
 	background-image: linear-gradient(#FFFFFF00, white);
-  pointer-events: none;
+	pointer-events: none;
 }
 
 .social-buttons a {
