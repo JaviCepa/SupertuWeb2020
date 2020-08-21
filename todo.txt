@@ -1,0 +1,3 @@
+[ ] Volver a añadir el pixel de facebook
+[ ] Volver a añadir intercom o similar
+[X] Restablecer menú
