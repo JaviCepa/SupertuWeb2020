@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="no-js" lang="es">
+<html class="no-js" lang="es" style="position: absolute; width: 100%;">
   <head>
 
     {% include head.html %}
@@ -12,7 +12,7 @@
     {% endif %}
   </head>
   <body class="loading{% if site.data.settings.advanced_settings.ajax_loading == true %} ajax-loading{% endif %}"
-  data-site-url="{{ site.url }}" data-page-url="{{ page.url | replace: 'index.html', '' }}">
+  data-site-url="{{ site.url }}" data-page-url="{{ page.url | replace: 'index.html', '' }}" style="min-width: fit-content;">
     <div class="page-loader"></div>
 
     <div class="page">

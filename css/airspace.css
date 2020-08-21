@@ -119,9 +119,8 @@ font header .navbar-default .navbar-nav li a:hover {
 #slider .block h1 {
   font-weight: 100;
   font-size: 45px;
-  line-height: 60px;
   letter-spacing: 10px;
-  padding-bottom: 45px;
+  padding-bottom: 10px;
 }
 #slider .block p {
   font-size: 23px;
