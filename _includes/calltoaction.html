@@ -12,37 +12,22 @@
               <div class="block">
                 <form name="contact" method="POST" data-netlify="true">
                   <div class="form-group">
-					<label>
-					¿Cómo te llamas?
-                    <input name="nombre" type="text" class="form-control" placeholder="Tu nombre" aria-required="true" required>
-					</label>
+                    <input name="nombre" type="text" class="form-control" placeholder="Tu nombre" aria-required="true" aria-label="Nombre" required>
                   </div>
                   <div class="form-group">
-					<label>
-					¿Cual es tu email?
-                    <input name="email" type="text" class="form-control" placeholder="Tu email" aria-required="true" required>
-					</label>
+                    <input name="email" type="text" class="form-control" placeholder="Tu email" aria-required="true" aria-label="Email"required>
                   </div>
                   <div class="form-group">
-					<label>
-					¿Cual es el asunto de tu mensaje?
-                    <input name="asunto" type="text" class="form-control" placeholder="Asunto" aria-required="true" required>
-					</label>
+                    <input name="asunto" type="text" class="form-control" placeholder="Asunto" aria-required="true" aria-label="Asunto"required>
                   </div>
                   <div class="form-group">
-					<label>
-					Cuéntanos qué necesitas
-                    <textarea name="mensaje" class="form-control" rows="3" placeholder="Mensaje" aria-required="true" required></textarea>
-					</label>
+                    <textarea name="mensaje" class="form-control" rows="3" placeholder="Mensaje" aria-required="true" aria-label="Mensaje"required></textarea>
                   </div>
                   <div class="privacy-input">
-					<label>
-					¿Aceptas la política de privacidad?
-                    <input name="privacy" type="checkbox"  class="form-control" aria-required="true" required>
-					</label>
+                    <input name="privacy" type="checkbox"  class="form-control" aria-required="true" aria-label="Política de privacidad" required>
                     <p style="display: inline-block;">Acepto los términos de condiciones de la <a target="_blank" href="{{ site.baseurl }}/privacy">política de privacidad</a></p>
                   </div>
-                  <div class="form-group" <!--data-netlify-recaptcha="true"-->></div>
+                  <div class="form-group" <!--data-netlify-recaptcha="true">--></div>
                   
                   <button class="btn btn-default btn-call-to-action" type="submit">¡Quiero ser una supermarca!</button>
                 </form>

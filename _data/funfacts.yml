@@ -1,12 +1,12 @@
 - counter: 21003
-  icon: ion-ios-chatboxes-outline
+  icon: /img/icons/feat_coffee.svg
   text: Tazas de café
 - counter: 150
-  icon: ion-ios-glasses-outline
+  icon: /img/icons/feat_handshake.svg
   text: Cuentas gestionadas
 - counter: 1247
-  icon: ion-ios-compose-outline
+  icon: /img/icons/feat_keyboard.svg
   text: Teclas desgastadas
 - counter: 81
-  icon: ion-heart
+  icon: /img/icons/feat_graph.svg
   text: Clientes satisfechos
