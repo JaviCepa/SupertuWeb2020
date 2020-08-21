@@ -7,7 +7,7 @@ tags:
   - Facebook
   - Redes sociales
 author: María Araujo
-image: /img/upload/facebook-rediseña-su-plataforma.png
+image: /img/upload/facebook-redisena-su-plataforma.png
 description: Facebook cambia el diseño de su plataforma
 ---
 Queridos **Community Managers**, podéis respirar tranquilos. Esta vez es un cambio de diseño, no de algoritmo (por ahora 🙄). ⁣⁣
