@@ -53,7 +53,7 @@ body {
 }
 
 #slider {
-	padding: 30px;
+	padding: 40px;
 }
 
 #global-header:before {
@@ -346,6 +346,7 @@ ul.share-buttons .sr-only{
 .autor {
   margin: auto;
   width: max-content;
+  margin-top: 0;
 }
 
 .blog-header h1 {

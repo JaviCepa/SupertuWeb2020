@@ -1,25 +1,27 @@
 <!-- Header Start -->
-<header>
-<div class="container">
+<header style="padding: 0;">
+<div class="navbar-header" style="height: 100%;">
+<a href="/index.html">
+  <img src="{{ site.baseurl }}/img/logo.svg" alt="Logo" height="80%" width="100%" style="margin: auto; margin-top:5px;">
+</a>
+</div>
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu-colapsable"
+style="border:0; background:white; position:absolute; right: 15px; top: 15px; outline: 0;">
+<!--<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>-->
+  <img src="{{ site.baseurl }}/img/icons/menu.svg" alt="Menú" height="60px">
+</button>
+<!-- Brand and toggle get grouped for better mobile display -->
+<div class="container" style="margin-top: 90px">
   <div class="row">
     <div class="col-md-12">
       <!-- header Nav Start -->
       <nav class="navbar navbar-default">
         <div class="container-fluid">
-          <!-- Brand and toggle get grouped for better mobile display -->
-          <div class="navbar-header" style="margin: auto; margin-top: -20px;">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="/index.html">
-              <img src="{{ site.baseurl }}/img/logo.svg" alt="Logo" height="60px">
-            </a>
-          </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" style="background:white;">
+            <div class="collapse navbar-collapse" id="menu-colapsable" style="background:white;">
               {% include navbar.html %}
             </div><!-- /.navbar-collapse -->
           </div><!-- /.container-fluid -->
