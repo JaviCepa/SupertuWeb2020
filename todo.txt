@@ -1,3 +1,5 @@
+[ ] Poner la página en blanco durante la carga
 [ ] Volver a añadir el pixel de facebook
 [ ] Volver a añadir intercom o similar
+[ ] Resolver: ¿Por qué había un duplicado de la nav-bar en el footer?
 [X] Restablecer menú
