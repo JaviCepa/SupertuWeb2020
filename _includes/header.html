@@ -7,28 +7,33 @@
 </div>
 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu-colapsable"
 style="border:0; background:white; position:absolute; right: 15px; top: 15px; outline: 0;">
-<!--<span class="sr-only">Toggle navigation</span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>-->
   <img src="{{ site.baseurl }}/img/icons/menu.svg" alt="Menú" height="60px">
 </button>
+
+<!-- CONTACT INFO
+<li class="contact-info">
+	<div>
+		<a class="size-adjust float-right" href="mailto:hola@supertu.es">
+			<img src="/img/navbar/mail.png" alt="Email"> hola@supertu.es
+		</a>
+	</div>
+	<div>
+		<img src="/img/navbar/phone.png" alt="Teléfono">
+		<a class="size-adjust float-right" href="tel:+34653903359">653 903 359</a> / <a class="size-adjust float-right" href="tel:+3495112183">951 121 83</a>
+	</div>
+</li>
+-->
+
 <!-- Brand and toggle get grouped for better mobile display -->
-<div class="container" style="margin-top: 90px">
-  <div class="row">
-    <div class="col-md-12">
-      <!-- header Nav Start -->
-      <nav class="navbar navbar-default">
-        <div class="container-fluid">
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="menu-colapsable" style="background:white;">
-              {% include navbar.html %}
-            </div><!-- /.navbar-collapse -->
-          </div><!-- /.container-fluid -->
-        </nav>
-      </div>
-    </div>
-  </div>
+<div style="width: 100%">
+  <!-- header Nav Start -->
+  <nav class="navbar navbar-default" style="padding: 0;">
+	<!-- Collect the nav links, forms, and other content for toggling -->
+	<div class="collapse navbar-collapse" id="menu-colapsable" style="background:#ffffff;">
+	  {% include navbar.html %}
+	</div> <!-- /.navbar-collapse -->
+  </nav>
+</div>
 </header><!-- header close -->
 
 <div style="width: 100%; height: 10px; background-image: linear-gradient(#0005, #0000);
