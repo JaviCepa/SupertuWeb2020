@@ -182,7 +182,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	call-to-action Start
 --*/
 #call-to-action {
-  background: url("../img/call-to-action-bg.webp") no-repeat;
+  background: url("../img/contact-bg.webp") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   padding: 70px 0px;
