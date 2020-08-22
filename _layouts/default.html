@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="no-js" lang="es" style="position: absolute; width: 100vw; display:block;">
+<html class="no-js" lang="es">
   <head>
 
     {% include head.html %}
@@ -9,9 +9,23 @@
         {% include analytics.html %}
     {% endif %}
   </head>
-  <body class="loading{% if site.data.settings.advanced_settings.ajax_loading == true %} ajax-loading{% endif %}"
-  data-site-url="{{ site.url }}" data-page-url="{{ page.url | replace: 'index.html', '' }}" style="min-width: fit-content;">
-    <div class="page-loader"></div>
+  <body data-site-url="{{ site.url }}" data-page-url="{{ page.url | replace: 'index.html', '' }}">
+    <div class="cubierta-fade"></div>
+	<style>
+	.cubierta-fade {
+		background: white;
+		position: fixed;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
+		z-index: 2000;
+		padding: 0;
+		margin: 0;
+		transition: background-color 0.125s linear;
+		transition-delay: 0.35s;
+	}
+	</style>
 
     <div class="page">
       <div class="page__content"

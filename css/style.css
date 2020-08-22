@@ -4,12 +4,11 @@
  *
  */
 
- html {
+ html, body {
+  width: 100%;
   height: 100%;
-}
-
-body {
-  height: 100%;
+  padding: 0;
+  margin: 0;
   overflow-x: hidden;
 }
  
@@ -295,7 +294,7 @@ ul.share-buttons .sr-only{
 	width: 100%;
 	height: fit-content;
     z-index: 100;
-	background-image: linear-gradient(#FFFFFF00, white);
+	/*background-image: linear-gradient(#FFFFFF00, white);*/
 	pointer-events: none;
 }
 
