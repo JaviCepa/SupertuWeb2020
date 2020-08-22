@@ -10,8 +10,12 @@ permalink: /
       <div class="col-md-10 col-md-offset-2">
         <div class="block">
           <h1>SOCIAL MEDIA MARKETING</h1>
-          <p>Hacemos de tu marca una supermarca en redes sociales.</p>
-		  <p>Convertimos a tus seguidores en clientes.</p>
+		  <p id="MOTD"></p>
+		  <script>
+		  var myArray = ['Hacemos de tu marca una supermarca en redes sociales.', 'Convertimos a tus seguidores en clientes.'];
+		  var rand = myArray[Math.floor(Math.random() * myArray.length)];
+		  document.getElementById('MOTD').innerHTML = rand;
+		  </script>
         </div>
       </div>
     </div>
