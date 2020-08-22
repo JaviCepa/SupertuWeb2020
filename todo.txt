@@ -12,3 +12,7 @@
 
 Recomendaciones:
 [ ] Convertir el sub-artículo de la sección superpoderes (el de peter parker) a un post de blog
+[ ] Reducir los textos del index y desarrollarlos en su sección correspondiente (equipo, servicios, 
+
+Extra:
+[ ] Widget para elaborar tu propio presupuesto en JS
