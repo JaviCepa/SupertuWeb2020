@@ -5,7 +5,6 @@
  */
 
  html {
-  scroll-behavior: smooth;
   height: 100%;
 }
 
@@ -289,10 +288,11 @@ ul.share-buttons .sr-only{
 .social-buttons {
 	color: #035c67;
 	padding: 0px;
+	padding-bottom: 10px;
 	position: fixed;
-	bottom: 0;
+	bottom: 0px;
 	width: 100%;
-	height: 130px;
+	height: fit-content;
     z-index: 100;
 	background-image: linear-gradient(#FFFFFF00, white);
 	pointer-events: none;

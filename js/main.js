@@ -69,10 +69,10 @@ $(document).ready(function(){
 				// Scroll to top
 				$( 'body, html' ).animate({
 					scrollTop: 0
-				}, 300);
+				}, 0);
 
 				// Find transition time
-				var transitionTime = 50;
+				var transitionTime = 0;
 
 				// After current content fades out
 				setTimeout( function() {

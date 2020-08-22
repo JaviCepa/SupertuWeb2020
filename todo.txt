@@ -1,5 +1,7 @@
-[ ] Poner la página en blanco durante la carga
+
 [ ] Volver a añadir el pixel de facebook
 [ ] Volver a añadir intercom o similar
 [ ] Resolver: ¿Por qué había un duplicado de la nav-bar en el footer?
+[ ] Restablecer (o mejorar) carrusel de testimonos
+[X] Poner la página en blanco durante la carga
 [X] Restablecer menú
