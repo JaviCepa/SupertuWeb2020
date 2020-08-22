@@ -165,12 +165,16 @@ px      68    160    252    */
   .heading {
     padding-left: 0px;
   }
+  
   h2 {
     font-size: 18px;
   }
+  
   p {
-    font-size: 13px;
+    font-size: 20px;
+    line-height: 1.75;
   }
+  
   header .navbar-default .navbar-toggle {
     margin-top: 10px;
     margin-bottom: 30px;

@@ -185,7 +185,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #call-to-action {
   background: url("../img/contact-bg.webp") no-repeat;
   background-size: cover;
-  padding: 70px 0px;
+  padding: 0px;
   position: relative;
   text-align: center;
   color: #fff;
@@ -209,8 +209,8 @@ font header .navbar-default .navbar-nav li a:hover {
   font-size: 30px;
 }
 #call-to-action p {
-  font-size: 14px;
-  line-height: 1.6;
+    font-size: 20px;
+    line-height: 1.75;
 }
 #call-to-action .btn-call-to-action {
   padding: 15px 35px;
@@ -218,7 +218,6 @@ font header .navbar-default .navbar-nav li a:hover {
   background-color: #fff;
   font-size: 15px;
   color: #333333;
-  margin-top: 30px;
 }
 /*--
 	Feature Start
@@ -772,7 +771,7 @@ footer {
 footer p {
   font-size: 13px;
   line-height: 25px;
-  color: #000000;
+  color: #595959;
 }
 footer a {
   color: #595959;
