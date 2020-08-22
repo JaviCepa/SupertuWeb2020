@@ -1,8 +1,10 @@
 
 .page-loader {
-	width: 0;
-	height: 0;
-	background: white;
-	display: none;
-    z-index: 0;
+	background: transparent;
+    background-color: transparent;
+	pointer-events: none;
+}
+
+.barra-navegación {
+	visibility: visible;
 }
