@@ -61,8 +61,9 @@ body {
 
 .btn-call-to-action {
 	color: #ffffff !important;
-	background: #A48823 !important;
+	background: #035c67 !important;
     font-weight: 600;
+	box-shadow: 0px 0px 16px 8px;
 }
 
 #call-to-action:before {
