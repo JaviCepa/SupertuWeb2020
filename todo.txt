@@ -1,7 +1,10 @@
+[ ] Aumentar los tamaños de fuente en general
+
 [ ] Intentar reducir el uso de bootstrap
 [ ] Añadir whatsapp+email a la cabecera
 [ ] Volver a añadir el pixel de facebook
 [ ] Volver a añadir intercom o similar
+[ ] Restaurar iconos de la sección "súper poderes"
 [ ] Resolver: ¿Por qué había un duplicado de la nav-bar en el footer?
 [ ] Restablecer (o mejorar) carrusel de testimonos
 [X] Poner la página en blanco durante la carga
