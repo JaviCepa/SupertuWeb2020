@@ -9,3 +9,6 @@
 [ ] Restablecer (o mejorar) carrusel de testimonos
 [X] Poner la página en blanco durante la carga
 [X] Restablecer menú
+
+Recomendaciones:
+[ ] Convertir el sub-artículo de la sección superpoderes (el de peter parker) a un post de blog

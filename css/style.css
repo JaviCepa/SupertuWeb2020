@@ -51,7 +51,8 @@
 }
 
 #slider {
-	padding: 40px;
+	padding: 20px;
+    padding-top: 30px;
 }
 
 #global-header:before {
@@ -146,7 +147,7 @@
 }
 
 #intro {
-    padding: 10px 0;
+    padding: 0;
 }
 
 header {
