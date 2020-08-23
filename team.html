@@ -15,24 +15,18 @@ hero-subtitle: "La mejor garantía"
 <section id="portfolio-work" style="padding-top: 40px;">
     <div class="container">
 		{% assign sorted_team = site.team | sort:"order" %}
-        {% for teammember in sorted_team %}
-        {% if teammember.name_filter %}
-            <div class="row" style="cursor: pointer;" onclick="window.location='/author/{{ teammember.name_filter }}';">
-        {% else %}
-        <div class="row">
-        {% endif %}
-          <div class="col-md-4">
-            <div class="block">
-				<img src="{{ teammember.image }}" style="height: 100%; width: 100%;">
-            </div>
-          </div>
-		  <div class="col-md-8">
+		<div class="row" {% if teammember.name_filter %} style="cursor: pointer;" onclick="window.location='/author/{{ teammember.name_filter }}';" {% endif %} >
+		  {% for teammember in sorted_team %}
+		  <div class="col-md-4">
+			<div class="block">
+			  <img src="{{ teammember.image }}" style="height: 100%; width: 100%;">
+			</div>
 			<h2>{{ teammember.name }}</h2>
 			<p>{{ teammember.description }}</p>
 		  </div>
+		  {% endfor %}
         </div>
 		<br />
-		{% endfor %}
     </div>
 </section>
 
