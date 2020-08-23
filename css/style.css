@@ -249,13 +249,13 @@ header {
 
 #footer a {
   display: block;
-  font-size: 20px;
+  font-size: 14px;
 }
 
 #footer p,
 #footer img,
 #footer ul {
-  font-size: 20px;
+  font-size: 14px;
   padding-bottom: 10px;
 }
 
@@ -269,7 +269,7 @@ header {
 
 #footer .informative-texts-link {
   color: #595959;
-  font-size: 20px;
+  font-size: 14px;
 }
 
 ul.share-buttons{
@@ -330,7 +330,7 @@ ul.share-buttons .sr-only{
 }
 
 .client-li a i {
-  font-size: 20px;
+  font-size: 14px;
 }
 
 .client-img {

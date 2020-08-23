@@ -171,8 +171,8 @@ px      68    160    252    */
   }
   
   p {
-    font-size: 20px;
-    line-height: 1.75;
+    font-size: 14px;
+    line-height: 2;
   }
   
   header .navbar-default .navbar-toggle {
