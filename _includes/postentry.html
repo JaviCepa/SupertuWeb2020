@@ -1,23 +1,25 @@
-<div class="post-entry" style="cursor: pointer;" onclick="window.location='{{ post.url | prepend: site.baseurl }}';">
-	<div class="container">
-	  <div class="row" style="position: relative;">
-		<div class="col-sm-12 col-md-6" style="position: relative; min-height: 250px;">
-			<img src="{{ media_folder }}{{ post.image }}" style="max-width: 100%; border-radius: 10px;"/>
-		</div>
-		<div class="col-sm-12 col-md-6" style="position: relative;">
-			<h2 style="color: #2e7980;">
+
+<div class="col-lg-4" style="min-height: 250px;">
+	<div class="post-entry" style="cursor: pointer;" onclick="window.location='{{ post.url | prepend: site.baseurl }}';">
+		<img src="{{ media_folder }}{{ post.image }}" style="width: 100%; border-radius: 0px; position: relative; top: 0;"/>
+		<div style="padding: 0 20px 20px 20px;">
+			<div style="height: 90px; display: table-cell; vertical-align: middle;">
+			<h2 style="color: #2e7980; font-size: 20px; margin: 0; z-index: 5;">
 			{{ post.title }}
 			</h2>
-			<h4 style="color: #8cbcbf;">
+			</div>
+			<div style="position: relative; width: 100%; height: 30px; margin-top: -15px;">
+				<div style="background: #2e7980; position: absolute; top: 14px; left: 0px; right: 0px; bottom: 14px;"></div>
+				<p style="color: #2e7980; background: white; position: absolute; top: 0px; right: 15px; height: 30px; padding-right: 25px; padding-left: 10px;"><i>por {{post.author}}</i></p>
+				<img src="{{ media_folder }}{{ post.image }}" style="border-radius: 15px; width: 30px; height: 30px; position: absolute; right: 0px;"/>
+			</div>
+			<!--<h3 style="color: #8cbcbf; font-size: 20px;">
 			{{ post.subtitle }}
-			</h4>
-		  <i style="color: #c8cbcc;">
-			<p class="post-date">{{post.author}} - {{ post.date | date_to_long_string }}</p>
-		  </i>
-		  <p>
-			{{ post.content | strip_html | truncatewords: 50 }}
-		  </p>
+			</h3>-->
+			<p style="line-height: 1.75; margin: 0; height: 110px">
+			  {{ post.content | strip_html | truncatewords: 30 }}
+			</p>
+			<p style="color: #2e7980; text-align: right; margin: 0;"><i>{{ post.date | date: "%d/%m/%Y" }}</i></p>
 		</div>
-	  </div>
 	</div>
 </div>

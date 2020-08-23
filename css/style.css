@@ -37,7 +37,11 @@ img {
 
 .post-entry
 {
-	padding: 40px;
+	background: white;
+	box-shadow: #a0a8a8 0px 4px 16px;
+	border-radius: 10px;
+    overflow: hidden;
+	margin-bottom: 30px;
 }
 
 .post-entry a:link, .post-area a:visited {

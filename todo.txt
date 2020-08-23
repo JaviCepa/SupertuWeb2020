@@ -1,6 +1,7 @@
+[ ] Blog: remaquetar
+[ ] Traducir fechas
 [ ] Equipo: separar headers de fotos, unificar colores de párrafo/headers con la portada
 [ ] Añadir botón de "Articulos de Espe/Vito.." en la sección team
-[ ] Blog: remaquetar
 [ ] Elegir fuente y uniformizar su uso en toda la web
 [ ] Remaquetar las páginas de los posts
 [ ] Las landings son terribles
@@ -19,6 +20,7 @@
 [X] Resolver: ¿Por qué había un duplicado de la nav-bar en el footer?
 
 Consultas:
+[ ] Quitar los títulos de las imágenes de posts para no repetirlos justo debajo
 [ ] ¿Es necesario el pixel de facebook? -> Si. Puede penalizar el tiempo de carga...
 [ ] ¿Convertimos el sub-artículo de la sección superpoderes (el de peter parker) a un post de blog?
 [ ] ¿Reducimos los textos del home y los desarrollamos en la sección relacionada? (equipo, servicios...)
