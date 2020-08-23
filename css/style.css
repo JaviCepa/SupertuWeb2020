@@ -51,7 +51,7 @@ img {
 }
 
 #slider:before {
-	background: linear-gradient(to left, rgba(3, 92, 103, 1), rgb(138, 199, 206));
+	background: linear-gradient(to left, rgb(172 135 5), rgb(183 152 39));
 }
 
 #slider {
