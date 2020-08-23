@@ -1,19 +1,20 @@
-[ ] Unificar cabeceras/sliders de todas las páginas
+[ ] Las landings son terribles
 [ ] Añadir whatsapp+email a la cabecera
-[ ] Volver a añadir el pixel de facebook
 [ ] Restaurar iconos de la sección "súper poderes"
 [ ] Restablecer (o mejorar) carrusel de testimonos
 [ ] Volver a añadir intercom o similar
 [ ] Aumentar los tamaños de fuente en general
-[ ] Restaurar contenidos eliminados de las landing pages
+[X] Restaurar contenidos eliminados de las landing pages
+[X] Unificar cabeceras/sliders de todas las páginas
 [X] Intentar reducir el uso de bootstrap
 [X] Poner la página en blanco durante la carga
 [X] Restablecer menú
 [X] Resolver: ¿Por qué había un duplicado de la nav-bar en el footer?
 
-Recomendaciones:
-[ ] Convertir el sub-artículo de la sección superpoderes (el de peter parker) a un post de blog
-[ ] Reducir los textos del index y desarrollarlos en su sección correspondiente (equipo, servicios, 
+Consultas:
+[ ] ¿Es necesario el pixel de facebook? puede penalizar el tiempo de carga...
+[ ] ¿Convertimos el sub-artículo de la sección superpoderes (el de peter parker) a un post de blog?
+[ ] ¿Reducimos los textos del home y los desarrollamos en la sección relacionada? (equipo, servicios...)
 
 Extras:
 [ ] Widget para elaborar tu propio presupuesto en JS
