@@ -1,3 +1,9 @@
+[ ] Tamaño de fuente universal para el contenido: 14px
+[ ] Añadir botón de "Articulos de Espe/Vito.." en la sección team
+[ ] Equipo: separar headers de fotos, unificar colores de párrafo/headers con la portada
+[ ] Blog: remaquetar
+[ ] Elegir fuente y uniformizar su uso en toda la web
+[ ] Remaquetar las páginas de los posts
 [ ] Las landings son terribles
 [ ] Añadir whatsapp+email a la cabecera
 [ ] Restaurar iconos de la sección "súper poderes"
@@ -12,7 +18,7 @@
 [X] Resolver: ¿Por qué había un duplicado de la nav-bar en el footer?
 
 Consultas:
-[ ] ¿Es necesario el pixel de facebook? puede penalizar el tiempo de carga...
+[ ] ¿Es necesario el pixel de facebook? -> Si. Puede penalizar el tiempo de carga...
 [ ] ¿Convertimos el sub-artículo de la sección superpoderes (el de peter parker) a un post de blog?
 [ ] ¿Reducimos los textos del home y los desarrollamos en la sección relacionada? (equipo, servicios...)
 

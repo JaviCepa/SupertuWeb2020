@@ -4,7 +4,7 @@ name: Vito Aguilera
 description: >-
   Consultora de comunicación, experta en redes sociales, especialista en
   disfrutar de la vida y del trabajo en equipo. Cuando un profesional tiene la
-  suerte de dedicarse a lo que le gusta y de rodearse de los mejores, ¿qué puede
+  suerte de dedicarse a lo que le gusta y de <b>rodearse de los mejores</b>, ¿qué puede
   fallar? ¡Mi caso 100%!
 telephone: TBD
 position: TBD

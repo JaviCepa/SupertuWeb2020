@@ -4,7 +4,7 @@ name: María Araujo
 name_filter: mariaaraujo
 description: >-
   Fanática del Marketing Digital. Estoy especializada en Social Media
-  Management, aunque siempre me gusta estar en constante aprendizaje y descubrir
+  Management, aunque siempre me gusta estar en <b>constante aprendizaje</b> y descubrir
   nuevas áreas. El regaliz es una de las bases de mi dieta en Supertú y estoy
   aquí por los afterwork. 
 telephone: 640 27 29 04
