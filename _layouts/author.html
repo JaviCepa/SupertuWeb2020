@@ -1,21 +1,45 @@
 ---
 layout: page
+
+hero-title: "Creando supermarcas"
+hero-subtitle: "Posts del autor {{ page.author }}"
 ---
-<!-- Slider Start -->
-<section id="global-header">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="block">
-            <h1>Creando supermarcas</h1>
-            <p>Posts del autor {{ page.author }}</p>
-          </div>
+<section id="slider">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h1>{{ page.author }}</h1>
+		  <p>Publicaciones en el blog</p>
         </div>
       </div>
     </div>
+  </div>
 </section>
-{% for post in site.posts %}
-    {% if post.author == page.author %}
-        {% include postentry.html %}
-    {% endif %}
+<br>
+
+{% for member in site.team %}
+	{% if page.author == member.name %}
+		<style>
+			#slider {
+				background: url({{ site.baseurl }}{{ member.image }});
+				background-size: contain;
+				background-repeat: no-repeat;
+				background-position-x: right;
+			}
+		</style>
+	{% endif %}
 {% endfor %}
+
+<div class="container">
+	<div class="row">
+	  <div class="col-md-12">
+		{% for post in site.posts %}
+			{% if post.author == page.author %}
+				{% include postentry.html %}
+			{% endif %}
+		{% endfor %}
+	  </div>
+	</div>
+</div>
+
