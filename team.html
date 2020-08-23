@@ -15,14 +15,15 @@ hero-subtitle: "La mejor garantía"
 <section id="portfolio-work" style="padding-top: 40px;">
     <div class="container">
 		{% assign sorted_team = site.team | sort:"order" %}
-		<div class="row"
-		{% if teammember.name_filter %}
-		style="cursor: pointer;" onclick="window.location='/author/{{ teammember.name_filter }}';"
-		{% endif %}
-		>
+		
+		<div class="row">
 		  {% for teammember in sorted_team %}
 		  <div class="col-md-4">
+			{% if teammember.name_filter %}
+			<div class="block" style="cursor: pointer;" onclick="window.location='/author/{{ teammember.name_filter }}';">
+			{% else %}
 			<div class="block">
+			{% endif %}
 			  <img src="{{ teammember.image }}" style="height: 100%; width: 100%;">
 			</div>
 			<h2>{{ teammember.name }}</h2>

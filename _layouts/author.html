@@ -33,13 +33,11 @@ hero-subtitle: "Posts del autor {{ page.author }}"
 
 <div class="container">
 	<div class="row">
-	  <div class="col-md-12">
-		{% for post in site.posts %}
-			{% if post.author == page.author %}
-				{% include postentry.html %}
-			{% endif %}
-		{% endfor %}
-	  </div>
+	{% for post in site.posts %}
+		{% if post.author == page.author %}
+			{% include postentry.html %}
+		{% endif %}
+	{% endfor %}
 	</div>
 </div>
 
