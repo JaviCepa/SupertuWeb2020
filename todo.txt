@@ -5,6 +5,7 @@
 [ ] Restablecer (o mejorar) carrusel de testimonos
 [ ] Volver a añadir intercom o similar
 [ ] Aumentar los tamaños de fuente en general
+[ ] Restaurar contenidos eliminados de las landing pages
 [X] Intentar reducir el uso de bootstrap
 [X] Poner la página en blanco durante la carga
 [X] Restablecer menú

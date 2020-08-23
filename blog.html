@@ -5,20 +5,13 @@ title: El Blog de Supertú
 description: Descubre los mejores contenidos de marketing en redes sociales
 
 permalink: /blog/
+
+hero-title: "Creando supermarcas"
+hero-subtitle: "¡Bienvenido a nuestro blog!"
 ---
-<!-- Slider Start -->
-<section id="global-header">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="block blog-header">
-          <h1>Creando supermarcas</h1>
-          <p>¡Bienvenido a nuestro blog!</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+
+{% include hero.html %}
+
 {% for post in site.posts %}
 	{% include postentry.html %}
 {% endfor %}
