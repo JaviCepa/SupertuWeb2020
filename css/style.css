@@ -16,11 +16,16 @@ p {
 }
 
 h2 {
-  text-transform: uppercase;
   padding-top: 20px;
   line-height: 27px;
   margin: 0;
   color: #035c67;
+}
+
+h3 {
+  line-height: 20px;
+  margin: 0;
+  color: #987009;
 }
 
 img {
@@ -82,7 +87,8 @@ img {
 	color: #ffffff !important;
 	background: #035c67 !important;
     font-weight: 600;
-	box-shadow: #dac98e 0px 0px 16px 8px;
+    min-height: 50px;
+	width: 100%;
 }
 
 #call-to-action:before {
@@ -133,6 +139,8 @@ img {
 
 .privacy-input {
   display: flex;
+    width: 60%;
+    margin: auto;
 }
 
 .privacy-input input {
@@ -142,6 +150,7 @@ img {
 
 .privacy-input p {
   margin: auto;
+  margin-left: 20px;
 }
 
 .privacy-input p a {

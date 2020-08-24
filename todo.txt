@@ -15,7 +15,6 @@ Feedback:
 [ ] {Móvil} Las secciones de las chicas van mal (las páginas "author")
 
 To-do:
-[ ] Arreglar página de clientes
 [ ] Arreglar página de contacto
 [ ] Elegir fuente y uniformizar su uso en toda la web
 [ ] Remaquetar las páginas de los posts
@@ -23,6 +22,7 @@ To-do:
 [ ] Añadir whatsapp+email a la cabecera
 [ ] Restablecer (o mejorar) carrusel de testimonos
 [ ] Volver a añadir intercom o similar
+[X] Arreglar página de clientes
 [X] Añadir botón de "Articulos de Espe/Vito.." en la sección team
 [X] Restaurar iconos de la sección "súper poderes"
 [X] Arreglar página de superpoderes
@@ -43,6 +43,7 @@ Consultas:
 [ ] Añadir botones de conversión en cada una de las 3 features de la página de inicio
 [ ] Convertir la info detallada de los servicios en un popup/lightbox (y eliminar páginas individuales de servicios)
 [ ] ¿Reducir alto de la barra de navegación?
+[ ] ¿Renombrar sección "contacto" a "conócenos"?
 [ ] Quitar los títulos de las imágenes de posts para no repetirlos justo debajo
 [ ] ¿Es necesario el pixel de facebook? -> Si. Puede penalizar el tiempo de carga...
 [ ] ¿Convertimos el sub-artículo de la sección superpoderes (el de peter parker) a un post de blog?

@@ -216,6 +216,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background-color: #fff;
   font-size: 15px;
   color: #333333;
+  box-shadow: #dac98e 0px 0px 16px 8px;
 }
 /*--
 	Feature Start
