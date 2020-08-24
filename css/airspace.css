@@ -127,6 +127,7 @@ font header .navbar-default .navbar-nav li a:hover {
   line-height: 40px;
   font-weight: 300;
   letter-spacing: 3px;
+  color: white;
 }
 /*--
 	wrapper Start
@@ -134,15 +135,8 @@ font header .navbar-default .navbar-nav li a:hover {
 #intro {
   padding: 100px 0;
 }
-#intro .block h2 {
-  text-transform: uppercase;
-  padding-top: 35px;
-  line-height: 27px;
-  margin: 0;
-  color: #035c67;
-}
+
 #intro .block p {
-  color: #647778;
   padding-top: 20px;
 }
 #intro .block img {
@@ -209,10 +203,12 @@ font header .navbar-default .navbar-nav li a:hover {
   line-height: 33px;
   margin: 0;
   font-size: 30px;
+  color: white;
 }
 #call-to-action p {
-    font-size: 14px;
-    line-height: 1.75;
+  font-size: 14px;
+  line-height: 1.75;
+  color: white;
 }
 #call-to-action .btn-call-to-action {
   padding: 15px 35px;

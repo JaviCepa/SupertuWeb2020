@@ -11,6 +11,18 @@
   margin: 0;
 }
 
+p {
+  color: #647778;
+}
+
+h2 {
+  text-transform: uppercase;
+  padding-top: 20px;
+  line-height: 27px;
+  margin: 0;
+  color: #035c67;
+}
+
 img {
     border-radius: 10px;
 }
@@ -45,7 +57,7 @@ img {
 }
 
 .post-entry a:link, .post-area a:visited {
-  font-size: 30px;
+  font-size: 15px;
   color: rgba(3, 92, 103, 0.8);
 }
 

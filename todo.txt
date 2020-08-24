@@ -1,6 +1,8 @@
-[ ] Blog: remaquetar
-[ ] Traducir fechas
-[ ] Equipo: separar headers de fotos, unificar colores de párrafo/headers con la portada
+[ ] Arreglar página de clientes
+[ ] Arreglar página de superpoderes
+[ ] Arreglar página de contacto
+
+[ ] Reducir alto de la barra de navegación
 [ ] Añadir botón de "Articulos de Espe/Vito.." en la sección team
 [ ] Elegir fuente y uniformizar su uso en toda la web
 [ ] Remaquetar las páginas de los posts
@@ -9,6 +11,9 @@
 [ ] Restaurar iconos de la sección "súper poderes"
 [ ] Restablecer (o mejorar) carrusel de testimonos
 [ ] Volver a añadir intercom o similar
+[X] Equipo: separar headers de fotos, unificar colores de párrafo/headers con la portada
+[X] Blog: remaquetar
+[X] Traducir fechas
 [X] Aumentar los tamaños de fuente en general
 [X] Invertir colores del logo en la cabecera
 [X] Tamaño de fuente universal para el contenido: 14px
@@ -24,6 +29,7 @@ Consultas:
 [ ] ¿Es necesario el pixel de facebook? -> Si. Puede penalizar el tiempo de carga...
 [ ] ¿Convertimos el sub-artículo de la sección superpoderes (el de peter parker) a un post de blog?
 [ ] ¿Reducimos los textos del home y los desarrollamos en la sección relacionada? (equipo, servicios...)
+[ ] ¿Os pongo en equipo las caras dentro del logo? (parecido a lo de las esquinas del blog)
 
 Extras:
 [ ] Widget para elaborar tu propio presupuesto en JS
