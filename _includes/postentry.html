@@ -1,28 +1,31 @@
 
 <div class="col-lg-4" style="min-height: 250px;">
 	<div class="post-entry">
-		<!--<img src="{{ media_folder }}{{ post.image }}" style="width: 100%; border-radius: 0px; position: relative; top: 0;"/>-->
-		<div style="cursor: pointer; height: 200px; background: url({{ media_folder }}{{ post.image }}); background-size: cover;"
-		onclick="window.location='{{ post.url | prepend: site.baseurl }}';"></div>
-		<div style="padding: 0 20px 20px 20px;">
-			<div style="height: 100px; display: table-cell; vertical-align: middle;">
+		<div style="position: relative; cursor: pointer; height: 200px; background: url({{ media_folder }}{{ post.image }}); background-size: cover;"
+		onclick="window.location='{{ post.url | prepend: site.baseurl }}';">
+			<div style="background: linear-gradient(to bottom, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 100%); position: absolute; top:50%; bottom: 0; left: 0; right: 0;"></div>
+		</div>
+		<div style="height: 110px; display: table-cell; vertical-align: middle; padding: 30px 20px 0 20px; width: auto; display: block; margin-top: 0px;">
 			<a href="{{ post.url | prepend: site.baseurl }}">
-				<h2 style="color: #2e7980; font-size: 20px; margin: 0; z-index: 5;">
+				<h2 style="color: #054b54; font-size: 20px; margin: 0px; margin-bottom: 10px;">
 				{{ post.title }}
 				</h2>
 			</a>
-			<!--<h3 style="color: #8cbcbf; font-size: 20px;">
-			{{ post.subtitle }}
-			</h3>-->
-			</div>
-			<div style="position: relative; width: 100%; height: 30px; margin-top: -15px;">
-				<div style="background: #2e7980; position: absolute; top: 14px; left: 0px; right: 0px; bottom: 14px;"></div>
-				<p style="color: #2e7980; background: white; position: absolute; top: 0px; right: 15px; height: 30px; padding-right: 25px; padding-left: 10px;"><i>por {{post.author}}</i></p>
-				<img src="{{ media_folder }}{{ post.image }}" style="border-radius: 15px; width: 30px; height: 30px; position: absolute; right: 0px;"/>
-			</div>
-			<p style="line-height: 1.75; height: 130px">
+		</div>
+		<div style="padding: 0 20px 20px 20px;">
+			<p style="line-height: 1.75; height: 130px; margin-bottom: 30px;">
 			  {{ post.content | strip_html | truncatewords: 30 }}
 			</p>
+			<div style="position: relative; width: 100%; height: 30px; margin-top: -15px;">
+				<div style="background: #054b54; position: absolute; top: 0px; left: -20px; right: -20px; bottom: -30px;"></div>
+				<p style="color: white; position: absolute; top: 10px; left: 0px; height: 30px; padding-right: 10px; padding-left: 10px;"><i>{{post.author}} - {{ post.date | date: "%d/%b/%Y" }}</i></p>				
+				{% for member in site.team %}
+					{% if post.author == member.name %}
+					<div style="background: url({{ site.baseurl }}{{ member.image }}); background-size: cover; background-position: center; border-radius: 50px; width: 50px; height: 50px; position: absolute; right: 10px; bottom: 5px;"></div>
+					<div style="background: url({{ site.baseurl }}/img/member_frame.svg); background-size: cover; background-position: center; width: 110px; height: 110px; position: absolute; right: -20px; bottom: -25px;"></div>
+					{% endif %}
+				{% endfor %}
+			</div>
 			<!--<p style="color: #2e7980; text-align: right; margin: 0;"><i>{{ post.date | date: "%d/%m/%Y" }}</i></p>-->
 		</div>
 	</div>
