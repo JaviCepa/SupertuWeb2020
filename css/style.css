@@ -31,6 +31,15 @@ h3 {
 img {
     border-radius: 10px;
 }
+
+.contact-address a {
+	color: black;
+	line-height: 1.5;
+}
+
+.contact-address p {
+    margin-bottom: 15px;
+}
  
  .italic {
    font-style: italic;

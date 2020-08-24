@@ -15,13 +15,13 @@ Feedback:
 [ ] {Móvil} Las secciones de las chicas van mal (las páginas "author")
 
 To-do:
-[ ] Arreglar página de contacto
-[ ] Elegir fuente y uniformizar su uso en toda la web
 [ ] Remaquetar las páginas de los posts
 [ ] Las landings son terribles
 [ ] Añadir whatsapp+email a la cabecera
+[ ] Elegir fuente y uniformizar su uso en toda la web
 [ ] Restablecer (o mejorar) carrusel de testimonos
 [ ] Volver a añadir intercom o similar
+[X] Arreglar página de contacto
 [X] Arreglar página de clientes
 [X] Añadir botón de "Articulos de Espe/Vito.." en la sección team
 [X] Restaurar iconos de la sección "súper poderes"
