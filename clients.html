@@ -31,29 +31,55 @@ hero-subtitle: "La inversión más inteligente"
                 {% endif %}
               {% endif %}
               
-              <div class="col-md-4" style="height: 400px;">
-                <li class="client-li">
+              <div class="col-md-4" style="height: 400px; margin-bottom: 60px;">
+                <li class="client-li" style="position: relative;">
 				  <div style="background: url(/img/superpoder.svg); width: 200px; height: 200px; border-radius: 50px; margin: auto;">
-				  <img class="client-img" src="{{ media_folder }}{{ client.logo }}" alt="Cliente"
-				  style="width: 102px; height: 102px; border-radius: 50px; margin: auto; margin-top:50px;">
+				  {% if client.websiteUrl %}
+				  <a href="{{ client.websiteUrl }}" style="width: 100%;">
+				  {% endif %}
+				  <img class="client-img" src="{{ media_folder }}{{ client.logo }}" alt="Cliente" style="width: 102px; height: 102px; border-radius: 50px; margin: auto; margin-top:50px;">
+				  {% if client.websiteUrl %}
+				  </a>
+				  {% endif %}
 				  </div>
-				  <div style="background: white; position: relative; height: 300px; top: -100px; border-radius: 40px; border: #035c67 5px solid; z-index: -1; border-top: 0; margin: 20px; padding: 0 20px 20px 20px;">
+				  <div style="background: white; position: relative; height: 330px; top: -100px; border-radius: 40px; border: #054b54 5px solid; z-index: -1; border-top: 0; margin: 20px; padding: 0 20px 20px 20px;">
 					<h2 style="font-size: 20px; text-transform: none; position: relative; top: 20px;">{{ client.name }}</h2>
 					<h3 style="font-size: 15px; color:#987009; position: relative; top: 20px;">{{ client.business }}</h3>
 					{% if client.description %}
 					  <p style="position: relative; top: 30px;">{{ client.description }}</p>
 					{% endif %}
 				  </div>
-				  
-				  <!--<a href="{{ client.websiteUrl }}" style="width: 100%;"></a>-->
+				  <!--SOCIAL MEDIA ICONS-->
+				  <div style="position: absolute; height: 60px; bottom: 75px; left: 0; right: 0; z-index: 1; border-top: 0; margin: 20px; padding: 0 20px 20px 20px;">
+					<div style="position: absolute; height: 60px; bottom: -2px; left: 0; right: 0; text-align:center;">
+					{% if client.twitter and client.twitter != "" %}
+					  <a href="{{client.twitter}}" style="height: 60px; width: 60px; display: inline-block;">
+					  <img src="/img/icons/twitter.svg">
+					  </a>
+                    {% endif %}
+					{% if client.instagram and client.instagram != "" %}
+					  <a href="{{client.instagram}}" style="height: 60px; width: 60px; display: inline-block;">
+					  <img src="/img/icons/instagram.svg">
+					  </a>
+                    {% endif %}
+					{% if client.facebook and client.facebook != "" %}
+					  <a href="{{client.facebook}}" style="height: 60px; width: 60px; display: inline-block;">
+					  <img src="/img/icons/facebook.svg">
+					  </a>
+                    {% endif %}
+					{% if client.linkedin and client.linkedin != "" %}
+					  <a href="{{client.linkedin}}" style="height: 60px; width: 60px; display: inline-block;">
+					  <img src="/img/icons/linkedin.svg">
+					  </a>
+                    {% endif %}
+					</div>
+				  </div>
                   
 				  <!-- 
                   {% if client.instagram and client.instagram != "" %}
                     <a href="{{client.instagram}}"><i class="fa fa-instagram"></i></a>
                   {% endif %}
-                  {% if client.twitter and client.twitter != "" %}
-                    <a href="{{client.twitter}}"><i class="fa fa-twitter"></i></a>
-                  {% endif %}
+                  
                   {% if client.facebook and client.facebook != "" %}
                     <a href="{{client.facebook}}"><i class="fa fa-facebook"></i></a>
                   {% endif %}
