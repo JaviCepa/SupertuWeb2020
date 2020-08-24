@@ -1,5 +1,6 @@
 ---
-name: Clínica Veterinaria Vetsur
+name: Vetsur
+business: Clínica veterinaria
 logo: /img/upload/logos-web-2-.png
 description: Comunicación online acerca de la clínica y estrategias de captación
   de clientes potenciales.

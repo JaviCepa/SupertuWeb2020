@@ -1,5 +1,6 @@
 ---
-name: Escuela Internacional Cervantes
+name: Cervantes
+business: Escuela Internacional
 logo: /img/upload/logos-web-1-.png
 description: Mediante las redes sociales tratamos de dar a conocer la escuela a
   todos los estudiantes de español del mundo.

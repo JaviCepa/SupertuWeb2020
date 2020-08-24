@@ -1,5 +1,6 @@
 ---
-name: EIP Escuela de postgrados - Mainjobs
+name: EIP
+business: Escuela de postgrados
 logo: /img/upload/logo-eip-4x.png
 description: Creación, monitorización y gestión de campañas orientadas a la
   búsqueda de clientes potenciales para los másters online de la escuela.

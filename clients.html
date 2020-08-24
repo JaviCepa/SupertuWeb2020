@@ -15,7 +15,7 @@ hero-subtitle: "La inversión más inteligente"
 <section id="portfolio-work">
     <div class="container">
       <div class="block">
-        <div class="portfolio-contant">
+        <div class="portfolio-contant" style="padding-bottom: 40px;">
           <ul id="portfolio-contant-active">
             {% assign cont = 3 %}
 
@@ -31,18 +31,23 @@ hero-subtitle: "La inversión más inteligente"
                 {% endif %}
               {% endif %}
               
-              <div class="col-md-4">
+              <div class="col-md-4" style="height: 400px;">
                 <li class="client-li">
-                  {% if client.websiteUrl %}
-                    <a href="{{ client.websiteUrl }}" style="width: 100%;">
-                      <img class="client-img" src="{{ media_folder }}{{ client.logo }}" alt="">
-                    </a>
-                  {% else %}
-                    <img class="client-img" src="{{ media_folder }}{{ client.logo }}" alt="">
-                  {% endif %}
-                  {% if client.description and client.description != "" %}
-                    <p>{{ client.description }}</p>
-                  {% endif %}
+				  <div style="background: url(/img/superpoder.svg); width: 200px; height: 200px; border-radius: 50px; margin: auto;">
+				  <img class="client-img" src="{{ media_folder }}{{ client.logo }}" alt="Cliente"
+				  style="width: 102px; height: 102px; border-radius: 50px; margin: auto; margin-top:50px;">
+				  </div>
+				  <div style="background: white; position: relative; height: 300px; top: -100px; border-radius: 40px; border: #035c67 5px solid; z-index: -1; border-top: 0; margin: 20px; padding: 0 20px 20px 20px;">
+					<h2 style="font-size: 20px; text-transform: none; position: relative; top: 20px;">{{ client.name }}</h2>
+					<h3 style="font-size: 15px; color:#987009; position: relative; top: 20px;">{{ client.business }}</h3>
+					{% if client.description %}
+					  <p style="position: relative; top: 30px;">{{ client.description }}</p>
+					{% endif %}
+				  </div>
+				  
+				  <!--<a href="{{ client.websiteUrl }}" style="width: 100%;"></a>-->
+                  
+				  <!-- 
                   {% if client.instagram and client.instagram != "" %}
                     <a href="{{client.instagram}}"><i class="fa fa-instagram"></i></a>
                   {% endif %}
@@ -55,12 +60,7 @@ hero-subtitle: "La inversión más inteligente"
                   {% if client.linkedin and client.linkedin != "" %}
                     <a href="{{client.linkedin}}"><i class="fa fa-linkedin"></i></a>
                   {% endif %}
-                  <!-- <div class="overly">
-                    <div class="position-center">
-                    <h5>{{ client.name }}</h5>
-                    <p>{{ client.description }}</p>
-                    </div>
-                  </div> -->
+				  -->
                 </li>
               </div>
 

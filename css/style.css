@@ -335,7 +335,6 @@ ul.share-buttons .sr-only{
   width: 100% !important;
   margin: auto !important;
   text-align: center;
-  margin-bottom: 80px !important;
 }
 
 .client-li a {
@@ -349,8 +348,6 @@ ul.share-buttons .sr-only{
 }
 
 .client-img {
-  animation: createBox 1s;
-  width: 100px !important;
   border-radius: 20px;
 }
 

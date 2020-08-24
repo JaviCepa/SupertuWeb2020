@@ -1,5 +1,6 @@
 ---
 name: Reserva Del Higuerón Privé
+business: Inmobiliaria
 logo: /img/upload/32089831_1642913135815528_2925553339158495232_o.png
 description: Estrategia 360º en redes sociales enfocada a la generación de
   clientes potenciales en Facebook, Instagram y Linkedin.

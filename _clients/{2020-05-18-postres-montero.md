@@ -1,5 +1,6 @@
 ---
 name: Postres Montero
+business: Alimentación
 logo: /img/upload/logoinstagram.png
 description: Transformación de la marca de medios tradicionales al mundo online
   a través de las redes sociales.

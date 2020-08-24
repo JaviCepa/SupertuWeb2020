@@ -10,9 +10,9 @@ Feedback:
 [ ] {Ordenador+móvil} Blog: bajar la firma al final
 [ ] {Ordenador} Cambiar menú de hamburguesa por menú visible en la barra de arriba. Y si es hamburguesa, justificarlo a la izquierda
 [ ] {Ordenador} Cuando pinchas en Espe Olea y te vas a los artículos del blog, se descuadra y no se ve
-[ ] {Ordenador} Contacto: error en las redes sociales
+[ ] {Ordenador} Contacto: error en los iconos de redes sociales -> ¿tiene sentido poner aquí las redes por duplicado estándo visibles en todas las páginas?
 [ ] {Ordenador} Contacto: texto que vaya de lado a lado
-[ ] {Móvil} Las secciones de las pilas van mal
+[ ] {Móvil} Las secciones de las chicas van mal (las páginas "author")
 
 To-do:
 [ ] Arreglar página de clientes
@@ -40,12 +40,15 @@ To-do:
 [X] Resolver: ¿Por qué había un duplicado de la nav-bar en el footer?
 
 Consultas:
+[ ] Añadir botones de conversión en cada una de las 3 features de la página de inicio
+[ ] Convertir la info detallada de los servicios en un popup/lightbox (y eliminar páginas individuales de servicios)
 [ ] ¿Reducir alto de la barra de navegación?
 [ ] Quitar los títulos de las imágenes de posts para no repetirlos justo debajo
 [ ] ¿Es necesario el pixel de facebook? -> Si. Puede penalizar el tiempo de carga...
 [ ] ¿Convertimos el sub-artículo de la sección superpoderes (el de peter parker) a un post de blog?
 [ ] ¿Reducimos los textos del home y los desarrollamos en la sección relacionada? (equipo, servicios...)
 [ ] ¿Os pongo en equipo las caras dentro del logo? (parecido a lo de las esquinas del blog)
+[ ] Recomendación: sección de "preguntas frecuentes"
 
 Extras:
 [ ] Widget para elaborar tu propio presupuesto en JS
