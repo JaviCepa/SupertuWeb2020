@@ -3,7 +3,7 @@ layout: service
 title: Social Media As A Service
 name: Social Media As A Service
 order: 8
-icon: ion-coffee
+icon: social.svg
 description: "En Supertú entendemos que externalizar es exactamente eso:
   quitarte una preocupación y dejar el trabajo en  manos de expertos para poder
   dedicar tu tiempo a lo que más importa: tu negocio. ¿Necesitas más ayuda?

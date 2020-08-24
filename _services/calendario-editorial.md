@@ -3,7 +3,7 @@ layout: service
 title: Calendario editorial
 name: "Calendario editorial "
 order: 2
-icon: ion-calendar
+icon: calendar.svg
 description: Uno de los documentos que más agradecen nuestros clientes. Podrás
   ver qué publicamos cada día de la semana en cada red social. Sin sorpresas.
   Podrás revisar toda la información que emitamos de tu negocio antes de que

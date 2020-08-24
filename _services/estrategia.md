@@ -3,7 +3,7 @@ layout: service
 title: Estrategia
 name: Estrategia
 order: 1
-icon: ion-compass
+icon: strategy.svg
 description: Una súper marca, necesita un súper plan. Si quieres saber hasta
   dónde llegarás en 3, 6 o 9 meses... ¡Llámanos! Prepararemos a tu medida un
   plan viable y de máxima rentabilidad, gratis y sin compromiso.

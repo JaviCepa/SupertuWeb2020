@@ -3,7 +3,7 @@ layout: service
 title: Reportes de resultados
 name: Reportes de resultados
 order: 6
-icon: ion-arrow-graph-up-right
+icon: report.svg
 description: Lo de invertir en comunicación en redes sociales suena muy bonito
   pero… ¿De verdad sirve? Un buen plan sin un buen análisis de datos, no sirve,
   así que elaboramos reportes para contarte dónde ha llegado cada una de
