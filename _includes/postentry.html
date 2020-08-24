@@ -5,30 +5,27 @@
 		onclick="window.location='{{ post.url | prepend: site.baseurl }}';">
 			<div style="background: linear-gradient(to bottom, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 100%); position: absolute; top:50%; bottom: 0; left: 0; right: 0;"></div>
 		</div>
-		<div style="height: 110px; display: table-cell; vertical-align: middle; padding: 30px 20px 0 20px; width: auto; display: block; margin-top: 0px;">
+		<div style="height: 300px; display: table-cell; vertical-align: middle; padding: 30px 20px 0 20px; width: auto; display: block; margin-top: 0px;">
 			<a href="{{ post.url | prepend: site.baseurl }}">
 				<h2 style="color: #054b54; font-size: 20px; margin: 0px; margin-bottom: 10px;">
 				{{ post.title }}
 				</h2>
 			</a>
-		</div>
-		<div style="padding: 0 20px 20px 20px;">
 			<p style="line-height: 1.75; height: 130px; margin-bottom: 30px;">
 			  {{ post.content | strip_html | truncatewords: 30 }}
 			</p>
-			<div style="position: relative; width: 100%; height: 30px; margin-top: -15px;">
+		</div>
+		<div style="position: relative; width: 100%; height: 40px; margin-top: -15px;">
 				<div style="background: #054b54; position: absolute; top: 0px; left: -20px; right: -20px; bottom: -30px;"></div>
 				{% for member in site.team %}
 					{% if post.author == member.name %}
-					<p style="color: white; position: absolute; top: 10px; left: 0px; height: 30px; padding-right: 10px; padding-left: 10px;"><i><a href="/author/{{ member.name_filter }}" style="color:white;">{{post.author}}</a> - {{ post.date | date: "%d/%b/%Y" }}</i></p>
+					<p style="color: white; position: absolute; top: 5px; left: 5px; height: 30px; padding-right: 10px; padding-left: 10px;"><i><a href="/author/{{ member.name_filter }}" style="color:white;">{{post.author}}</a> - {{ post.date | date: "%d/%b/%Y" }}</i></p>
 					<a href="/author/{{ member.name_filter }}">
-					<div style="background: url({{ site.baseurl }}{{ member.image }}); background-size: cover; background-position: center; border-radius: 50px; width: 50px; height: 50px; position: absolute; right: 10px; bottom: 5px;"></div>
-					<div style="background: url({{ site.baseurl }}/img/member_frame.svg); background-size: cover; background-position: center; width: 110px; height: 110px; position: absolute; right: -20px; bottom: -25px;"></div>
+					<div style="background: url({{ site.baseurl }}{{ member.image }}); background-size: cover; background-position: center; border-radius: 50px; width: 50px; height: 50px; position: absolute; right: 30px; bottom: 15px;"></div>
+					<div style="background: url({{ site.baseurl }}/img/member_frame.svg); background-size: cover; background-position: center; width: 110px; height: 110px; position: absolute; right: 0px; bottom: -15px;"></div>
 					</a>
 					{% endif %}
 				{% endfor %}
 			</div>
-			<!--<p style="color: #2e7980; text-align: right; margin: 0;"><i>{{ post.date | date: "%d/%m/%Y" }}</i></p>-->
-		</div>
 	</div>
 </div>
