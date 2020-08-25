@@ -1,5 +1,4 @@
 Feedback:
-[ ] {Ordenador+móvil} Quitar número fijo, dejar solo el móvil
 [ ] {Ordenador+móvil} Meter iconos en los super poderes: abajo planes de precios y que esa sea la Home (con formato dayvo https://dayvo.com/?gclid=EAIaIQobChMInsP30Mez6wIVzbLVCh3GsQpbEAAYASAAEgLfkPD_BwE) y nuestros números de la Home, dejarla en la Home y valoraciones de clientes
 [ ] {Ordenador+móvil} Cuando subamos un blog, queremos poder ver categorías ya existentes y seleccionarlas para no crear 200
 [ ] {Ordenador+móvil} Los articulos del blog pondria botones para que se pueda compartir en rede sociales
@@ -15,7 +14,7 @@ To-do:
 [ ] Añadir whatsapp+email a la cabecera
 [ ] Elegir fuente y uniformizar su uso en toda la web
 [ ] Restablecer (o mejorar) carrusel de testimonos
-[ ] Volver a añadir intercom o similar
+[X] {Ordenador+móvil} Quitar número fijo, dejar solo el móvil
 [X] Arreglar página de contacto
 [X] Arreglar página de clientes
 [X] Añadir botón de "Articulos de Espe/Vito.." en la sección team
@@ -40,6 +39,7 @@ To-do:
 [X] {Ordenador+móvil} En clientes había un texto redactado por mi, dónde está?
 
 Consultas:
+[ ] ¿Volver a añadir intercom o similar?
 [ ] ¿Mover iconos de redes sociales a dentro del menú en la versión mobile para que molesten menos?
 [ ] Añadir botones de conversión en cada una de las 3 features de la página de inicio
 [ ] Convertir la info detallada de los servicios en un popup/lightbox (y eliminar páginas individuales de servicios)
