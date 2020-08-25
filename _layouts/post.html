@@ -13,49 +13,31 @@ layout: default
 				<div class="post-title">
 					<h1>{{ page.title }}</h1>
 				</div>
+				<div class="post-tags">
+					<p style="flex-grow: 1;"> </p>
+					<ul>					
+					  {% assign post_have_tags = page.tags | size %}
+					  {% if post_have_tags > 0 %}
+						{% for tag in page.tags %}
+						  <li><a class="post" href="/tag/{{tag | replace: ' ', '-' }}">#{{tag}}</a></li>
+						{% endfor %}
+					  {% endif %}
+					</ul>
+				</div>
 			</div>
 			<h2 class="post-subtitle"><i>{{ page.subtitle }}</i></h2>
-            <div class="post-info-wrapper">
-              <p class="italic">Por <span class="bold">{{ page.author }}</span> - <span class="bold">{{ page.date | date: "%B %-d, %Y" }}</span></p>
-            </div>
             <hr />
             <div class="content">
               {{ content }}
             </div>
-          </div>
-        </div>
-        <div class="autor col-md-3 col-sm-12">
-          {% assign author_data_list = site.team | where:"name",page.author %}
-          {% assign author_data = author_data_list[0] %}
-		  <div>
-            <h2>por {{ author_data.name }}</h2>
-			<h3 style="font-size: 15px; color:#987009; text-align: right; position: relative; top: -18px;">{{ author_data.position }}</h3>
-          </div>
-          <div class="author-picture" onclick="window.location='/author/{{ author_data.name_filter }}/'";>
-            <img src="{{ author_data.image }}" alt="{{ author_data.name }}" style="position: relative; height: 200px; right: {{ author_data.post_image_offset }}px;">
-			<div class="more-articles">
-				<div style="margin: auto; height: fit-content; display: block; position: relative; top: 35%; width:70%;">
-					<p style="text-align: center; user-select: none; font-size: 20px;">
-					Más artículos de {{ author_data.name | split: ' ' | first }}
-					</p>
-				</div>
-			</div>
-          </div>
-          
-          {% assign post_have_tags = page.tags | size %}
-          {% if post_have_tags > 0 %}
-            <div class="categorias">
-              <h2>Categorías</h2>
-              <ul>
-                {% for tag in page.tags %}
-                  <li><a class="post" href="/tag/{{tag | replace: ' ', '-' }}">{{tag}}</a></li>
-                {% endfor %}
-              </ul>
+			<hr />
+			<div class="post-info-wrapper">
+              <p class="italic">Por <span class="bold">{{ page.author }}</span> - <span class="bold">{{ page.date | date: "%d/%b/%Y" }}</span></p>
             </div>
-          {% endif %}
+			
+			<hr />
           
           <!-- Construímos la lista con los demás tags que están en otros posts pero no en este -->
-
           <!-- Para cada post de la colección -->
           {% for post_doc in site.posts %}
             <!-- Para cada tag de cada post -->
@@ -79,6 +61,7 @@ layout: default
           
           {% assign there_are_other_tags = other_tags | size %}
           {% if there_are_other_tags > 0 %}
+			<!--
             <div class="categorias">
               <h2>Otras categorías</h2>
               <ul>
@@ -87,21 +70,90 @@ layout: default
                 {% endfor %}
               </ul>
             </div>
+			-->
           {% endif %}
-
+		  
+		  
+			<p class="center-text">
+			  <button class="back-button" onclick="window.location.href='{{ site.baseurl }}/blog'">Volver al blog</button>
+			</p>
+		  
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-12">
+          {% assign author_data_list = site.team | where:"name",page.author %}
+          {% assign author_data = author_data_list[0] %}
+		  <div>
+            <h2 style="text-align: center; width:200px; margin: auto auto 20px auto;">{{ author_data.name }}</h2>
+          </div>
+          <div class="author-picture" onclick="window.location='/author/{{ author_data.name_filter }}/'";>
+            <img src="{{ author_data.image }}" alt="{{ author_data.name }}" style="position: relative; height: 200px; right: {{ author_data.post_image_offset }}px;">
+			<div class="more-articles">
+				<div style="margin: auto; height: fit-content; display: block; position: relative; top: 35%; width:70%;">
+					<p style="text-align: center; user-select: none; font-size: 20px;">
+					Más artículos de {{ author_data.name | split: ' ' | first }}
+					</p>
+				</div>
+			</div>
+          </div>
+		  <h3 style="text-align: center; font-size: 15px; color:#987009; text-align: center; position: relative; top: 15px; width: 200px; margin: auto auto 60px auto;">{{ author_data.position }}</h3>
         </div>
       </div>
     </div>
   </section>
 </div>
-<p class="center-text" style="padding: 30px;">
-  <a href="{{ site.baseurl }}/blog">Back to blog</a>
-</p>
 
 <!-- Call to action Start -->
 {% include calltoaction.html %}
 
 <style>
+.back-button{
+    width: 100%;
+    background: #47424C;
+    border: none;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+	padding: 15px 35px;
+    background: #035c67;
+	border-radius: 5px;
+}
+
+.post-tags {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	width: 50%;
+	height: 100%;
+}
+
+.post-tags ul {
+	position: absolute;
+	bottom: 20px;
+	right: 0;
+}
+
+.post-tags li {
+	margin: 10px;
+	margin-right: 0px;
+	padding: 0px;
+}
+
+.post-tags li a {
+	float: right;
+	width: fit-content;
+	text-align: right;
+	margin: 0;
+	margin-top: 10px;
+	margin-left: auto;
+	padding: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	color: white;
+	background: #889698;
+	border-radius: 20px 0px 0px 20px;
+    box-shadow: black 0px 0px 5px 0px;
+}
 
 .author-picture {
 	position: relative;
@@ -109,7 +161,7 @@ layout: default
 	width: 200px;
 	height: 200px;
 	overflow: hidden;
-	margin: -20px auto 0 auto;
+	margin: 0px auto 0 auto;
 	cursor: pointer;
 }
 

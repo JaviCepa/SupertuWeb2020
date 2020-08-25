@@ -16,7 +16,7 @@ To-do:
 [ ] Elegir fuente y uniformizar su uso en toda la web
 [ ] Restablecer (o mejorar) carrusel de testimonos
 [ ] Adaptar cabeceras a mómvil (reducir tamaño)
-
+[ ] Añadir tags de categorías en la página principal del blog
 [X] Añadir whatsapp+email a la cabecera
 [X] {Móvil} Las secciones de las chicas van mal (las páginas "author")
 [X] {Ordenador+móvil} Quitar número fijo, dejar solo el móvil
@@ -56,6 +56,7 @@ Consultas:
 [ ] ¿Reducimos los textos del home y los desarrollamos en la sección relacionada? (equipo, servicios...)
 [ ] ¿Os pongo en equipo las caras dentro del logo? (parecido a lo de las esquinas del blog)
 [ ] Recomendación: sección de "preguntas frecuentes"
+[ ] Realmente es necesario poner la sección "otras categorías" al final de cada post? ¿Es por un tema de SEO?
 
 Extras:
 [ ] Widget para elaborar tu propio presupuesto en JS

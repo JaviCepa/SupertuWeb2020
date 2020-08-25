@@ -8,7 +8,7 @@ author: Marina Aneas
 image: /img/upload/tiendaig.png
 description: tienda facebook instagram
 ---
-## Si quieres vender tus productos en Instagram y Facebook, hoy os vamos a hablar de una herramienta muy potente para poder vender tus productos/servicios en redes sociales: la Tienda de Facebook
+Si quieres vender tus productos en Instagram y Facebook, hoy os vamos a hablar de una herramienta muy potente para poder vender tus productos/servicios en redes sociales: la Tienda de Facebook
 
 Primero voy a empezar hablándote de cómo funcionan las redes sociales si tienes un ecommerce: con nuestro negocio, al tratarse de una tienda virtual, podemos utilizar las redes sociales como vía de contacto con nuestro público potencial y venta directa.
 

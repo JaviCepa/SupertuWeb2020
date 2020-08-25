@@ -28,6 +28,15 @@ hero-subtitle: "Posts del autor {{ page.author }}"
 </section>
 <br>
 
+<div class="container">
+	<div class="row">
+	{% for post in site.posts %}
+		{% if post.author == page.author %}
+			{% include postentry.html %}
+		{% endif %}
+	{% endfor %}
+	</div>
+</div>
 	
 <style>
 	#author-header
@@ -80,15 +89,3 @@ hero-subtitle: "Posts del autor {{ page.author }}"
 	}
 }
 </style>
-		
-
-<div class="container">
-	<div class="row">
-	{% for post in site.posts %}
-		{% if post.author == page.author %}
-			{% include postentry.html %}
-		{% endif %}
-	{% endfor %}
-	</div>
-</div>
-
