@@ -7,8 +7,7 @@ layout: default
   <section id="intro" style="margin-top: 60px;">
     <div class="container">
       <div class="row">
-        <div class="col-md-1"></div>
-        <div class="col-md-7 col-sm-12">
+        <div class="col-md-9 col-sm-12">
           <div class="block">
 		    <div class="post-title-wrapper">
 				<div class="post-title">
@@ -25,22 +24,23 @@ layout: default
             </div>
           </div>
         </div>
-        <div class="col-md-1"></div>
         <div class="autor col-md-3 col-sm-12">
           {% assign author_data_list = site.team | where:"name",page.author %}
           {% assign author_data = author_data_list[0] %}
-          <h1>Autor</h1>
-          <div style="border-radius: 100%; width: 200px; height: 200px; overflow: hidden;">
-            <img src="{{ author_data.image }}" alt="{{ author_data.name }}" style="position: relative; height: 200px; right: {{ author_data.post_image_offset }}px">
+		  <div>
+            <h2>por {{ author_data.name }}</h2>
+			<h3 style="font-size: 15px; color:#987009; text-align: right; position: relative; top: -18px;">{{ author_data.position }}</h3>
           </div>
-          <div>
-            <h2>{{ author_data.name }}</h2>
-            {% if author_data.linkedin and author_data.linkedin != "" %}
-              <a href="{{ author_data.linkedin }}"><i class="fa fa-linkedin"></i></a>
-            {% endif %}
+          <div class="author-picture" onclick="window.location='/author/{{ author_data.name_filter }}/'";>
+            <img src="{{ author_data.image }}" alt="{{ author_data.name }}" style="position: relative; height: 200px; right: {{ author_data.post_image_offset }}px;">
+			<div class="more-articles">
+				<div style="margin: auto; height: fit-content; display: block; position: relative; top: 35%; width:70%;">
+					<p style="text-align: center; user-select: none; font-size: 20px;">
+					Más artículos de {{ author_data.name | split: ' ' | first }}
+					</p>
+				</div>
+			</div>
           </div>
-          <h3>{{ author_data.position }}</h3>
-          <a class="view_more" href="/author/{{ author_data.name_filter }}/">Ver más entradas</a>
           
           {% assign post_have_tags = page.tags | size %}
           {% if post_have_tags > 0 %}
@@ -103,6 +103,34 @@ layout: default
 
 <style>
 
+.author-picture {
+	position: relative;
+	border-radius: 100%;
+	width: 200px;
+	height: 200px;
+	overflow: hidden;
+	margin: -20px auto 0 auto;
+	cursor: pointer;
+}
+
+.more-articles {
+	background: #ffffff00;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	opacity: 0;
+	transition: background 0.35s, opacity 0.35s;
+	font-weight: 500;
+}
+
+.more-articles:hover {
+	opacity: 1;
+	background: #ffffffbb;
+	color: black !important;
+}
+
 .post-title-wrapper
 {
 	position: relative;
@@ -140,6 +168,7 @@ layout: default
 .post-title h1
 {
 	font-size: 25px;
+	width: 50%;
 	color: white;
 	text-shadow: 0 0 3px #000000, 0 0 5px #000000;
 }
