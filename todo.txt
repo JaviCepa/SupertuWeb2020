@@ -7,6 +7,7 @@ Feedback:
 [ ] {Ordenador+móvil} Blog: bajar la firma al final
 [ ] {Ordenador} Cuando pinchas en Espe Olea y te vas a los artículos del blog, se descuadra y no se ve
 [ ] {Móvil} Las secciones de las chicas van mal (las páginas "author")
+[ ] En iOS no se ven la fotos
 
 To-do:
 [ ] Remaquetar las páginas de los posts

@@ -20,9 +20,9 @@ hero-subtitle: "La mejor garantía"
 		  {% for teammember in sorted_team %}
 		  <div class="col-md-4" style="padding-bottom: 30px;">
 			{% if teammember.name_filter %}
-			<div class="block" style="position: relative; box-shadow: #b9b9b9 0 0 8px; border-radius: 20px; overflow: hidden; cursor: pointer;" onclick="window.location='/author/{{teammember.name_filter }}';">
+			<div class="member-block block" style="cursor: pointer;" onclick="window.location='/author/{{teammember.name_filter }}';">
 			{% else %}
-			<div class="block" style="position: relative; box-shadow: #b9b9b9 0 0 8px; border-radius: 20px; overflow: hidden;">
+			<div class="member-block block" style="">
 			{% endif %}
 			  <div style="background: url({{ teammember.image }}); background-size: cover; background-position: top; position: relative; height: 250px; width: 100%; border-radius: 0;"/>
 				<div style="background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%); position: absolute; left: 0px; right: 0px; top: 50%; bottom:0px;"></div>
@@ -42,3 +42,13 @@ hero-subtitle: "La mejor garantía"
 
 <!-- Call to action Start -->
 {% include calltoaction.html %}
+
+<style>
+.member-block {
+	position: relative;
+	height: 100%;
+	box-shadow: #b9b9b9 0 0 8px;
+	border-radius: 20px;
+	overflow: hidden; 
+}
+</style>

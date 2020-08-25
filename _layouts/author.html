@@ -5,18 +5,22 @@ hero-title: "Creando supermarcas"
 hero-subtitle: "Posts del autor {{ page.author }}"
 ---
 
-<section id="slider">
-  {% for member in site.team %}
-	{% if page.author == member.name %}
-		<div style="background: url({{ site.baseurl }}{{ member.image }});position: absolute;right: 0px;top: 0px;bottom: 0px;border-radius: 0;width: 100%;background-repeat: no-repeat;background-position-x: right;background-position-y: center; background-size: auto;"/></div>
-	{% endif %}
-  {% endfor %}
+<section id="slider" style="padding: 0; padding-top: 20px;">
   <div class="container" style="position: relative;">
     <div class="row">
       <div class="col-sm-12">
-        <div class="block">
-          <h1 class="otto">{{ page.author }}</h1>
-		  <p class="otto" >Publicaciones en el blog</p>
+        <div class="block" style="">
+		  <div id="author-header" style="position: relative;">
+			  <div class="mobile-only" id="author-header-bg"></div>
+			  <p style="color: #a38219; font-weight: 500;" >Publicaciones de</p>
+			  <h1 style="color: #054b54; font-weight: 500;">{{ page.author }}</h1>
+			  {% for member in site.team %}
+				{% if page.author == member.name %}
+					<div class="pc-only" style="background: url({{ site.baseurl }}{{ member.image }}); width: 130px; height: 130px; position: absolute; right: 90px; top: 30px; background-size: cover; background-position: center; border-radius: 65px;"></div>
+				{% endif %}
+			  {% endfor %}
+			  <div class="pc-only" style="background: url(/img/superpoder.svg); width: 280px; height: 150px; position: absolute; right: 15px; top: 20px; background-size: cover; background-position: center;"></div>
+		  </div>
         </div>
       </div>
     </div>
@@ -26,6 +30,45 @@ hero-subtitle: "Posts del autor {{ page.author }}"
 
 	
 <style>
+	#author-header
+	{
+		overflow: hidden;
+		border-radius: 0;
+		width: 100%;
+		height: 190px;
+		padding: 20px;
+		padding-top: 40px;
+		border-radius: 50px;
+	}
+
+	{% for member in site.team %}
+	  {% if page.author == member.name %}
+		#author-header-bg:before
+		{
+			background: linear-gradient(to right, rgb(255 255 255), #ffffff00);
+			content: "";
+			position: absolute;
+			top: 0;
+			bottom: 0;
+			left: 0;
+			right: 50%;
+		}
+		#author-header-bg
+		{
+			position: absolute;
+			top: 0;
+			bottom: 0;
+			right: 0;
+			width: 33%;
+			background: url({{ site.baseurl }}{{ member.image }});
+			background-position-x: center;
+			background-position-y: center;
+			background-repeat: no-repeat;
+			z-index: -1;
+		}
+	  {% endif %}
+	{% endfor %}
+	
 	#slider {
 		background: url({{ site.baseurl }}{{ member.image }});
 		background-size: contain;
@@ -35,20 +78,6 @@ hero-subtitle: "Posts del autor {{ page.author }}"
 	#slider:before {
 		background: white;
 	}
-	.otto {
-  color: white;
-  text-shadow: 0 1px 0 #ccc,
-               0 2px 0 #c9c9c9,
-               0 3px 0 #bbb,
-               0 4px 0 #b9b9b9,
-               0 5px 0 #aaa,
-               0 6px 1px rgba(0,0,0,.1),
-               0 0 5px rgba(0,0,0,.1),
-               0 1px 3px rgba(0,0,0,.3),
-               0 3px 5px rgba(0,0,0,.2),
-               0 5px 10px rgba(0,0,0,.25),
-               0 10px 10px rgba(0,0,0,.2),
-               0 20px 20px rgba(0,0,0,.15);
 }
 </style>
 		
