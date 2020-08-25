@@ -3,20 +3,17 @@ layout: default
 ---
 
 <div class="post">
-  <!-- <div style="height:400px; background: url({{ media_folder }}{{ page.image }}); background-position: center; background-size: cover; position: relative; top: 0;"></div>1 -->
-
-  {% include hero.html %}
-  
   <!-- Wrapper Start -->
-  <section id="intro" style="border: 1px dotted #ddd;">
+  <section id="intro" style="margin-top: 60px;">
     <div class="container">
       <div class="row">
         <div class="col-md-1"></div>
         <div class="col-md-7 col-sm-12">
           <div class="block">
-            <h1 style="color: #045e66;">{{ page.title }}</h1>
-			      <br/>
-			      <h4 style="color: #71979a;"><i>{{ page.subtitle }}</i></h4>
+		    <div class="post-title">
+				<h1>{{ page.title }}</h1>
+			</div>
+			<h2 class="post-subtitle"><i>{{ page.subtitle }}</i></h2>
             <div class="post-info-wrapper">
               <p class="italic">Por <span class="bold">{{ page.author }}</span> - <span class="bold">{{ page.date | date: "%B %-d, %Y" }}</span></p>
             </div>
@@ -30,7 +27,7 @@ layout: default
         <div class="autor col-md-3 col-sm-12">
           {% assign author_data_list = site.team | where:"name",page.author %}
           {% assign author_data = author_data_list[0] %}
-          <h1>Autor  </h1>
+          <h1>Autor</h1>
           <div style="border-radius: 100%; width: 200px; height: 200px; overflow: hidden;">
             <img src="{{ author_data.image }}" alt="{{ author_data.name }}" style="position: relative; height: 200px; right: {{ author_data.post_image_offset }}px">
           </div>
@@ -101,3 +98,45 @@ layout: default
 
 <!-- Call to action Start -->
 {% include calltoaction.html %}
+
+<style>
+.post-title
+{
+	height:400px;
+	background: url({{ media_folder }}{{ page.image }});
+	background-position: center;
+	background-size: cover;
+	position: relative;
+	top: 0;
+	padding: 20px;
+	z-index: -2;
+    border-radius: 20px;
+}
+
+.post-title:before
+{
+	content: "";
+	background: linear-gradient(180deg, #00000085, transparent);
+	width: 100%;
+	height: 100%;
+	position: absolute;
+    top: 0;
+    left: 0;
+	z-index: -1;
+    border-radius: 20px;
+}
+
+.post-title h1
+{
+	color: white;
+	text-shadow: 0 0 3px #000000, 0 0 5px #054b54;
+}
+
+.post-subtitle
+{
+	color: #a38219;
+	font-size: 25px;
+}
+
+}
+</style>

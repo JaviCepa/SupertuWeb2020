@@ -11,6 +11,7 @@ Feedback:
 
 To-do:
 [ ] Remaquetar las páginas de los posts
+[ ] Rehacer los detalles de servicios (¿Lightbox?)
 [ ] Las landings son terribles
 [ ] Añadir whatsapp+email a la cabecera
 [ ] Elegir fuente y uniformizar su uso en toda la web
