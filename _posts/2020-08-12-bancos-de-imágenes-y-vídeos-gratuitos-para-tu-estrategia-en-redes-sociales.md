@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bancos de imágenes y vídeos gratuitos para tu estrategia en redes sociales
+title: Bancos de imágenes y vídeo gratuitos
 subtitle: Haz tu estrategia en redes única con contenido libre de derechos
 tags:
   - redes sociales
