@@ -14,6 +14,7 @@
 p {
   color: #647778;
   text-align: justify;
+  margin-bottom: 8px;
 }
 
 h2 {
@@ -465,8 +466,6 @@ ul.share-buttons .sr-only{
 .post .content h2, 
 .post .content p {
   text-align: justify;
-  padding-top: 20px !important;
-  margin-bottom: 10px !important;
 }
 
 .post .content p:first-of-type{

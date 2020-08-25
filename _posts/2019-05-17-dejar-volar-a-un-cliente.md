@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "¡Vuela cliente, vuela! "
+title: "¡Vuela cliente, vuela!"
 subtitle: La importancia de saber decir NO
 tags:
   - Marketing en redes sociales

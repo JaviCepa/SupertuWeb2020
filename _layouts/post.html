@@ -10,8 +10,10 @@ layout: default
         <div class="col-md-1"></div>
         <div class="col-md-7 col-sm-12">
           <div class="block">
-		    <div class="post-title">
-				<h1>{{ page.title }}</h1>
+		    <div class="post-title-wrapper">
+				<div class="post-title">
+					<h1>{{ page.title }}</h1>
+				</div>
 			</div>
 			<h2 class="post-subtitle"><i>{{ page.subtitle }}</i></h2>
             <div class="post-info-wrapper">
@@ -100,14 +102,23 @@ layout: default
 {% include calltoaction.html %}
 
 <style>
+
+.post-title-wrapper
+{
+	position: relative;
+    padding-bottom: 56.25%;
+}
+
 .post-title
 {
-	height:400px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
 	background: url({{ media_folder }}{{ page.image }});
 	background-position: center;
 	background-size: cover;
-	position: relative;
-	top: 0;
 	padding: 20px;
 	z-index: -2;
     border-radius: 20px;
@@ -128,14 +139,15 @@ layout: default
 
 .post-title h1
 {
+	font-size: 25px;
 	color: white;
-	text-shadow: 0 0 3px #000000, 0 0 5px #054b54;
+	text-shadow: 0 0 3px #000000, 0 0 5px #000000;
 }
 
 .post-subtitle
 {
 	color: #a38219;
-	font-size: 25px;
+	font-size: 20px;
 }
 
 }

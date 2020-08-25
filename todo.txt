@@ -6,16 +6,19 @@ Feedback:
 [ ] {Ordenador+móvil} Opción de edición de imagen en blog (centrarla, hacerla grande, hacerla chica…)
 [ ] {Ordenador+móvil} Blog: bajar la firma al final
 [ ] {Ordenador} Cuando pinchas en Espe Olea y te vas a los artículos del blog, se descuadra y no se ve
-[ ] {Móvil} Las secciones de las chicas van mal (las páginas "author")
-[ ] En iOS no se ven la fotos
+[ ] {Móvil} En iOS no se ven la fotos
 
 To-do:
 [ ] Remaquetar las páginas de los posts
+[ ] Planes de precios en la home
 [ ] Rehacer los detalles de servicios (¿Lightbox?)
 [ ] Las landings son terribles
-[ ] Añadir whatsapp+email a la cabecera
 [ ] Elegir fuente y uniformizar su uso en toda la web
 [ ] Restablecer (o mejorar) carrusel de testimonos
+[ ] Adaptar cabeceras a mómvil (reducir tamaño)
+
+[X] Añadir whatsapp+email a la cabecera
+[X] {Móvil} Las secciones de las chicas van mal (las páginas "author")
 [X] {Ordenador+móvil} Quitar número fijo, dejar solo el móvil
 [X] Arreglar página de contacto
 [X] Arreglar página de clientes

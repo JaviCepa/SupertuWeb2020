@@ -1,5 +1,5 @@
 
-site: SuperTu
+site: Supertu
 
 exclude:
   - "/vendor/"
