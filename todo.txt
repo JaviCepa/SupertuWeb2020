@@ -2,16 +2,11 @@ Feedback:
 [ ] {Ordenador+móvil} Quitar número fijo, dejar solo el móvil
 [ ] {Ordenador+móvil} Meter iconos en los super poderes: abajo planes de precios y que esa sea la Home (con formato dayvo https://dayvo.com/?gclid=EAIaIQobChMInsP30Mez6wIVzbLVCh3GsQpbEAAYASAAEgLfkPD_BwE) y nuestros números de la Home, dejarla en la Home y valoraciones de clientes
 [ ] {Ordenador+móvil} Cuando subamos un blog, queremos poder ver categorías ya existentes y seleccionarlas para no crear 200
-[ ] {Ordenador+móvil} En el blog queremos poner mayúsculas cuando queramos, que no nos la ponga por defecto en nada ni en título ni en subtítulo
-[ ] {Ordenador+móvil} En clientes había un texto redactado por mi, dónde está?
 [ ] {Ordenador+móvil} Los articulos del blog pondria botones para que se pueda compartir en rede sociales
 [ ] {Ordenador+móvil} Previsualización de enlaces del blog
 [ ] {Ordenador+móvil} Opción de edición de imagen en blog (centrarla, hacerla grande, hacerla chica…)
 [ ] {Ordenador+móvil} Blog: bajar la firma al final
-[ ] {Ordenador} Cambiar menú de hamburguesa por menú visible en la barra de arriba. Y si es hamburguesa, justificarlo a la izquierda
 [ ] {Ordenador} Cuando pinchas en Espe Olea y te vas a los artículos del blog, se descuadra y no se ve
-[ ] {Ordenador} Contacto: error en los iconos de redes sociales -> ¿tiene sentido poner aquí las redes por duplicado estándo visibles en todas las páginas?
-[ ] {Ordenador} Contacto: texto que vaya de lado a lado
 [ ] {Móvil} Las secciones de las chicas van mal (las páginas "author")
 
 To-do:
@@ -38,6 +33,11 @@ To-do:
 [X] Poner la página en blanco durante la carga
 [X] Restablecer menú
 [X] Resolver: ¿Por qué había un duplicado de la nav-bar en el footer?
+[X] {Ordenador} Contacto: error en los iconos de redes sociales -> ¿tiene sentido poner aquí las redes por duplicado estándo visibles en todas las páginas?
+[X] {Ordenador} Contacto: texto que vaya de lado a lado
+[X] {Ordenador} Cambiar menú de hamburguesa por menú visible en la barra de arriba. Y si es hamburguesa, justificarlo a la izquierda
+[X] {Ordenador+móvil} En el blog queremos poner mayúsculas cuando queramos, que no nos la ponga por defecto en nada ni en título ni en subtítulo
+[X] {Ordenador+móvil} En clientes había un texto redactado por mi, dónde está?
 
 Consultas:
 [ ] Añadir botones de conversión en cada una de las 3 features de la página de inicio

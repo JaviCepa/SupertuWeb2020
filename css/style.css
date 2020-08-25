@@ -32,6 +32,29 @@ img {
     border-radius: 10px;
 }
 
+
+@media (max-width: 900px)
+{
+	.mobile-only {
+		display: inline;
+	}
+
+	.pc-only {
+		display: none;
+	}
+}
+
+@media (min-width: 900px)
+{
+	.mobile-only {
+		display: none;
+	}
+
+	.pc-only {
+		display: inline;
+	}
+}
+
 .contact-address a {
 	color: black;
 	line-height: 1.5;
@@ -148,13 +171,12 @@ img {
 
 .privacy-input {
   display: flex;
-    width: 60%;
+    width: 100%;
     margin: auto;
 }
 
 .privacy-input input {
   margin: 0;
-  width: 7%;
 }
 
 .privacy-input p {
