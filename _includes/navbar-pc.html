@@ -1,20 +1,49 @@
-<ul class="pc-only" style="background: transparent; position: fixed; top:0px; right:0; height:90px; width: 550px;
+<style>
+	.pc-navbar {
+	  color: #ffffff;
+	  padding: 16px;
+	  float: left;
+	  height: 90px;
+	  width: fit-content;
+	  padding-top: 31px;
+	}
+	.pc-navbar:hover {
+	  background-color: #ac8705;
+	}
+</style>
+
+<ul class="pc-only" style="background: transparent; position: fixed; top:0; right:0; height:90px; width: 698px;
   list-style-type: none; font-size: 18px; text-transform: uppercase;">
-	<style>
-		.pc-navbar {
-		  padding: 16px;
-		  float: left;
-		  height: 90px;
-		  width: fit-content;
-		  padding-top: 31px;
-		}
-		.pc-navbar:hover {
-		  background-color: #ac8705;
-		}
-	</style>
-	<li><a class="pc-navbar" href="{{ site.baseurl }}/blog" style="color: #ffffff;">Blog</a></li>
-	<li><a class="pc-navbar" href="{{ site.baseurl }}/servicios-social-media" style="color: #ffffff;">Servicios</a></li>
-	<li><a class="pc-navbar" href="{{ site.baseurl }}/el-equipo-supertu" style="color: #ffffff;">Equipo</a></li>
-	<li><a class="pc-navbar" href="{{ site.baseurl }}/clientes" style="color: #ffffff;">Clientes</a></li>
-	<li><a class="pc-navbar" href="{{ site.baseurl }}/contacta" style="color: #ffffff;">Contacto</a></li>
+	<li><a class="pc-navbar" href="{{ site.baseurl }}/blog">Blog</a></li>
+	<li><a class="pc-navbar" href="{{ site.baseurl }}/servicios-social-media">Servicios</a></li>
+	<li><a class="pc-navbar" href="{{ site.baseurl }}/el-equipo-supertu">Equipo</a></li>
+	<li><a class="pc-navbar" href="{{ site.baseurl }}/clientes">Clientes</a></li>
+	<li><a class="pc-navbar" href="{{ site.baseurl }}/contacta">Contacto</a></li>
+	
+	<li>
+	<div class="pc-navbar" style="background: #987009; width: 180px; height: 90px; text-transform: none;">
+		<p style="margin: 0; margin-top: -15px;">
+		  <img src="{{ site.baseurl }}/img/icons/email.svg" height="25">
+		  <a href="mailto:hola@supertu.es" style="color: #ffffff;">hola@supertu.es</a>
+		</p>
+		<p style="margin: 0;">
+		  <img src="{{ site.baseurl }}/img/icons/telephone.svg" height="25">
+		  <a href="tel:+34653903359" style="color: #ffffff;">653 903 359</a>
+		</p>
+	</div>
+	</li>
 </ul>
+
+
+<!--
+<div class="contact-info" style="color: #ffffff; background: #459fa5; position:fixed; right: 0px; bottom: 20px; text-align: right; padding: 20px 20px; border-radius: 30px 0 0 30px; height: 140px;">
+	<p style="margin: auto;">
+	  <a href="mailto:hola@supertu.es" style="color: #ffffff;">Email</a>
+	  <img src="{{ site.baseurl }}/img/icons/email.svg" height="25">
+	</p>
+	<p style="margin: auto;">
+	  <a href="tel:+34653903359" style="color: #ffffff;">WhatsApp</a>
+	  <img src="{{ site.baseurl }}/img/icons/telephone.svg" height="25">
+	</p>
+</div>
+-->

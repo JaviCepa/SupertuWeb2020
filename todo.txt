@@ -40,6 +40,7 @@ To-do:
 [X] {Ordenador+móvil} En clientes había un texto redactado por mi, dónde está?
 
 Consultas:
+[ ] ¿Mover iconos de redes sociales a dentro del menú en la versión mobile para que molesten menos?
 [ ] Añadir botones de conversión en cada una de las 3 features de la página de inicio
 [ ] Convertir la info detallada de los servicios en un popup/lightbox (y eliminar páginas individuales de servicios)
 [ ] ¿Reducir alto de la barra de navegación?
