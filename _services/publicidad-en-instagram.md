@@ -1,5 +1,5 @@
 ---
-layout: service
+layout: default
 title: Publicidad en Instagram
 name: Publicidad en Instagram
 order: 5

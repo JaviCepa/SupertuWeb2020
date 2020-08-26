@@ -1,5 +1,5 @@
 ---
-layout: service
+layout: default
 title: Estrategia
 name: Estrategia
 order: 1

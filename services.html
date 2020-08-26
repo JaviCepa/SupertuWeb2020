@@ -12,28 +12,9 @@ hero-subtitle: "Esto es todo lo que hacemos para que tu marca triunfe en social 
 
 {% include hero.html %}
 
-<!-- Service Start -->
-<section id="service">
-  <div class="container">
-    <div class="row ">
-      {% assign services = site.services | sort: "order" %}
-      {% for service in services %}
-        <div class="col-sm-6 col-md-4" style="padding-bottom: 40px;">
-          <a href="{{ service.permalink }}" class="service-item">
-			<div style="background: url(/img/superpoder.svg); height: 100px; background-size: 180px; background-repeat: no-repeat; background-position: center;">
-			<div style="background: url(/img/icons/services/{{service.icon}}); width: 80px; height: 80px; background-size: 180px; background-repeat: no-repeat; background-position: center; margin: auto; border-radius: 50px; position: relative; top: 11px;background-size: contain;"></div>
-			</div>
-            <i class="{{ service.icon }}"></i>
-            <h4>{{ service.name }}</h4>
-            <p>{{ service.description }}</p>
-          </a>
-        </div>
-      {% endfor %}
-    </div>
-  </div>
-</section>
+{% include services-list.html %}
 
-<div class="content container">
+<div class="container">
   <div class="col-sm-12">
     <br/>
       <p>El principio de Peter Parker (también conocido como Spiderman) dice que un gran poder conlleva una gran responsabilidad. No te vamos a mentir, nuestros poderes no son fáciles de controlar. Nos ha costado 10 años de formación constante, trabajo y esfuerzo poder gestionarlos adecuadamente. Estamos en esto de las redes sociales desde que existen, desde aquellos tiempos en los que Instagram no existía y Facebook no diferenciaba entre perfiles personales y páginas de empresa.</p>

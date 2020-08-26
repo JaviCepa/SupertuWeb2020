@@ -1,5 +1,5 @@
 ---
-layout: service
+layout: default
 title: Social Media As A Service
 name: Social Media As A Service
 order: 8

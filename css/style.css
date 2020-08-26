@@ -768,3 +768,105 @@ ul.share-buttons .sr-only{
   margin-top: 16px;
   margin-bottom: 10px;
 }
+.service-request-button
+{
+	position: absolute;
+	bottom: 20px;
+	left: 40px;
+	right: 40px;
+	background: #a38219 !important;
+	color: white !important;
+	height: 60px !important;
+	padding: 12px !important;
+	font-size: 20px !important;
+}
+
+.service-request-button:hover
+{
+	color: white !important;
+}
+
+.content p {
+	font-size: 14px !important;
+    line-height: 1.2;
+}
+.content {
+	font-size: 14px !important;
+    line-height: 1.2;
+}
+
+.button {
+  cursor: pointer;
+  transition: all 0.3s ease-out;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+  transition: opacity 500ms;
+  visibility: hidden;
+  opacity: 0;
+}
+
+.overlay:target {
+  visibility: visible;
+  opacity: 1;
+}
+
+.popup {
+  width: revert !important;
+  margin: auto;
+  padding: 40px;
+  background: #fff;
+  border-radius: 5px;
+  position: absolute;
+  top: 110px;
+  bottom: 100px;
+  left: 5vw;
+  right: 5vw;
+  transition: all 0.35s linear;
+}
+
+.popup h2 {
+  margin-top: 0;
+  color: #333;
+}
+
+.popup .close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+
+.popup .close:hover {
+  color: #987009;
+}
+
+.popup .content {
+  overflow: auto;
+}
+
+@media screen and (max-width: 700px){
+  .box{
+    width: 70%;
+  }
+  .popup{
+    width: 70%;
+  }
+}
+
+.client-social-icons
+{
+	height: 60px;
+	width: 60px;
+	display: inline-block;
+}

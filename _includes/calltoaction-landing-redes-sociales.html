@@ -6,7 +6,7 @@
           <div class="row">
             <div class="col-md-6 col-sm-6">
           
-              <h1>IMPULSA AL MÁXIMO TUS REDES SOCIALES</h1>
+              <h1>Impulsa al máximo tus redes sociales</h1>
               <p>Si llevas trabajando las redes sociales de tu marca profesionalmente una temporada y no obtienes los resultados que esperabas: somos tu agencia.</p>
               <p>Realizamos estrategias de contenidos innovadoras acompañadas con campañas de publicidad en medios sociales. ¡¡Otro nivel!!</p>
               <h3>Descubre el valor de llenar tus canales sociales de:</h3>
@@ -16,47 +16,13 @@
                 <li>Campañas de publicidad para captación de leads desde el primer día</li>
               </ul>
             </div>
-
-            <div class="col-md-6 col-sm-6">
-              <div class="block">
-                <form name="contact" method="POST" data-netlify="true">
-                  <div class="form-group">
-                    <input name="nombre" type="text" class="form-control" placeholder="Tu nombre" aria-required="true" required>
-                  </div>
-                  <div class="form-group">
-                    <input name="email" type="text" class="form-control" placeholder="Tu email" aria-required="true" required>
-                  </div>
-                  <div class="form-group">
-                    <textarea name="mensaje" class="form-control" rows="3" placeholder="Mensaje" aria-required="true" required></textarea>
-                  </div>
-                  <div class="privacy-input">
-                    <input name="privacy" type="checkbox"  class="form-control" aria-required="true" required>
-                    <p style="display: inline-block;">Acepto los términos de condiciones de la <a target="_blank" href="{{ site.baseurl }}/privacy">política de privacidad</a></p>
-                  </div>
-                  <div class="form-group" <!--data-netlify-recaptcha="true"--></div>
-                  
-                  <button class="btn btn-default btn-call-to-action" type="submit">¡Quiero ser una supermarca!</button>
-                </form>
-              </div>
+			<div class="col-md-6 col-sm-6">
+			{% include contactform.html %}
+			</div>
             </div>
           </div>
         </div>
       </section>
-    </div>
-  </div>
-</section>
-
-<section class="responsive-contact">
-  <div class="row">
-    <div class="col-sm-12">
-      <a class="size-adjust float-right" href="mailto:hola@supertu.es">
-        <img src="{{ site.baseurl }}/img/landings/mail.png" alt="Logo">
-      </a>
-    </div>
-    <div class="col-sm-12">
-      <a class="size-adjust float-right" href="tel:+34653903359">
-        <img src="{{ site.baseurl }}/img/landings/whatsapp.png" alt="Logo">
-      </a>
     </div>
   </div>
 </section>
