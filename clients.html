@@ -13,25 +13,13 @@ hero-subtitle: "La inversión más inteligente"
 {% include hero.html %}
 
 <section id="portfolio-work">
-    <div class="container">
+    <div class="container-xl">
       <div class="block">
         <div class="portfolio-contant" style="padding-bottom: 40px;">
           <ul id="portfolio-contant-active">
-            {% assign cont = 3 %}
-
+            <div class="row no-gutters">
             {% for client in site.clients %}
-              {% assign newRow = cont | modulo:3 %}
-              
-              {% if cont == 3%}
-                <div class="row">
-              {% else %}
-                {% if newRow == 0 %}
-                  </div>
-                  <div class="row">
-                {% endif %}
-              {% endif %}
-              
-              <div class="col-md-4" style="height: 400px; margin-bottom: 60px;">
+              <div class="col-md-6 col-lg-4" style="height: 400px; margin-bottom: 60px;">
                 <li class="client-li" style="position: relative;">
 				  <div style="background: url(/img/superpoder.svg); width: 200px; height: 200px; border-radius: 50px; margin: auto;">
 				  {% if client.websiteUrl %}
@@ -74,23 +62,8 @@ hero-subtitle: "La inversión más inteligente"
                     {% endif %}
 					</div>
 				  </div>
-                  
-				  <!-- 
-                  {% if client.instagram and client.instagram != "" %}
-                    <a href="{{client.instagram}}"><i class="fa fa-instagram"></i></a>
-                  {% endif %}
-                  
-                  {% if client.facebook and client.facebook != "" %}
-                    <a href="{{client.facebook}}"><i class="fa fa-facebook"></i></a>
-                  {% endif %}
-                  {% if client.linkedin and client.linkedin != "" %}
-                    <a href="{{client.linkedin}}"><i class="fa fa-linkedin"></i></a>
-                  {% endif %}
-				  -->
                 </li>
               </div>
-
-              {% assign cont = cont | plus:1 %}
             {% endfor %}
           </ul>
         </div>
