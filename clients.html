@@ -53,22 +53,22 @@ hero-subtitle: "La inversión más inteligente"
 				  <div style="position: absolute; height: 60px; bottom: 75px; left: 0; right: 0; z-index: 1; border-top: 0; margin: 20px; padding: 0 20px 20px 20px;">
 					<div style="position: absolute; height: 60px; bottom: -2px; left: 0; right: 0; text-align:center;">
 					{% if client.twitter and client.twitter != "" %}
-					  <a href="{{client.twitter}}" style="height: 60px; width: 60px; display: inline-block;">
+					  <a href="{{client.twitter}}" class="client-social-icons">
 					  <img src="/img/icons/twitter.svg">
 					  </a>
                     {% endif %}
 					{% if client.instagram and client.instagram != "" %}
-					  <a href="{{client.instagram}}" style="height: 60px; width: 60px; display: inline-block;">
+					  <a href="{{client.instagram}}" class="client-social-icons">
 					  <img src="/img/icons/instagram.svg">
 					  </a>
                     {% endif %}
 					{% if client.facebook and client.facebook != "" %}
-					  <a href="{{client.facebook}}" style="height: 60px; width: 60px; display: inline-block;">
+					  <a href="{{client.facebook}}" class="client-social-icons">
 					  <img src="/img/icons/facebook.svg">
 					  </a>
                     {% endif %}
 					{% if client.linkedin and client.linkedin != "" %}
-					  <a href="{{client.linkedin}}" style="height: 60px; width: 60px; display: inline-block;">
+					  <a href="{{client.linkedin}}" class="client-social-icons">
 					  <img src="/img/icons/linkedin.svg">
 					  </a>
                     {% endif %}
@@ -100,3 +100,13 @@ hero-subtitle: "La inversión más inteligente"
 
 <!-- Call to action Start -->
 {% include calltoaction.html %}
+
+
+<style>
+.client-social-icons
+{
+	height: 60px;
+	width: 60px;
+	display: inline-block;
+}
+</style>
