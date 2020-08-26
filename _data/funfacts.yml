@@ -1,12 +1,12 @@
-- counter: +21403&nbsp;
-  icon: /img/icons/feat_coffee.svg
-  text: Cápsulas de café
 - counter: +153&nbsp;
   icon: /img/icons/feat_handshake.svg
   text: Cuentas mejoradas
-- counter: +82&nbsp;
-  icon: /img/icons/feat_keyboard.svg
-  text: Teclas por segundo
 - counter: +99%
   icon: /img/icons/feat_graph.svg
   text: Clientes satisfechos
+- counter: +21403&nbsp;
+  icon: /img/icons/feat_coffee.svg
+  text: Cápsulas de café
+- counter: +82&nbsp;
+  icon: /img/icons/feat_keyboard.svg
+  text: Teclas por segundo
