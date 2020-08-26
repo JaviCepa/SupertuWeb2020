@@ -536,10 +536,9 @@ ul.share-buttons .sr-only{
 .landing .landing-service-item {
   border-radius: 20px;
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
-  max-width: fit-content;
-  height: 100%;
+  width: 100%;
   margin: auto;
-  padding: 3rem;
+  padding: 20px;
 }
 
 .landing .landing-service-item a {
@@ -547,6 +546,12 @@ ul.share-buttons .sr-only{
   font-weight: bold;
   font-size: 18px;
   margin-top: 2rem;
+  transition: box-shadow 0.35s;
+  box-shadow: #00000078 0 5px 10px 0px
+}
+
+.landing .landing-service-item a:hover {
+  box-shadow: #00000078 0 10px 20px 0px;
 }
 
 .landing .landing-service-item a:focus {
@@ -565,12 +570,12 @@ ul.share-buttons .sr-only{
 }
 
 .landing .landing-service-item .price {
-  font-size: 38px !important;
+  font-size: 30px !important;
   font-weight: bold;
 }
 
 .landing .landing-service-item ul {
-  padding: 0 15%;
+  padding: 0 20px;
 }
 
 .landing .landing-service-item li {

@@ -1,22 +1,23 @@
 Feedback:
-[ ] {Ordenador+móvil} Meter iconos en los super poderes: abajo planes de precios y que esa sea la Home (con formato dayvo https://dayvo.com/?gclid=EAIaIQobChMInsP30Mez6wIVzbLVCh3GsQpbEAAYASAAEgLfkPD_BwE) y nuestros números de la Home, dejarla en la Home y valoraciones de clientes
+[ ] En el blog, no funciona la opción de clickar botón derecho y que se abra en una pestaña nueva
 [ ] {Ordenador+móvil} Cuando subamos un blog, queremos poder ver categorías ya existentes y seleccionarlas para no crear 200
-[ ] {Ordenador+móvil} Los articulos del blog pondria botones para que se pueda compartir en rede sociales
+[ ] {Ordenador+móvil} Los articulos del blog pondria botones para que se pueda compartir en redes sociales
 [ ] {Ordenador+móvil} Previsualización de enlaces del blog
 [ ] {Ordenador+móvil} Opción de edición de imagen en blog (centrarla, hacerla grande, hacerla chica…)
-[ ] {Ordenador+móvil} Blog: bajar la firma al final
-[ ] {Ordenador} Cuando pinchas en Espe Olea y te vas a los artículos del blog, se descuadra y no se ve
 [ ] {Móvil} En iOS no se ven la fotos
 
 To-do:
-[ ] Remaquetar las páginas de los posts
-[ ] Planes de precios en la home
 [ ] Rehacer los detalles de servicios (¿Lightbox?)
 [ ] Las landings son terribles
 [ ] Elegir fuente y uniformizar su uso en toda la web
 [ ] Restablecer (o mejorar) carrusel de testimonos
 [ ] Adaptar cabeceras a mómvil (reducir tamaño)
 [ ] Añadir tags de categorías en la página principal del blog
+[X] {Ordenador} Cuando pinchas en Espe Olea y te vas a los artículos del blog, se descuadra y no se ve
+[X] {Ordenador+móvil} Blog: bajar la firma al final
+[X] {Ordenador+móvil} Meter iconos en los super poderes: abajo planes de precios y que esa sea la Home (con formato dayvo https://dayvo.com/?gclid=EAIaIQobChMInsP30Mez6wIVzbLVCh3GsQpbEAAYASAAEgLfkPD_BwE) y nuestros números de la Home, dejarla en la Home y valoraciones de clientes
+[X] Planes de precios en la home
+[X] Remaquetar las páginas de los posts
 [X] Añadir whatsapp+email a la cabecera
 [X] {Móvil} Las secciones de las chicas van mal (las páginas "author")
 [X] {Ordenador+móvil} Quitar número fijo, dejar solo el móvil

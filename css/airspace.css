@@ -213,10 +213,23 @@ font header .navbar-default .navbar-nav li a:hover {
   padding: 15px 35px;
   border: none;
   background-color: #fff;
-  font-size: 15px;
+  font-size: 20px;
+  font-weight: 600;
   color: #333333;
-  box-shadow: #dac98e 0px 0px 16px 8px;
+  transition: box-shadow 0.5s, transform 0.15s;
+  box-shadow: #ffffff87 0px 4px 16px 0px
 }
+
+#call-to-action .btn-call-to-action:hover {
+  box-shadow: #ffffffa6 0px 8px 32px 8px;
+  transform: scale(1.05);
+}
+
+#call-to-action .btn-call-to-action:active {
+  box-shadow: #ffffffa6 0px 8px 32px 8px;
+  transform: scale(0.95);
+}
+
 /*--
 	Feature Start
 --*/
