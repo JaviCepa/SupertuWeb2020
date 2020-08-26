@@ -1,5 +1,5 @@
 
-<div class="col-lg-4" style="min-height: 250px;">
+<div class="col-xl-4 col-lg-6" style="min-height: 250px;">
 	<div class="post-entry">
 		<a href="{{ post.url | prepend: site.baseurl }}">
 		<div style="position: relative; height: 200px; background: url({{ media_folder }}{{ post.image }}); background-size: cover;">
@@ -9,6 +9,17 @@
 			<div style="pointer-events: none; background: linear-gradient(to bottom, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 100%); position: absolute; top:50%; bottom: 0; left: 0; right: 0;"></div>
 		</div>
 		</a>
+		
+		<div class="post-tags" style="height: 50px; bottom: 190px; right: 13px;">
+			<ul>					
+			  {% assign post_have_tags = post.tags | size %}
+			  {% if post_have_tags > 0 %}
+				{% for tag in post.tags %}
+				  <li class><a class="post" href="/tag/{{tag | replace: ' ', '-' }}" style="font-size: 10px; color: white; box-shadow: #a2a2a2 0px 0px 5px 0px; ">#{{tag}}</a></li>
+				{% endfor %}
+			  {% endif %}
+			</ul>
+		</div>
 		<div style="height: 160px; display: table-cell; vertical-align: middle; padding: 30px 20px 0 20px; width: auto; display: block; margin-top: 0px;">
 			<a href="{{ post.url | prepend: site.baseurl }}">
 				

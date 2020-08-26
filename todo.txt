@@ -1,17 +1,16 @@
 Feedback:
-[ ] {Ordenador+móvil} Cuando subamos un blog, queremos poder ver categorías ya existentes y seleccionarlas para no crear 200
-[ ] {Ordenador+móvil} Los articulos del blog pondria botones para que se pueda compartir en redes sociales
-[ ] {Ordenador+móvil} Previsualización de enlaces del blog
-[ ] {Ordenador+móvil} Opción de edición de imagen en blog (centrarla, hacerla grande, hacerla chica…)
-[ ] {Móvil} En iOS no se ven la fotos
+[ ] Fali: Previsualización de enlaces/imágenes del blog en social media
+[ ] Fali: Cuando subamos un blog, queremos poder ver categorías ya existentes y seleccionarlas para no crear 200
+[ ] Fali: Los articulos del blog pondria botones para que se pueda compartir en redes sociales
 
 To-do:
 [ ] Rehacer los detalles de servicios (¿Lightbox?)
 [ ] Las landings son terribles
-[ ] Elegir fuente y uniformizar su uso en toda la web
-[ ] Restablecer (o mejorar) carrusel de testimonos
-[ ] ¿Adaptar cabeceras a móvil? (reducir tamaño)
 [ ] Añadir tags de categorías en la página principal del blog
+[ ] Restablecer (o mejorar) carrusel de testimonos
+[ ] Reunión: Opción de edición de imagen en blog (centrarla, hacerla grande, hacerla chica…)
+[ ] Reunión: ¿Valorar otra tipografía?
+[X] {Móvil} En iOS no se ven la fotos
 [X] En el blog, no funciona la opción de clickar botón derecho y que se abra en una pestaña nueva
 [X] {Ordenador} Cuando pinchas en Espe Olea y te vas a los artículos del blog, se descuadra y no se ve
 [X] {Ordenador+móvil} Blog: bajar la firma al final
