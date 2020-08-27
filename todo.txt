@@ -5,20 +5,11 @@ Feedback:
 (X) Fali: Restablecer (o mejorar) carrusel de testimonos
 ( ) Fali: Añadir al final de los articulos del blog botones para compartir en redes sociales
 ( ) Fali: Intentar mejorar ratings de lighthouse por encima de 90 en todas las páginas
-
-Reunión:
-( ) Definir categorías disponibles
-( ) Recomendación: sección de "preguntas frecuentes"
-( ) ¿Reducimos los textos del home y los desarrollamos en la sección relacionada? (equipo, servicios...)
-( ) ¿Convertir el sub-artículo de la sección superpoderes (el de peter parker) a un post de blog?
+( ) Fali: Añadir botones de conversión en cada una de las 3 features de la página de inicio y reenfocarlas a conversión
 ( ) Opción de edición de imagen en blog (centrarla, hacerla grande, hacerla chica…)
-( ) ¿Valorar otra tipografía?
-( ) Sobre los botones de post de compartir en redes sociales: ¿de qué redes ponemos botones?
-( ) Los textos de los servicios son una parrafada infumable, y están escritos en primera persona (formato blog)
-( ) Las landing pages son bastante mejorables si se hace contenido a medida
-( ) Añadir botones de conversión en cada una de las 3 features de la página de inicio y reenfocarlas a conversión
-( ) Realmente es necesario poner la sección "otras categorías" al final de cada post? ¿Lo pidieron por un tema de SEO?
-( ) ¿Volver a añadir "intercom-free" con javascript no bloqueante?
+( ) Sobre los botones de post de compartir en redes sociales: fb, linkedin, whatsapp, twitter
+( ) Sección "otras categorías" después de los iconos de compartir en redes sociales
+( ) Añadir "intercom" pero hecho en whatsapp
 
 To-do:
 [X] Eliminar páginas individuales de servicios (ya están en forma de popups)
