@@ -6,6 +6,13 @@ Feedback:
 ( ) Fali: Añadir al final de los articulos del blog botones para compartir en redes sociales
 ( ) Fali: Intentar mejorar ratings de lighthouse por encima de 90 en todas las páginas
 
+( ) Añadir una página al rellenar el formulario
+( ) Bug: scroll con el modal del servicio abierto
+( ) Acordar la maquetación de los posts
+( ) Añadir enlace a "post del autor" en el nombre en la parte de abajo de cada post
+( ) Añadir los metadatos al CMS siguiendo las indicaciones de ProSeoMedia
+( ) Bug: error al entrar en admin (?)
+
 Reunión:
 ( ) Definir categorías disponibles
 ( ) Recomendación: sección de "preguntas frecuentes"
