@@ -44,6 +44,11 @@
 .owl-controls .owl-buttons div{
 	cursor: pointer;
 }
+
+.owl-page:last-of-type {
+	margin-right: 0;
+}
+
 .owl-controls {
 	-webkit-user-select: none;
 	-khtml-user-select: none;

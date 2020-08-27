@@ -106,19 +106,31 @@ hero-subtitle: "Convertimos tu marca en una supermarca en redes sociales"
           </ul>
         </div>
         {% endif %}
+      </div> 
+    </div>
+  </div>
+</section>
+
+<!-- Content Start -->
+<section id="testimonial" style="padding:0; padding-top: 40px;">
+  <div class="container">
+    <div class="row">
+      <div class="section-title text-center" style="margin: auto;">
+        <h2>La opinión de nuestros clientes</h2>
       </div>
-	  <!--
-      <div class="col-md-6">
+    </div>
+    <div class="row">
+      <div class="col-md-6 offset-md-3">
         {% if site.data.testimonials.size > 0 %}
-        <div class="testimonial-carousel">
+        <div class="testimonial-carousel" style="border: 0">
           <div id="testimonial-slider" class="owl-carousel">
             {% for tm in site.data.testimonials %}
             <div>
-                <img src="img/cotation.png" alt="IMG">
+                <!-- <img src="img/cotation.png" alt="IMG"> -->
                 <p>{{ tm.testimonial }}</p>
                 <div class="user">
                   <img src="{{ tm.image }}" alt="Clientes" loading="lazy">
-                  <p><span>{{ tm.name }}</span> {{ tm.title }}</p>
+                  <p><span>{{ tm.name }}</span>{{ tm.title }}</p>
                 </div>
             </div>
             {% endfor %}
@@ -126,17 +138,16 @@ hero-subtitle: "Convertimos tu marca en una supermarca en redes sociales"
         </div>
         {% endif %}
       </div>
-	  -->
     </div>
   </div>
 </section>
 
-<section id="pricing">
+<section id="pricing" style="padding:0; padding-top: 40px;">
   <div class="container">
     <div class="row">
 	  <div class="col-md-12">
         <div class="section-title text-center" style="margin: auto;">
-          <h2>Al mejor servicio, a tu alcance</h2>
+          <h2>El mejor servicio, a tu alcance</h2>
 		  <br>
         </div>
 	  </div>

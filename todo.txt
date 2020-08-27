@@ -1,8 +1,8 @@
 Feedback:
-( ) Fali: Restablecer el pixel de facebook con javascript no bloqueante
+(X) Fali: Restablecer el pixel de facebook con javascript no bloqueante
 ( ) Fali: Previsualización de enlaces/imágenes del blog en social media
 ( ) Fali: Cuando suban un post, quieren poder ver categorías ya existentes y seleccionarlas para no crear 200
-( ) Fali: Restablecer (o mejorar) carrusel de testimonos
+(X) Fali: Restablecer (o mejorar) carrusel de testimonos
 ( ) Fali: Añadir al final de los articulos del blog botones para compartir en redes sociales
 ( ) Fali: Intentar mejorar ratings de lighthouse por encima de 90 en todas las páginas
 
