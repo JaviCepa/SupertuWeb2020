@@ -18,7 +18,7 @@ hero-subtitle: "La mejor garantía"
 		
 		<div class="row">
 		  {% for teammember in sorted_team %}
-		  <div class="col-md-4" style="padding-bottom: 30px;">
+		  <div class="col-lg-4 col-md-6" style="padding-bottom: 30px;">
 			{% if teammember.name_filter %}
 			<div class="member-block block" style="cursor: pointer;" onclick="window.location='/author/{{teammember.name_filter }}';">
 			{% else %}
