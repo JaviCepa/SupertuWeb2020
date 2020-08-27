@@ -1,22 +1,26 @@
 Feedback:
-( ) Fali: Previsualización de enlaces/imágenes del blog en social media
-( ) Fali: Cuando subamos un blog, queremos poder ver categorías ya existentes y seleccionarlas para no crear 200
-( ) Fali: Los articulos del blog pondria botones para que se pueda compartir en redes sociales
-( ) Fali: Restablecer (o mejorar) carrusel de testimonos
-( ) Fali: Volver a añadir "intercom-free" sin que sea javascript bloqueante
 ( ) Fali: Restablecer el pixel de facebook con javascript no bloqueante
+( ) Fali: Previsualización de enlaces/imágenes del blog en social media
+( ) Fali: Cuando suban un post, quieren poder ver categorías ya existentes y seleccionarlas para no crear 200
+( ) Fali: Restablecer (o mejorar) carrusel de testimonos
+( ) Fali: Añadir al final de los articulos del blog botones para compartir en redes sociales
 ( ) Fali: Intentar mejorar ratings de lighthouse por encima de 90 en todas las páginas
 
+Reunión:
+( ) Definir categorías disponibles
+( ) Recomendación: sección de "preguntas frecuentes"
+( ) ¿Reducimos los textos del home y los desarrollamos en la sección relacionada? (equipo, servicios...)
+( ) ¿Convertir el sub-artículo de la sección superpoderes (el de peter parker) a un post de blog?
+( ) Opción de edición de imagen en blog (centrarla, hacerla grande, hacerla chica…)
+( ) ¿Valorar otra tipografía?
+( ) Sobre los botones de post de compartir en redes sociales: ¿de qué redes ponemos botones?
+( ) Los textos de los servicios son una parrafada infumable, y están escritos en primera persona (formato blog)
+( ) Las landing pages son bastante mejorables si se hace contenido a medida
+( ) Añadir botones de conversión en cada una de las 3 features de la página de inicio y reenfocarlas a conversión
+( ) Realmente es necesario poner la sección "otras categorías" al final de cada post? ¿Lo pidieron por un tema de SEO?
+( ) ¿Volver a añadir "intercom-free" con javascript no bloqueante?
+
 To-do:
-( ) Reunión: Recomendación: sección de "preguntas frecuentes"
-( ) Reunión: ¿Reducimos los textos del home y los desarrollamos en la sección relacionada? (equipo, servicios...)
-( ) Reunión: ¿Convertir el sub-artículo de la sección superpoderes (el de peter parker) a un post de blog?
-( ) Reunión: Opción de edición de imagen en blog (centrarla, hacerla grande, hacerla chica…)
-( ) Reunión: ¿Valorar otra tipografía?
-( ) Reunión: Los textos de los servicios son una parrafada infumable, y están escritos en primera persona (formato blog)
-( ) Reunión: Las landing pages son bastante mejorables si se hace contenido a medida
-( ) Reunión: Añadir botones de conversión en cada una de las 3 features de la página de inicio y reenfocarlas a conversión
-( ) Reunión: Realmente es necesario poner la sección "otras categorías" al final de cada post? ¿Lo pidieron por un tema de SEO?
 [X] Eliminar páginas individuales de servicios (ya están en forma de popups)
 [X] Quitar los títulos de las imágenes de posts para no repetirlos justo debajo
 [X] Las landings son terribles
