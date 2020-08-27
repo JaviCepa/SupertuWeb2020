@@ -12,6 +12,13 @@ Feedback:
 ( ) Añadir enlace a "post del autor" en el nombre en la parte de abajo de cada post
 ( ) Añadir los metadatos al CMS siguiendo las indicaciones de ProSeoMedia
 ( ) Bug: error al entrar en admin (?)
+( ) Bug: el modal se muestra en los superpoderes - eliminar la transición inicial
+( ) Post: quitar el autor de abajo y poner la fecha arriba
+( ) Post: compartir en: FB, LinkedIn, Twitter y whatsapp
+( ) Post: otras categorías después de los botones de compartir
+( ) Añadir un chat de whatsapp al estilo de intercom
+( ) Añadir previsualizador de imágenes al hacerles click (Livebox)
+( ) Añadir estilo al preview de los posts en el admin
 
 Reunión:
 ( ) Definir categorías disponibles
