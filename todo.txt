@@ -5,6 +5,7 @@ Feedback:
 ( ) Fali: Restablecer (o mejorar) carrusel de testimonos
 ( ) Fali: Volver a añadir "intercom-free" sin que sea javascript bloqueante
 ( ) Fali: Restablecer el pixel de facebook con javascript no bloqueante
+( ) Fali: Mejorar ratings de lighthouse por encima de 90 en todas las páginas
 
 To-do:
 ( ) Reunión: Recomendación: sección de "preguntas frecuentes"
