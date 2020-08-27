@@ -1,17 +1,16 @@
-Feedback:
-(X) Fali: Restablecer el pixel de facebook con javascript no bloqueante
-( ) Fali: Previsualización de enlaces/imágenes del blog en social media
-( ) Fali: Cuando suban un post, quieren poder ver categorías ya existentes y seleccionarlas para no crear 200
-(X) Fali: Restablecer (o mejorar) carrusel de testimonos
-( ) Fali: Añadir al final de los articulos del blog botones para compartir en redes sociales
-( ) Fali: Intentar mejorar ratings de lighthouse por encima de 90 en todas las páginas
-
+Fali:
+(X) Restablecer el pixel de facebook con javascript no bloqueante
+( ) Previsualización de enlaces/imágenes del blog en social media (twitter cards, facebook graph, cosasdeesas)
+( ) Cuando suban un post, quieren poder ver categorías ya existentes y seleccionarlas para no crear 200
+(X) Restablecer (o mejorar) carrusel de testimonos
+( ) Añadir al final de los articulos del blog botones para compartir en redes sociales
+( ) Intentar mejorar ratings de lighthouse por encima de 90 en todas las páginas
+( ) Añadir botones de conversión en cada una de las 3 features de la página de inicio y reenfocarlas a conversión
 ( ) Añadir una página al rellenar el formulario
 ( ) Bug: scroll con el modal del servicio abierto
-( ) Acordar la maquetación de los posts
-( ) Añadir enlace a "post del autor" en el nombre en la parte de abajo de cada post
 ( ) Añadir los metadatos al CMS siguiendo las indicaciones de ProSeoMedia
 ( ) Bug: error al entrar en admin (?)
+
 ( ) Bug: el modal se muestra en los superpoderes - eliminar la transición inicial
 ( ) Post: quitar el autor de abajo y poner la fecha arriba
 ( ) Post: compartir en: FB, LinkedIn, Twitter y whatsapp
@@ -19,20 +18,6 @@ Feedback:
 ( ) Añadir un chat de whatsapp al estilo de intercom
 ( ) Añadir previsualizador de imágenes al hacerles click (Livebox)
 ( ) Añadir estilo al preview de los posts en el admin
-
-Reunión:
-( ) Definir categorías disponibles
-( ) Recomendación: sección de "preguntas frecuentes"
-( ) ¿Reducimos los textos del home y los desarrollamos en la sección relacionada? (equipo, servicios...)
-( ) ¿Convertir el sub-artículo de la sección superpoderes (el de peter parker) a un post de blog?
-( ) Opción de edición de imagen en blog (centrarla, hacerla grande, hacerla chica…)
-( ) ¿Valorar otra tipografía?
-( ) Sobre los botones de post de compartir en redes sociales: ¿de qué redes ponemos botones?
-( ) Los textos de los servicios son una parrafada infumable, y están escritos en primera persona (formato blog)
-( ) Las landing pages son bastante mejorables si se hace contenido a medida
-( ) Añadir botones de conversión en cada una de las 3 features de la página de inicio y reenfocarlas a conversión
-( ) Realmente es necesario poner la sección "otras categorías" al final de cada post? ¿Lo pidieron por un tema de SEO?
-( ) ¿Volver a añadir "intercom-free" con javascript no bloqueante?
 
 To-do:
 [X] Eliminar páginas individuales de servicios (ya están en forma de popups)
