@@ -49,6 +49,6 @@ include: ["_redirects"]
 
 plugins:
   # - jekyll-seo-tag
-  - jekyll-sitemap
+  # - jekyll-sitemap
  
 google_analytics: UA-51594905-1
