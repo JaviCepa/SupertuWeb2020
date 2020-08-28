@@ -19,7 +19,7 @@ collections:
       - {label: "Subtítulo", name: "subtitle", widget: "string"}
       - label: "Categorías"
         name: "tags"
-        widget: "list"
+        widget: "select"
         multiple: true
         options: ["Marketing en redes sociales", "Redes sociales", "Facebook", "Instagram", "Actualidad"]
       - {label: "Autor", name: "author", widget: "string"}
