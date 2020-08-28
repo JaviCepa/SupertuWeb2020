@@ -3,7 +3,8 @@ layout: post
 title: "¡Vuela cliente, vuela!"
 subtitle: La importancia de saber decir NO
 tags:
-  - Marketing en redes sociales
+  - Marketing
+  - Redes sociales
 author: Espe Olea
 image: /img/upload/la-importancia-de-saber-decir-no.png
 description: social media, redes sociales, agencia de marketing, clientes,

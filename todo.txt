@@ -1,25 +1,24 @@
 Fali:
-(X) Restablecer el pixel de facebook con javascript no bloqueante
-( ) Previsualización de enlaces/imágenes del blog en social media (twitter cards, facebook graph, cosasdeesas)
-( ) Cuando suban un post, quieren poder ver categorías ya existentes y seleccionarlas para no crear 200
-(X) Restablecer (o mejorar) carrusel de testimonos
-( ) Añadir al final de los articulos del blog botones para compartir en redes sociales
-( ) Intentar mejorar ratings de lighthouse por encima de 90 en todas las páginas
-( ) Añadir botones de conversión en cada una de las 3 features de la página de inicio y reenfocarlas a conversión
-( ) Añadir una página al rellenar el formulario
-( ) Bug: scroll con el modal del servicio abierto
 ( ) Añadir los metadatos al CMS siguiendo las indicaciones de ProSeoMedia
+( ) Previsualización de enlaces/imágenes del blog en social media (twitter cards, facebook graph, cosasdeesas)
+( ) Añadir botones de conversión en cada una de las 3 features de la página de inicio y reenfocarlas a conversión
+( ) Añadir una página dr agradecimiento tras rellenar el formulario
+( ) Bug: scroll con el modal del servicio abierto
 ( ) Bug: error al entrar en admin (?)
-
 ( ) Bug: el modal se muestra en los superpoderes - eliminar la transición inicial
 ( ) Post: quitar el autor de abajo y poner la fecha arriba
-( ) Post: compartir en: FB, LinkedIn, Twitter y whatsapp
+( ) Añadir al final de los articulos del blog botones para compartir en: FB, LinkedIn, Twitter y whatsapp
 ( ) Post: otras categorías después de los botones de compartir
 ( ) Añadir un chat de whatsapp al estilo de intercom
 ( ) Añadir previsualizador de imágenes al hacerles click (Livebox)
 ( ) Añadir estilo al preview de los posts en el admin
+( ) Intentar mejorar ratings de lighthouse por encima de 90 en todas las páginas
 
-To-do:
+Done:
+(X) Restablecer el pixel de facebook con javascript no bloqueante
+(X) Cuando suban un post, quieren poder ver categorías ya existentes y seleccionarlas para no crear 200
+(X) Restablecer (o mejorar) carrusel de testimonos
+(X) Limitar tamaños de imagen a 500kb
 [X] Eliminar páginas individuales de servicios (ya están en forma de popups)
 [X] Quitar los títulos de las imágenes de posts para no repetirlos justo debajo
 [X] Las landings son terribles

@@ -21,7 +21,7 @@ collections:
         name: "tags"
         widget: "select"
         multiple: true
-        options: ["Marketing en redes sociales", "Redes sociales", "Facebook", "Instagram", "Actualidad"]
+        options: ["Facebook", "Instagram", "Google My Business", "Twitter", "LinkedIn", "Publicidad", "Actualidad", "Marketing", "Redes sociales"]
       - {label: "Autor", name: "author", widget: "string"}
       - label: "Imagen"
         name: "image"

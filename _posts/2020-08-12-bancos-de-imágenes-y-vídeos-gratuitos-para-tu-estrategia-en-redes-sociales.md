@@ -3,7 +3,7 @@ layout: post
 title: Bancos de imágenes y vídeo gratuitos
 subtitle: Haz tu estrategia en redes única con contenido libre de derechos
 tags:
-  - redes sociales
+  - Redes sociales
 author: Marina Aneas
 image: /img/upload/supertu-blog.png
 description: bancos de imagenes gratis

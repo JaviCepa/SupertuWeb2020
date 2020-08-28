@@ -3,9 +3,9 @@ layout: post
 title: Marketing en redes sociales VS coronavirus
 subtitle: Así vivimos la pandemia y esto es lo que hemos aprendido
 tags:
-  - marketing digital
-  - redes sociales
-  - publicidad en redes sociales
+  - Marketing
+  - Redes sociales
+  - Publicidad
 author: Espe Olea
 image: /img/upload/whatsapp-image-2020-07-30-at-11.27.45.jpeg
 description: marketing en redes sociales y publicidad contra el coronavirus
