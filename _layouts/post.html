@@ -2,6 +2,9 @@
 layout: default
 ---
 
+{% if page.hidden == true %}
+<!--Not available-->
+{% else %}
 <div class="post">
   <!-- Wrapper Start -->
   <section id="intro" style="margin-top: 60px;">
@@ -102,6 +105,7 @@ layout: default
     </div>
   </section>
 </div>
+{% endif %}
 
 <!-- Call to action Start -->
 {% include calltoaction.html %}
