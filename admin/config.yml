@@ -20,7 +20,8 @@ collections:
       - label: "Categorías"
         name: "tags"
         widget: "list"
-        default: ["Marketing en redes sociales", "Redes sociales", "Facebook", "Instagram", "Actualidad"]
+        multiple: true
+        options: ["Marketing en redes sociales", "Redes sociales", "Facebook", "Instagram", "Actualidad"]
       - {label: "Autor", name: "author", widget: "string"}
       - label: "Imagen"
         name: "image"
