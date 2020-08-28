@@ -1,4 +1,6 @@
 Fali:
+( ) Añadir un campo booleano de -draft- a los blogposts en el CMS y adaptar la web para que oculte los que estén en este estado
+( ) Añadir un campo datetime al CMS para configurar la fecha de publicación de cada post
 ( ) Añadir los metadatos al CMS siguiendo las indicaciones de ProSeoMedia
 ( ) Previsualización de enlaces/imágenes del blog en social media (twitter cards, facebook graph, cosasdeesas)
 ( ) Añadir botones de conversión en cada una de las 3 features de la página de inicio y reenfocarlas a conversión
@@ -13,6 +15,9 @@ Fali:
 ( ) Añadir previsualizador de imágenes al hacerles click (Livebox)
 ( ) Añadir estilo al preview de los posts en el admin
 ( ) Intentar mejorar ratings de lighthouse por encima de 90 en todas las páginas
+
+Ideas:
+( ) ¿Hacer los paquetes editables desde el CMS?
 
 Done:
 (X) Restablecer el pixel de facebook con javascript no bloqueante

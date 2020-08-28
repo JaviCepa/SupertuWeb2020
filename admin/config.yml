@@ -22,7 +22,12 @@ collections:
         widget: "select"
         multiple: true
         options: ["Facebook", "Instagram", "Google My Business", "Twitter", "LinkedIn", "Publicidad", "Actualidad", "Marketing", "Redes sociales", "Marketing online", "Supertú"]
-      - {label: "Autor", name: "author", widget: "string"}
+      - label: "Autor"
+        name: "author"
+        widget: "relation"
+        collection: "team"
+        valueField: name
+        searchFields: name
       - label: "Imagen"
         name: "image"
         widget: "image"
