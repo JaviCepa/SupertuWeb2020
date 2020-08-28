@@ -26,8 +26,8 @@ collections:
         name: "author"
         widget: "relation"
         collection: "team"
-        valueField: name
-        searchFields: name
+        valueField: "name"
+        searchFields: ["name"]
       - label: "Imagen"
         name: "image"
         widget: "image"
