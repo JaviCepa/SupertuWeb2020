@@ -35,6 +35,12 @@ collections:
         media_library:
             config:
                 max_file_size: 512000
+      - label: "Miniatura RRSS (opcional)"
+        name: "social_media_image"
+        widget: "image"
+        media_library:
+            config:
+                max_file_size: 512000
       - {label: "Contenido", name: "body", widget: "markdown"}
       - {label: "Fecha", name: "date", widget: "datetime"}
       - {label: "SEO Title", name: "seotitle", widget: "string"}

@@ -1,6 +1,5 @@
 To-do:
 ( ) Añadir estilo al preview de los posts en el admin
-( ) Previsualización de enlaces/imágenes del blog en social media (twitter cards, facebook graph, cosasdeesas)
 ( ) Añadir botones de conversión en cada una de las 3 features de la página de inicio y reenfocarlas a conversión
 ( ) Añadir una página de agradecimiento tras rellenar el formulario
 ( ) Bug: scroll con el modal del servicio abierto
@@ -10,9 +9,11 @@ To-do:
 ( ) Post: otras categorías después de los botones de compartir
 ( ) Añadir un chat de whatsapp al estilo de intercom
 ( ) Añadir previsualizador de imágenes de los blogposts al hacerles click (Livebox)
+( ) Añadir generación de thumbnails para ciertos usos de imágenes reducidas (ej: galería de blogposts)
 ( ) Intentar mejorar ratings de lighthouse por encima de 90 en todas las páginas
 
 Done:
+(X) Previsualización de enlaces/imágenes del blog en social media (twitter cards, facebook graph, cosasdeesas)
 (X) Actualizar el sitemap de acuerdo a la especificación
 (X) Campo de fecha personalizado
 (X) Añadir un campo booleano de -draft- a los blogposts en el CMS y adaptar la web para que oculte los que estén en este estado
