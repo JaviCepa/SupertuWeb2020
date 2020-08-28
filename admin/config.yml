@@ -25,7 +25,7 @@ collections:
       - label: "Autor"
         name: "author"
         widget: "relation"
-        collection: "team"
+        collection: "teammember"
         valueField: "name"
         searchFields: ["name"]
       - label: "Imagen"
