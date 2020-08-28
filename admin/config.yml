@@ -15,9 +15,8 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Título", name: "title", widget: "string"}
-      - {label: "Oculto", name: "hidden", widget: "boolean"}
-      - {label: "Subtítulo", name: "subtitle", widget: "string"}
+      - {label: "Título (H1)", name: "title", widget: "string"}
+      - {label: "Subtítulo (H2)", name: "subtitle", widget: "string"}
       - label: "Categorías"
         name: "tags"
         widget: "select"
@@ -29,6 +28,7 @@ collections:
         collection: "teammember"
         valueField: "name"
         searchFields: ["name"]
+      - {label: "Oculto", name: "hidden", widget: "boolean"}
       - label: "Imagen"
         name: "image"
         widget: "image"
@@ -39,6 +39,7 @@ collections:
       - {label: "Fecha", name: "date", widget: "datetime"}
       - {label: "SEO Title", name: "seotitle", widget: "string"}
       - {label: "SEO Description", name: "description", widget: "string"}
+      - {label: "SEO Custom URL", name: "permalink", widget: "string"}
   - name: "teammember"
     label: "Equipo"
     folder: "_team"
