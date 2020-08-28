@@ -17,7 +17,7 @@ Fali:
 ( ) Intentar mejorar ratings de lighthouse por encima de 90 en todas las páginas
 
 Ideas:
-( ) ¿Hacer los paquetes editables desde el CMS?
+( ) ¿Campo de fecha personalizado?
 
 Done:
 (X) Restablecer el pixel de facebook con javascript no bloqueante
