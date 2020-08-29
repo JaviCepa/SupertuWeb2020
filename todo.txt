@@ -1,9 +1,7 @@
 To-do:
-( ) Actualizar páginas de categorías
-( ) Eliminar acentos de todas las URLs
 ( ) Añadir botones de conversión en cada una de las 3 features de la página de inicio y reenfocarlas a conversión
 ( ) Añadir una página de agradecimiento tras rellenar el formulario
-( ) Añadir enlace al sitemap.xml en el footer
+( ) Eliminar acentos de todas las URLs
 ( ) Bug: scroll con el modal del servicio abierto
 ( ) Bug: el modal se muestra en los superpoderes - eliminar la transición inicial
 ( ) Post: quitar el autor de abajo y poner la fecha arriba
@@ -13,7 +11,7 @@ To-do:
 ( ) Añadir previsualizador de imágenes de los blogposts al hacerles click (Livebox)
 ( ) Añadir generación de thumbnails para ciertos usos de imágenes reducidas (ej: galería de blogposts)
 ( ) Intentar mejorar ratings de lighthouse por encima de 90 en todas las páginas
-( ) Buscar y arreglar enlaces rotos (https://app.neilpatel.com/es/seo_analyzer/):
+( ) Buscar y arreglar enlaces rotos (lista extraída de https://app.neilpatel.com/es/seo_analyzer/):
 	https://supertu.es/c%C3%B3mo-migrar-un-perfil-de-persona-a-una-p%C3%A1gina-de-facebook/
 	https://supertu.es/calendario-editorial-redes-sociales/
 	https://supertu.es/estrategia-en-redes-sociales/
@@ -23,6 +21,8 @@ To-do:
 	https://supertu.es/redaccion-de-contenidos-social-media/
 
 Done:
+(X) Añadir enlace al sitemap.xml en el footer
+(X) Actualizar páginas de categorías
 (X) Canonical URLs
 (X) Previsualización de enlaces/imágenes del blog en social media (twitter cards, facebook graph, cosasdeesas)
 (X) Actualizar el sitemap de acuerdo a la especificación
