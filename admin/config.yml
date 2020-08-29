@@ -2,15 +2,19 @@ backend:
   name: github
   repo: JaviCepa/supertu-web-netlify
   branch: master
-  site_domain: supertu.netlify.com
+  site_domain: supertu.es
 
 media_folder: "/img/upload"
 public_folder: "/img/upload"
+site_url: https://supertu.es
+logo_url: https://supertu.es/img/logo_full.svg
+locale: 'es'
 
 collections:
   - name: "blogpost"
     label: "Blogposts"
     folder: "_posts"
+    preview_path: /{{slug}}
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
     fields:
