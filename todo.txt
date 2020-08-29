@@ -1,5 +1,6 @@
 To-do:
-( ) Añadir estilo al preview de los posts en el admin
+( ) Actualizar páginas de categorías
+( ) Eliminar acentos de todas las URLs
 ( ) Añadir botones de conversión en cada una de las 3 features de la página de inicio y reenfocarlas a conversión
 ( ) Añadir una página de agradecimiento tras rellenar el formulario
 ( ) Añadir enlace al sitemap.xml en el footer
@@ -12,6 +13,14 @@ To-do:
 ( ) Añadir previsualizador de imágenes de los blogposts al hacerles click (Livebox)
 ( ) Añadir generación de thumbnails para ciertos usos de imágenes reducidas (ej: galería de blogposts)
 ( ) Intentar mejorar ratings de lighthouse por encima de 90 en todas las páginas
+( ) Buscar y arreglar enlaces rotos (https://app.neilpatel.com/es/seo_analyzer/):
+	https://supertu.es/c%C3%B3mo-migrar-un-perfil-de-persona-a-una-p%C3%A1gina-de-facebook/
+	https://supertu.es/calendario-editorial-redes-sociales/
+	https://supertu.es/estrategia-en-redes-sociales/
+	https://supertu.es/fotos-y-microvideos-redes-sociales/
+	https://supertu.es/publicidad-en-facebook/
+	https://supertu.es/publicidad-en-instagram/
+	https://supertu.es/redaccion-de-contenidos-social-media/
 
 Done:
 (X) Canonical URLs
