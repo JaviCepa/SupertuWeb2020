@@ -29,20 +29,19 @@ collections:
         searchFields: ["tag"]
         multiple: true
         required: false
-        # widget: "select"
-        # options: ["Facebook", "Instagram", "Google My Business", "Twitter", "LinkedIn", "Publicidad", "Actualidad", "Marketing", "Redes sociales", "Marketing online", "Supertú"]
       - label: "Autor"
         name: "author"
         widget: "relation"
         collection: "teammember"
         valueField: "name"
         searchFields: ["name"]
-      - {label: "Fecha", name: "date", widget: "datetime", required: false}
-      - {label: "Oculto", name: "hidden", widget: "boolean", required: false}
+      - {label: "Fecha", name: "date", widget: "datetime", required: false, hint: "La fecha a mostrar en el post. Si no se define se usará la fecha de creación (no la de última modificación)."}
+      - {label: "Oculto", name: "hidden", widget: "boolean", required: false, hint: "Puedes marcar el post como oculto si quieres publicarlo más adelante."}
       - label: "Imagen"
         name: "image"
         widget: "image"
         required: false
+        hint: "El tamaño máximo de las imagenes que se pueden subir es de ~500kb (unos 0.5MB) por temas de optimización de tiempo de carga."
         media_library:
             config:
                 max_file_size: 512000
@@ -50,13 +49,14 @@ collections:
         name: "social_media_image"
         widget: "image"
         required: false
+        hint: "Esta imagen es la que se insertará al compartir el enlace en redes sociales (si no hay ninguna definida se usará la imagen del post)"
         media_library:
             config:
                 max_file_size: 512000
       - {label: "Contenido", name: "body", widget: "markdown", required: false}
-      - {label: "SEO Title", name: "seotitle", widget: "string", required: false}
-      - {label: "SEO Description", name: "description", widget: "string", required: false}
-      - {label: "SEO Custom URL (debe empezar por blog/)", name: "permalink", widget: "string", required: false}
+      - {label: "SEO Title", name: "seotitle", widget: "string", required: false, hint: "Irá dentro del head y será el título mostrado en la barra del navegador."}
+      - {label: "SEO Description", name: "description", widget: "string", required: false, hint: "Irá dentro de la etiqueta de meta-descripción del head."}
+      - {label: "SEO Custom URL", name: "permalink", widget: "string", required: false, hint: "Debe empezar por 'blog/' (sin comillas)"}
   - name: "teammember"
     label: "Equipo"
     folder: "_team"
