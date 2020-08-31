@@ -3,7 +3,7 @@ layout: tag
 tag: Instagram
 title: Vende gracias a los anuncios en Instagram
 
-permalink: /publicaciones-etiqueta-instagram/
+permalink: /blog/categoria/instagram/
 ---
 
 {% include posts-tag-filtered.html %}

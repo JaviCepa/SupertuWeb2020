@@ -3,7 +3,7 @@ layout: tag
 tag: Facebook
 title: Vende gracias a las campañas de publicidad en Facebook
 
-permalink: /publicaciones-etiqueta-facebook/
+permalink: /blog/categoria/facebook/
 ---
 
 {% include posts-tag-filtered.html %}

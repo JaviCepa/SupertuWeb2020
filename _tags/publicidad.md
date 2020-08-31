@@ -3,7 +3,7 @@ layout: tag
 tag: Publicidad
 title: Posts por categoría
 
-permalink: /publicaciones-etiqueta-publicidad/
+permalink: /blog/categoria/publicidad/
 ---
 
 {% include posts-tag-filtered.html %}

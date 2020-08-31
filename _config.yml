@@ -35,12 +35,16 @@ markdown: kramdown
 collections:
   team:
     output: true
+    permalink: /equipo/:name
   services:
     output: true
+    permalink: /servicios/:name
   clients:
-    output: true
+    output: false
   tags:
     output: true
+    permalink: /categorias/:name
+
 
 # Category descriptions (for archive pages)
 descriptions:
