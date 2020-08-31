@@ -21,7 +21,7 @@ Posts de la categoría {{page.tag}}
         </div>
     {% endif %}
 
-    <div class="row" style="margin-top: 30px;"></div>
+    <div class="row" style="margin-top: 30px;">
     {% for post in site.posts %}
         {% if post.tags contains page.tag %}
             {% include postentry.html %}
