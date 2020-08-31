@@ -6,7 +6,7 @@ tags:
   - Marketing
   - Redes sociales
 author: Espe Olea
-date: ""
+date: 2020-05-17
 image: /img/upload/la-importancia-de-saber-decir-no.png
 description: social media, redes sociales, agencia de marketing, clientes,
   agencias, publicidad, marketing, málaga
