@@ -7,8 +7,10 @@ tags:
   - Redes sociales
   - Marketing
 author: Marina Aneas
+date: 2020-05-22T11:37:28.625Z
 image: /img/upload/como-espiar-los-anuncios-de-tu-competencia-en-facebook.png
 description: espiar anuncios competencia facebook
+permalink: espiar-anuncios-competencia-facebook
 ---
 Determinar, investigar y analizar a la competencia de tu negocio es algo que todos los empresarios hacemos antes de embarcarnos en un proyecto. Es algo normal y lógico, ya que tienes que conocer el sector en el que te mueves para poder ofrecer algo diferente que atraiga a tu cliente potencial.
 
