@@ -5,8 +5,10 @@ subtitle: Lleva tu negocio al siguiente nivel
 tags:
   - Facebook
 author: Marina Aneas
+date: 2020-07-16T11:38:03.004Z
 image: /img/upload/como-migrar-un-perfil-de-persona-a-una-pagina-de-facebook.png
 description: migrar perfil pagina facebook
+permalink: migrar-perfil-pagina-facebook
 ---
 Una página comercial o fan page en Facebook aportará muchos beneficios a nuestro negocio si sabemos cómo sacar provecho de esta plataforma tan potente. Entre las ventajas de tenerla se encuentran, por ejemplo, [los anuncios en Facebook](https://supertu.es/publicidad-en-facebook/) e [Instagram](https://supertu.es/publicidad-en-instagram/), que ya sabrás lo importantes que son tanto para negocios online como offline.
 
