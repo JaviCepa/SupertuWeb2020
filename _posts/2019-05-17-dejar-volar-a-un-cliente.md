@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "¡Vuela cliente, vuela!"
+title: Gestionar clientes sin morir en el intento
 subtitle: La importancia de saber decir NO
 tags:
   - Marketing
