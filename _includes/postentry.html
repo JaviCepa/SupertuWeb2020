@@ -34,8 +34,8 @@
 				<div style="background: #054b54; position: absolute; top: 0px; left: -20px; right: -20px; bottom: -30px;"></div>
 				{% for member in site.team %}
 					{% if post.author == member.name %}
-					<p style="color: white; position: absolute; top: 5px; left: 5px; height: 30px; padding-right: 10px; padding-left: 10px;"><i><a href="/author/{{ member.name_filter }}" style="color:white;">{{post.author}}</a> - {{ post.date | date: "%d/%b/%Y" }}</i></p>
-					<a href="/author/{{ member.name_filter }}">
+					<p style="color: white; position: absolute; top: 5px; left: 5px; height: 30px; padding-right: 10px; padding-left: 10px;"><i><a href="/publicaciones-de-{{ member.name_filter }}" style="color:white;">{{post.author}}</a> - {{ post.date | date: "%d/%b/%Y" }}</i></p>
+					<a href="/publicaciones-de-{{ member.name_filter }}">
 					<div style="background: url({{ site.baseurl }}{{ member.image }}); background-size: cover; background-position: center; border-radius: 50px; width: 50px; height: 50px; position: absolute; right: 30px; bottom: 15px;"></div>
 					<div style="background: url({{ site.baseurl }}/img/member_frame.svg); background-size: cover; background-position: center; width: 110px; height: 110px; position: absolute; right: 0px; bottom: -15px;"></div>
 					</a>

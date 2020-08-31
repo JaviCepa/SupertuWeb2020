@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: service
 title: Fotos y microvídeos
 name: Fotos y microvídeos
 order: 3

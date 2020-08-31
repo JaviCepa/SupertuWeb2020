@@ -36,7 +36,7 @@ collections:
   team:
     output: true
   services:
-    output: false
+    output: true
   clients:
     output: true
 

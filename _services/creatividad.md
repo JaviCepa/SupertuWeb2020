@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: service
 title: Creatividad
 name: Creatividad
 order: 9

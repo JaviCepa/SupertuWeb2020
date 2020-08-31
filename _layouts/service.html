@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="container service">
+</br>
+    <div style="background: url(/img/superpoder.svg); height: 100px; background-size: 180px; background-repeat: no-repeat; background-position: center;">
+    <div style="background: url(/img/icons/services/{{page.icon}}); width: 80px; height: 80px; background-size: 180px; background-repeat: no-repeat; background-position: center; margin: auto; border-radius: 50px; position: relative; top: 11px;background-size: contain;">
+    </div>
+    </div>
+    <h2 style="text-align: center; margin-bottom: 20px;">{{ page.title }}</h2>
+    <div class="content">
+        {{ page.content }}
+    </div>
+    <a href="#call-to-action-anchor" class="btn btn-default service-request-button">¡Me interesa!</a>
+</div>
+
+{% include calltoaction.html %}

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: service
 title: Reportes de resultados
 name: Reportes de resultados
 order: 6

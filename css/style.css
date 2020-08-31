@@ -746,22 +746,21 @@ ul.share-buttons .sr-only{
   }
 }
 
-.service li {
-  text-align: left;
-  margin-bottom: 20px;
+.service ul {
+  margin: 1rem 0;
+  margin-left: 2rem
+}
+
+.service ul li {
+  margin-bottom: 0.5rem;
   list-style-type: disc;
+  text-align: left;
+  line-height: 1.2;
+  color: #647778;
 }
 
 .service i {
   font-size: 60px;
-}
-
-.service p:first-of-type {
-  margin-top: 4rem;
-}
-
-.service p:last-of-type {
-  margin-bottom: 4rem;
 }
 
 #service .fa {
@@ -770,15 +769,16 @@ ul.share-buttons .sr-only{
 }
 .service-request-button
 {
-	position: absolute;
-	bottom: 20px;
+  width: 100%;
+  bottom: 20px;
 	left: 40px;
 	right: 40px;
 	background: #a38219 !important;
 	color: white !important;
 	height: 60px !important;
 	padding: 12px !important;
-	font-size: 20px !important;
+  font-size: 20px !important;
+  margin-bottom: 1rem;
 }
 
 .service-request-button:hover

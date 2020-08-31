@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: service
 title: Calendario editorial
 name: "Calendario editorial "
 order: 2

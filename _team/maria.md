@@ -1,7 +1,7 @@
 ---
 layout: teammember
 name: María Araujo
-name_filter: mariaaraujo
+name_filter: Maria-Araujo
 description: >-
   Fanática del Marketing Digital. Estoy especializada en Social Media
   Management, aunque siempre me gusta estar en <b>constante aprendizaje</b> y descubrir

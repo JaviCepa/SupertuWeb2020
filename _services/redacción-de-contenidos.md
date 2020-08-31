@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: service
 title: Redacción de contenidos
 name: Redacción de contenidos
 order: 7

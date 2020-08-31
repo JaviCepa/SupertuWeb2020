@@ -6,7 +6,7 @@
       {% assign services = site.services | sort: "order" %}
       {% for service in services %}
         <div class="col-sm-6 col-md-4" style="padding-bottom: 40px;">
-          <a id="anchor-{{ service.title }}" href="#{{ service.title }}" class="service-item">
+          <a id="anchor-{{ service.title }}" href="{{ service.permalink }}" class="service-item">
 			<div style="background: url(/img/superpoder.svg); height: 100px; background-size: 180px; background-repeat: no-repeat; background-position: center;">
 			<div style="background: url(/img/icons/services/{{service.icon}}); width: 80px; height: 80px; background-size: 180px; background-repeat: no-repeat; background-position: center; margin: auto; border-radius: 50px; position: relative; top: 11px;background-size: contain;"></div>
 			</div>

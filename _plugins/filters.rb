@@ -37,7 +37,8 @@ module Jekyll
             newTag = newTag.gsub("-", " ")
             
             self.data['tag'] = newTag
-            self.data['title'] = "Tag: #{newTag}"
+            self.data['title'] = "Publicaciones etiquetadas con #{newTag}"
+            self.data['description'] = "Descubre los mejores contenidos etiquetados con #{newTag}"
         end
     end
     
@@ -45,14 +46,15 @@ module Jekyll
         def initialize(site, base, name_filter, author)
             @site = site
             @base = base
-            @dir  = File.join('author', name_filter)
+            @dir  = 'publicaciones-de-' + name_filter
             @name = 'index.html'
 
             self.process(@name)
             self.read_yaml(File.join(base, '_layouts'), 'author.html')
             self.data['name_filter'] = name_filter
             self.data['author'] = author
-            self.data['title'] = "Author: #{author}"
+            self.data['title'] = "Publicaciones de #{author}"
+            self.data['description'] = "Descubre los mejores contenidos publicados por #{author}"
         end
     end
 end

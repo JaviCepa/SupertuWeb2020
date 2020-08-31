@@ -89,7 +89,7 @@ layout: default
 		  <div>
             <h2 style="text-align: center; width:200px; margin: auto auto 20px auto;">{{ author_data.name }}</h2>
           </div>
-          <div class="author-picture" onclick="window.location='/author/{{ author_data.name_filter }}/'";>
+          <div class="author-picture" onclick="window.location='/publicaciones-de-{{ author_data.name_filter }}/'";>
             <img src="{{ author_data.image }}" alt="{{ author_data.name }}" style="position: relative; height: 200px; right: {{ author_data.post_image_offset }}px;">
 			<div class="more-articles">
 				<div style="margin: auto; height: fit-content; display: block; position: relative; top: 35%; width:70%;">

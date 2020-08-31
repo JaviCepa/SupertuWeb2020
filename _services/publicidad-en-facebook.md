@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: service
 title: Publicidad en Facebook
 name: Publicidad en Facebook
 order: 4
