@@ -5,5 +5,3 @@ title: Posts por categoría
 
 permalink: /publicaciones-etiqueta-redes-sociales/
 ---
-
-{% include posts-tag-filtered.html %}
