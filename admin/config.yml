@@ -108,7 +108,7 @@ collections:
     create: true
     identifier_files: tag
     fields:
-      - {label: "Etiqueta", name: "tag", widget: "string"}
+      - {label: "Categorías", name: "tag", widget: "string"}
       - {label: "SEO Custom URL", name: "permalink", widget: "string", required: false}
       - {label: "SEO Title", name: "seotitle", widget: "string", required: false}
       - {label: "SEO Description", name: "description", widget: "string", required: false}
