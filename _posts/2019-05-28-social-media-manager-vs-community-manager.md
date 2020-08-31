@@ -2,6 +2,7 @@
 layout: post
 title: Social media manager VS community manager
 subtitle: La diferencia entre planificar y ejecutar
+date: 2019-05-28
 tags:
   - Redes sociales
 author: Espe Olea

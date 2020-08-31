@@ -2,6 +2,7 @@
 layout: post
 title: "Vender en redes sociales: Tienda en Facebook e Instagram"
 subtitle: Vende tus productos en Facebook e Instagram gracias a tu tienda online
+date: 2020-07-23
 tags:
   - Facebook
 author: Marina Aneas

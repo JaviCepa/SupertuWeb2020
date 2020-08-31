@@ -2,6 +2,7 @@
 layout: post
 title: Las redes sociales toman protagonismo en la crisis del COVID-19
 subtitle: Eleva tu negocio al mundo digital
+date: 2020-05-15
 tags:
   - Actualidad
 author: María Araujo

@@ -2,6 +2,7 @@
 layout: post
 title: Facebook rediseña su plataforma
 subtitle: Se avecinan cambios
+date: 2020-08-21
 tags:
   - Actualidad
   - Facebook

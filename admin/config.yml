@@ -37,7 +37,7 @@ collections:
         collection: "teammember"
         valueField: "name"
         searchFields: ["name"]
-      - {label: "Fecha", name: "date", widget: "datetime", required: false, default: ""}
+      - {label: "Fecha", name: "date", widget: "datetime", required: false}
       - {label: "Oculto", name: "hidden", widget: "boolean", required: false}
       - label: "Imagen"
         name: "image"

@@ -2,6 +2,7 @@
 layout: post
 title: Marketing en redes sociales VS coronavirus
 subtitle: Así vivimos la pandemia y esto es lo que hemos aprendido
+date: 2020-07-30
 tags:
   - Marketing
   - Redes sociales

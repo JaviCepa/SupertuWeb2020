@@ -2,6 +2,7 @@
 layout: post
 title: "Cómo fusionar dos páginas de Facebook - Paso a Paso "
 subtitle: Unir páginas es unir fuerzas
+date: 2019-05-14
 tags:
   - Facebook
 author: Marina Aneas
