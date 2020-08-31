@@ -25,6 +25,7 @@ collections:
         name: "tags"
         widget: "select"
         multiple: true
+        required: false
         options: ["Facebook", "Instagram", "Google My Business", "Twitter", "LinkedIn", "Publicidad", "Actualidad", "Marketing", "Redes sociales", "Marketing online", "Supertú"]
       - label: "Autor"
         name: "author"
@@ -32,24 +33,26 @@ collections:
         collection: "teammember"
         valueField: "name"
         searchFields: ["name"]
-      - {label: "Fecha", name: "date", widget: "datetime"}
-      - {label: "Oculto", name: "hidden", widget: "boolean"}
+      - {label: "Fecha", name: "date", widget: "datetime", required: false}
+      - {label: "Oculto", name: "hidden", widget: "boolean", required: false}
       - label: "Imagen"
         name: "image"
         widget: "image"
+        required: false
         media_library:
             config:
                 max_file_size: 512000
       - label: "Miniatura RRSS (opcional)"
         name: "social_media_image"
         widget: "image"
+        required: false
         media_library:
             config:
                 max_file_size: 512000
-      - {label: "Contenido", name: "body", widget: "markdown"}
-      - {label: "SEO Title", name: "seotitle", widget: "string"}
-      - {label: "SEO Description", name: "description", widget: "string"}
-      - {label: "SEO Custom URL", name: "permalink", widget: "string"}
+      - {label: "Contenido", name: "body", widget: "markdown", required: false}
+      - {label: "SEO Title", name: "seotitle", widget: "string", required: false}
+      - {label: "SEO Description", name: "description", widget: "string", required: false}
+      - {label: "SEO Custom URL", name: "permalink", widget: "string", required: false}
   - name: "teammember"
     label: "Equipo"
     folder: "_team"
@@ -57,15 +60,15 @@ collections:
     slug: "{{{year}}-{{month}}-{{day}}-{{slug}}"
     identifier_field: name
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post", required: false}
       - {label: "Nombre", name: "name", widget: "string"}
-      - {label: "Descripción", name: "description", widget: "string"}
-      - {label: "Teléfono", name: "telephone", widget: "string"}
-      - {label: "Cargo", name: "position", widget: "string"}
-      - {label: "Cita", name: "quote", widget: "string"}
-      - {label: "LinkedIn", name: "linkedin", widget: "string"}
-      - {label: "Orden", name: "order", widget: "hidden"}
-      - {label: "Imagen", name: "image", widget: "image"}
+      - {label: "Descripción", name: "description", widget: "string", required: false}
+      - {label: "Teléfono", name: "telephone", widget: "string", required: false}
+      - {label: "Cargo", name: "position", widget: "string", required: false}
+      - {label: "Cita", name: "quote", widget: "string", required: false}
+      - {label: "LinkedIn", name: "linkedin", widget: "string", required: false}
+      - {label: "Orden", name: "order", widget: "hidden", required: false}
+      - {label: "Imagen", name: "image", widget: "image", required: false}
   - name: "client"
     label: "Clientes"
     folder: "_clients"
