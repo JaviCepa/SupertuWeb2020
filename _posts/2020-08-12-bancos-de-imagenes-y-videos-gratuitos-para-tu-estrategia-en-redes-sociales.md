@@ -8,7 +8,7 @@ author: Marina Aneas
 date: 2020-08-12T11:33:11.497Z
 image: /img/upload/supertu-blog.png
 description: bancos de imagenes gratis
-permalink: bancos-imagenes-videos-gratis-redes-sociales
+permalink: blog/bancos-imagenes-videos-gratis-redes-sociales
 ---
 ## Las redes sociales son cada vez más visuales y ya sabes lo que dicen: “Una imagen vale más que diez mil palabras”. Hoy os vamos a enseñaros los bancos de imágenes con los que trabajamos en la agencia siempre que nos hace falta alguna imagen.
 
@@ -40,6 +40,6 @@ En Supertú utilizamos Freepik en su versión de pago, ya que nos permite editar
 
 Puedes usar esta plataforma en su versión gratuita, aunque tendrás de dar créditos a la plataforma si usas su contenido sin licencia premium.
 
-Esperamos que te haya servido de ayuda para empezar a crear tu estrategia para redes sociales con [contenido variado y original](https://supertu.es/como-crear-gifs-y-stickers-personalizados-para-instagram-paso-a-paso/).
+Esperamos que te haya servido de ayuda para empezar a crear tu estrategia para redes sociales con [contenido variado y original](https://supertu.es/blog/crear-gifs-stickers-instagram/).
 
 *¡Recuerda! No uses solo un banco de imágenes, apoya tu estrategia en varios para hacerla única.*

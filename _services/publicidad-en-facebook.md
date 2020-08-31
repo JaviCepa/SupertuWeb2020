@@ -7,7 +7,7 @@ icon: ads.svg
 description: Creamos campañas de publicidad que acompañen a tu marca en
   Facebook. Elige tu objetivo y nosotras trazamos la trayectoria. Además las
   monitorizaremos día a día y recibirás un resumen en tu reporte de resultados.
-permalink: /publicidad-en-facebook/
+permalink: /servicios/publicidad-en-facebook/
 image: /img/upload/service_5.png
 ---
 La publicidad en redes sociales es un imprescindible a la hora de conseguir clientes.

@@ -9,7 +9,7 @@ description: "En Supertú entendemos que externalizar es exactamente eso:
   dedicar tu tiempo a lo que más importa: tu negocio. ¿Necesitas más ayuda?
   Puedes  ampliar el servicio ¿Llegan unos meses difíciles? Puedes darlo de baja
   o dejarlo en standby."
-permalink: /social-media-as-a-service/
+permalink: /servicios/social-media-as-a-service/
 image: /img/upload/service_6.png
 ---
 Rentabilizar las redes sociales es fácil si sabes cómo.  La atención al cliente es uno de los caminos que consideramos fundamentales en este medio. Creemos en lo que hacemos y nos gustaría que tus clientes tuvieran una atención excepcional.

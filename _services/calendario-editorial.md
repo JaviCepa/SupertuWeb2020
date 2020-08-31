@@ -8,7 +8,7 @@ description: Uno de los documentos que más agradecen nuestros clientes. Podrás
   ver qué publicamos cada día de la semana en cada red social. Sin sorpresas.
   Podrás revisar toda la información que emitamos de tu negocio antes de que
   llegue a tu público.
-permalink: /calendario-editorial-redes-sociales/
+permalink: /servicios/calendario-editorial-redes-sociales/
 image: /img/upload/service_1.png
 ---
 Cuando le das tus redes sociales a una agencia como la nuestra, te puede generar mucha incertidumbre no saber qué se va a publicar, cómo serán las [fotos y los textos](https://supertu.es/fotos-y-microvideos-redes-sociales/).

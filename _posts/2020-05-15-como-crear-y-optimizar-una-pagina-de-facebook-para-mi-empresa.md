@@ -8,7 +8,7 @@ author: María Araujo
 date: 2020-05-15T11:36:45.659Z
 image: /img/upload/como-crear-y-optimizar-una-pagina-de-facebook-para-mi-empresa.png
 description: Cómo crear y optimizar una página de Facebook para tu empresa
-permalink: optimizar-pagina-facebook-empresa
+permalink: blog/optimizar-pagina-facebook-empresa
 ---
 En este artículo queremos enseñarte a **crear una página de Facebook para tu negocio** para que puedas comunicar todas tus novedades en ella. 
 
@@ -48,4 +48,4 @@ En este botón tenemos la oportunidad de poner varias opciones: un enlace a tu w
 
 A nivel inicial, con esto sería suficiente para poder empezar. ¡Pero no es todo lo que puedes hacer con tu página!
 
-Si quieres llevar tus [redes sociales a un nivel más profesional](https://supertu.es/servicios-social-media), puedes ponerte en contacto con nosotras a través del formulario de contacto que encontrarás al final de esta página.
+Si quieres llevar tus [redes sociales a un nivel más profesional](https://supertu.es/servicios/), puedes ponerte en contacto con nosotras a través del formulario de contacto que encontrarás al final de esta página.

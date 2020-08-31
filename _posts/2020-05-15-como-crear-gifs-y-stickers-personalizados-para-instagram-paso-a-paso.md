@@ -8,7 +8,7 @@ author: Marina Aneas
 date: 2020-05-15T11:35:52.885Z
 image: /img/upload/como-crear-stickers-personalizados-para-instagram.png
 description: crear sticker personalizados
-permalink: crear-gifs-stickers-instagram
+permalink: blog/crear-gifs-stickers-instagram
 ---
 Si has llegado hasta este blog es porque has visto todo el potencial que tienen los GIFS y stickers en la plataforma de **stories de Instagram** y quieres aprovechar. 
 
@@ -45,6 +45,6 @@ Una vez has hecho tu solicitud para el cambio del estado de tu cuenta, tendrás 
 
 Una vez hayan aceptado tu solicitud como brand o artist channel, en el plazo de 24 horas tus creaciones irán apareciendo en los motores de búsqueda de las diferentes integraciones de GIPHY.
 
-Si estás listo para hacer stickers, sube al siguiente nivel pinchando [aquí](https://supertu.es/vender-en-redes-sociales-tienda-en-facebook-e-instagram/).
+Si estás listo para hacer stickers, sube al siguiente nivel pinchando [aquí](https://supertu.es/blog/vender-en-redes-sociales-tienda-en-facebook-e-instagram/).
 
 *Supertú es una agencia de marketing enfocada en la comunicación a través de redes sociales, ¿quieres pedir tu presupuesto?[¡Hazlo aquí!](https://supertu.es/contact)*

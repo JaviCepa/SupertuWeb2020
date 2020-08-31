@@ -23,12 +23,12 @@ Una vez comenzada nuestra andadura en redes sociales, son muchas las plataformas
 
 En el caso de Facebook, desde el primer momento ha querido ayudar a estas empresas que han tenido grandes pérdidas monetarias ofreciendo una pequeña ayuda. Además de ofrecer contenido y creatividades de forma gratuita para que realices tus publicaciones en la plataforma, ponen a la disposición de todos sus usuarios pequeños cursos y guías de acción para que te familiarices con la plataforma.
 
-¡Pero eso no es todo! Además, está repartiendo 100 millones de dólares en efectivo y [créditos publicitarios](https://supertu.es/publicidad-en-facebook/) a aquellas empresas que hayan perdido gran parte de su facturación y puedan demostrarlo.
+¡Pero eso no es todo! Además, está repartiendo 100 millones de dólares en efectivo y [créditos publicitarios](https://supertu.es/servicios/publicidad-en-facebook/) a aquellas empresas que hayan perdido gran parte de su facturación y puedan demostrarlo.
 
 ![](https://lh6.googleusercontent.com/f95IKWLeIw5Z1XSUIGpfcsk15Oq1Fcp01c4KFWKV7WFcj8vKRNW-5RxIdeVzvn8PO_dGps7clYXVoqMRkgnuMt-xVmXDrnqpdWOUbpfkafx3HdPyX0bqa5wjJhmYd8PYepKiX0Lg)
 
 Si quieres solicitar la ayuda y enviar tu solicitud, puedes hacerlo a través de este [enlace](https://www.facebook.com/business/boost/grants#).
 
-Si por el contrario quieres tomar acción y comenzar tu nueva andadura en redes sociales de manera profesional, puedes ponerte en [contacto con nuestro equipo](https://supertu.es/contact). ¡Transformaremos tus seguidores en clientes reales!
+Si por el contrario quieres tomar acción y comenzar tu nueva andadura en redes sociales de manera profesional, puedes ponerte en [contacto con nuestro equipo](https://supertu.es/contacto). ¡Transformaremos tus seguidores en clientes reales!
 
 ¿Hablamos?
