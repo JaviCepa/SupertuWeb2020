@@ -26,7 +26,7 @@ collections:
         widget: "relation"
         collection: "tags"
         valueField: "tag"
-        searchFields: "tag"
+        searchFields: ["tag"]
         multiple: true
         required: false
         # widget: "select"
