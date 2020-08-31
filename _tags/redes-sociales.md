@@ -5,5 +5,3 @@ title: Posts por categoría
 
 permalink: /blog/categoria/redes-sociales/
 ---
-
-{% include posts-tag-filtered.html %}

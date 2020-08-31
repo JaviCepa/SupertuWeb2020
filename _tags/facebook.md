@@ -5,5 +5,3 @@ title: Vende gracias a las campañas de publicidad en Facebook
 
 permalink: /blog/categoria/facebook/
 ---
-
-{% include posts-tag-filtered.html %}
