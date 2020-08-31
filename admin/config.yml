@@ -32,6 +32,7 @@ collections:
         collection: "teammember"
         valueField: "name"
         searchFields: ["name"]
+      - {label: "Fecha", name: "date", widget: "datetime"}
       - {label: "Oculto", name: "hidden", widget: "boolean"}
       - label: "Imagen"
         name: "image"
@@ -46,7 +47,6 @@ collections:
             config:
                 max_file_size: 512000
       - {label: "Contenido", name: "body", widget: "markdown"}
-      - {label: "Fecha", name: "date", widget: "datetime"}
       - {label: "SEO Title", name: "seotitle", widget: "string"}
       - {label: "SEO Description", name: "description", widget: "string"}
       - {label: "SEO Custom URL", name: "permalink", widget: "string"}
