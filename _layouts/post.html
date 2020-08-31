@@ -21,8 +21,9 @@ layout: default
 					<ul>					
 					  {% assign post_have_tags = page.tags | size %}
 					  {% if post_have_tags > 0 %}
-						{% for tag in page.tags %}
-						  <li><a class="post" href="/tag/{{tag | replace: ' ', '-' }}">#{{tag}}</a></li>
+            {% for tag in page.tags %}
+              {% assign tagObject = site.tags | where:"tag", tag  | first %}
+						  <li><a class="post" href="{{tagObject.permalink}}">#{{tag}}</a></li>
 						{% endfor %}
 					  {% endif %}
 					</ul>

@@ -3,12 +3,12 @@ module Jekyll
         safe true
 
         def generate(site)
-            tags = site.posts.docs.flat_map { |post| post.data['tags'] || [] }.to_set
-            tags.each do |tag|
-                newTag = tag.dup
-                newTag = newTag.gsub(" ", "-")
-                site.pages << TagPage.new(site, site.source, newTag)
-            end
+            # tags = site.posts.docs.flat_map { |post| post.data['tags'] || [] }.to_set
+            # tags.each do |tag|
+            #     newTag = tag.dup
+            #     newTag = newTag.gsub(" ", "-")
+            #     site.pages << TagPage.new(site, site.source, newTag)
+            # end
             
             authors = []
             site.collections["team"].docs.flat_map.each do |team_member|
@@ -23,24 +23,24 @@ module Jekyll
         end
     end
 
-    class TagPage < Page
-        def initialize(site, base, tag)
-            @site = site
-            @base = base
-            @dir  = File.join('tag', tag)
-            @name = 'index.html'
+    # class TagPage < Page
+    #     def initialize(site, base, tag)
+    #         @site = site
+    #         @base = base
+    #         @dir  = File.join('tag', tag)
+    #         @name = 'index.html'
 
-            self.process(@name)
-            self.read_yaml(File.join(base, '_layouts'), 'tag.html')
+    #         self.process(@name)
+    #         self.read_yaml(File.join(base, '_layouts'), 'tag.html')
             
-            newTag = tag.dup
-            newTag = newTag.gsub("-", " ")
+    #         newTag = tag.dup
+    #         newTag = newTag.gsub("-", " ")
             
-            self.data['tag'] = newTag
-            self.data['title'] = "Publicaciones etiquetadas con #{newTag}"
-            self.data['description'] = "Descubre los mejores contenidos etiquetados con #{newTag}"
-        end
-    end
+    #         self.data['tag'] = newTag
+    #         self.data['title'] = "Publicaciones etiquetadas con #{newTag}"
+    #         self.data['description'] = "Descubre los mejores contenidos etiquetados con #{newTag}"
+    #     end
+    # end
     
     class AuthorPage < Page
         def initialize(site, base, name_filter, author)
@@ -53,7 +53,7 @@ module Jekyll
             self.read_yaml(File.join(base, '_layouts'), 'author.html')
             self.data['name_filter'] = name_filter
             self.data['author'] = author
-            self.data['title'] = "Publicaciones de #{author}"
+            self.data['title'] = "Descubre las publicaciones de #{author}"
             self.data['description'] = "Descubre los mejores contenidos publicados por #{author}"
         end
     end

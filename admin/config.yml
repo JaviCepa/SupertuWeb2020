@@ -23,17 +23,21 @@ collections:
       - {label: "Subtítulo (H2)", name: "subtitle", widget: "string"}
       - label: "Categorías"
         name: "tags"
-        widget: "select"
+        widget: "relation"
+        collection: "tags"
+        value_field: "tag"
+        search_fields: "tag"
         multiple: true
         required: false
-        options: ["Facebook", "Instagram", "Google My Business", "Twitter", "LinkedIn", "Publicidad", "Actualidad", "Marketing", "Redes sociales", "Marketing online", "Supertú"]
+        # widget: "select"
+        # options: ["Facebook", "Instagram", "Google My Business", "Twitter", "LinkedIn", "Publicidad", "Actualidad", "Marketing", "Redes sociales", "Marketing online", "Supertú"]
       - label: "Autor"
         name: "author"
         widget: "relation"
         collection: "teammember"
         valueField: "name"
         searchFields: ["name"]
-      - {label: "Fecha", name: "date", widget: "datetime", required: false, default: null}
+      - {label: "Fecha", name: "date", widget: "datetime", required: false, default: ""}
       - {label: "Oculto", name: "hidden", widget: "boolean", required: false}
       - label: "Imagen"
         name: "image"
@@ -98,3 +102,13 @@ collections:
       - {label: "Descripción", name: "description", widget: "string"}
       - {label: "URL", name: "permalink", widget: "string"}
       - {label: "Contenido", name: "body", widget: "markdown"}
+  - name: "tags"
+    label: "Etiquetas"
+    folder: "_tags"
+    create: true
+    identifier_files: tag
+    fields:
+      - {label: "Etiqueta", name: "tag", widget: "string"}
+      - {label: "SEO Custom URL", name: "permalink", widget: "string", required: false}
+      - {label: "SEO Title", name: "seotitle", widget: "string", required: false}
+      - {label: "SEO Description", name: "description", widget: "string", required: false}

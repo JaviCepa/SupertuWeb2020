@@ -17,7 +17,9 @@
 			  {% assign post_have_tags = post.tags | size %}
 			  {% if post_have_tags > 0 %}
 				{% for tag in post.tags %}
-				  <li class><a class="post" href="/tag/{{tag | replace: ' ', '-' }}" style="font-size: 10px; color: white; box-shadow: #a2a2a2 0px 0px 5px 0px; ">#{{tag}}</a></li>
+					{% assign tagObject = site.tags | where:"tag", tag  | first %}
+
+				  <li class><a class="post" href="{{tagObject.permalink}}" style="font-size: 10px; color: white; box-shadow: #a2a2a2 0px 0px 5px 0px; ">#{{tag}}</a></li>
 				{% endfor %}
 			  {% endif %}
 			</ul>

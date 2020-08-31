@@ -39,6 +39,8 @@ collections:
     output: true
   clients:
     output: true
+  tags:
+    output: true
 
 # Category descriptions (for archive pages)
 descriptions:
