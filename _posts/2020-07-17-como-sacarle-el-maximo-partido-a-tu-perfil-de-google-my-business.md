@@ -85,8 +85,4 @@ En la misma columna que mencionamos anteriormente, aparece un apartado de “Est
 * El número de veces que se han visto las fotos de tu empresa en comparación con las fotos de otras empresas similares.
 * Cantidad de fotos que aparecen en tu empresa en comparación con las fotos de otras empresas.
 
-
-
 ¿Has completado todos los pasos? Ya tienes una ficha de Google My Business optimizada al 100%. Ya solo te queda seguir alimentándola de publicaciones para mejorar su rendimiento día tras día.
-
-Si quieres gestionar tus redes sociales de forma profesional, contacta con nosotras por teléfono ([653 903 359](tel:+34653903359)) o mediante nuestro formulario de contacto.

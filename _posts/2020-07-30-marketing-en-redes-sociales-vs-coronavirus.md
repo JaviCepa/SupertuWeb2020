@@ -32,5 +32,3 @@ Después de perder los 7 clientes en la primera semana, 4 volvieron. Y 4 nuevos 
 Esto cobra un valor especial cuando vives en un país con una crisis económica inminente y un estado de alerta sanitaria. Cada granito cuenta, y nosotras hemos sentido que nuestro servicio ha cobrado valor gracias a esta situación tan desafortunada. 
 
 El coronavirus ha sido y está siendo un desastre mundial, pero como somos de buscarle el lado positivo a todo, os diré que nos ha ayudado a entender el teletrabajo más que nunca, la conciliación y el valor de las redes  sociales (aunque esto último ya lo sabíamos); entre otras muchas cosas.
-
-*Supertú es una agencia de marketing enfocada en la comunicación a través de redes sociales, ¿quieres pedir tu presupuesto?[¡Hazlo aquí!](https://supertu.es/contacto)*

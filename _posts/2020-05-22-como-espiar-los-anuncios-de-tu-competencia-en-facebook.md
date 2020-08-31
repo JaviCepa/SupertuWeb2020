@@ -33,5 +33,3 @@ A parte de los anuncios, podrás revisar la “Transparencia de la página”, c
 ![](https://lh5.googleusercontent.com/IhNWx9wwKRM8hixEVzeA0WJF-2PnyDHYEkfDuYlkhFUE7aDBSYm0X9YNnBnGtNCNP8uo1bySRtydC5QD9OsLuyPPQ2arZUASnEA_02mSDNfcb7p9YLIVjqJfCFJ514nJ_RBfG5iN)![](https://lh3.googleusercontent.com/q_bgvgiipoqM-DrLBznHYAprIHBtD230ksuw-6C1haUtjJsf7yl8xAtgh0s7NK16pt3O57V8td_HVpNq7Tda61rtybXkOmPI9tR1qhTTk-qyZTwTGtLG-hTstxfmAzlMXETUW0J6)
 
 Ya conoces un nuevo truco para fichar a tu competencia en redes sociales. Esperamos que este consejo os sea útil para sacarle el máximo partido a tus social ads.
-
-Si quieres llevar tus redes sociales a un nivel más profesional, puedes ponerte en contacto con nosotras a través del formulario de contacto que encontrarás al final de esta página.

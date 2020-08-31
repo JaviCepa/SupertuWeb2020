@@ -34,6 +34,21 @@ layout: default
             <div class="content">
               {{ content }}
             </div>
+            <hr/>
+            <p id="randomCTA"></p>
+            <script>
+              var ctaList = [
+                '<i>Supertú es una agencia de marketing enfocada en la comunicación a través de redes sociales ¿Quieres pedir tu presupuesto? <a href="#call-to-action">¡Pincha aquí!</a></i>',
+                '<i>Si quieres llevar tus redes sociales a un nivel más profesional, puedes ponerte en contacto con nosotras a través del <a href="#call-to-action">formulario de contacto</a> que encontrarás al final de esta página.</i>',
+                '<i>Si quieres gestionar tus redes sociales de forma profesional, contacta con nosotras por teléfono <a href="tel://+34653903359">653 903 359</a> o mediante nuestro <a href="#call-to-action">formulario de contacto</a>.</i>'
+              ]
+
+              window.onload = PickRandomCTA;
+              function PickRandomCTA() {
+                var q = ctaList[ Math.floor( Math.random() * ctaList.length ) ];
+                document.getElementById("randomCTA").innerHTML = q;
+              }
+            </script>
 			<hr />
 			<div class="post-info-wrapper">
               <p class="italic">Por <span class="bold">{{ page.author }}</span> - <span class="bold">{{ page.date | date: "%d/%b/%Y" }}</span></p>
