@@ -17,8 +17,8 @@ collections:
     preview_path: /{{slug}}
     create: true
     slug:
-      "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
-      clean_accents: true
+      - "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
+      - clean_accents: true
     fields:
       - {label: "Título (H1)", name: "title", widget: "string"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
