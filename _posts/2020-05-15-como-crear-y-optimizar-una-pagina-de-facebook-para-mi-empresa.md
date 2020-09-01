@@ -47,5 +47,3 @@ En este botón tenemos la oportunidad de poner varias opciones: un enlace a tu w
 ![cta-pagina-facebook](https://lh3.googleusercontent.com/XvcoIYsJmdHavqT0cDDE0RP02e-OklMX8bI_pFcsbnxmhUzL0DpBaOfhzRbxmLNf5hzhSuFikiNcrLpIzfqFgmBwm6l_uQgDlX_cqExvkxUuBm4-KgjU5Cjhzfa3HP5ddGBMAQb7)
 
 A nivel inicial, con esto sería suficiente para poder empezar. ¡Pero no es todo lo que puedes hacer con tu página!
-
-Si quieres llevar tus [redes sociales a un nivel más profesional](https://supertu.es/servicios/), puedes ponerte en contacto con nosotras a través del formulario de contacto que encontrarás al final de esta página.
