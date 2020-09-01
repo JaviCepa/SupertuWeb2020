@@ -16,8 +16,11 @@ collections:
     folder: "_posts"
     preview_path: /{{slug}}
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
+    slug:
+      "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
+      clean_accents: true
     fields:
+      - {label: "Título (H1)", name: "title", widget: "string"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Título (H1)", name: "title", widget: "slug", clean_accents: true}
       - {label: "Subtítulo (H2)", name: "subtitle", widget: "string"}
