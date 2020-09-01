@@ -21,9 +21,8 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
     fields:
-      - {label: "Título (H1)", name: "title", widget: "slug", clean_accents: true}
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Título (H1)", name: "title", widget: "slug", clean_accents: true}
+      - {label: "Título (H1)", name: "title", widget: "string"}
       - {label: "Subtítulo (H2)", name: "subtitle", widget: "string"}
       - label: "Categorías"
         name: "tags"
