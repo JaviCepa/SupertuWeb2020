@@ -10,17 +10,18 @@ site_url: https://supertu.es
 logo_url: https://supertu.es/img/logo_full.svg
 locale: 'es'
 
+slug:
+  clean_accents: true
+
 collections:
   - name: "blogpost"
     label: "Blogposts"
     folder: "_posts"
     preview_path: /{{slug}}
     create: true
-    slug:
-      - "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
-      - clean_accents: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
     fields:
-      - {label: "Título (H1)", name: "title", widget: "string"}
+      - {label: "Título (H1)", name: "title", widget: "slug", clean_accents: true}
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Título (H1)", name: "title", widget: "slug", clean_accents: true}
       - {label: "Subtítulo (H2)", name: "subtitle", widget: "string"}
