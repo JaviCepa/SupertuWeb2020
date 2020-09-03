@@ -9,7 +9,7 @@ tags:
   - Marketing
 author: Espe Olea
 date: 2020-09-03T09:05:44.148Z
-hidden: true
+hidden: false
 ---
 La publicidad en redes sociales es la madre del cordero de las venta online, pero, ¿por qué? Te damos 3 argumentos de peso que te harán rendirte a esta buena práctica:
 
