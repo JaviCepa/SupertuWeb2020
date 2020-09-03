@@ -3,6 +3,7 @@ layout: post
 title: ¿Por qué anunciarte en Facebook?
 subtitle: La publicidad en redes sociales como MUST en cualquier estrategia de
   marketing online
+permalink: blog/por-que-anunciarte-en-facebook
 tags:
   - Facebook
   - Publicidad
@@ -13,7 +14,6 @@ hidden: false
 image: /img/upload/vender-en-facebook.png
 seotitle: Razones para anunciarte en Facebook
 description: vender por Facebook
-permalink: blog/anunciosenFacebook
 ---
 La publicidad en redes sociales es la madre del cordero de las venta online pero ¿por qué? Te damos 3 argumentos de peso que te harán rendirte a esta buena práctica:
 
