@@ -12,18 +12,22 @@ date: 2020-09-03T09:05:44.148Z
 hidden: false
 image: /img/upload/vender-en-facebook.png
 seotitle: Razones para anunciarte en Facebook
+description: vender por Facebook
+permalink: blog/anunciosenFacebook
 ---
-La publicidad en redes sociales es la madre del cordero de las venta online, pero, ¿por qué? Te damos 3 argumentos de peso que te harán rendirte a esta buena práctica:
+La publicidad en redes sociales es la madre del cordero de las venta online pero ¿por qué? Te damos 3 argumentos de peso que te harán rendirte a esta buena práctica:
 
 1_ Rentabilidad: 
 
-Las campañas en redes sociales son SÚPER RENTABLES. Y cuando digo súper, creéme, son realmente súper. Nosotras realizamos como mínimo, campañas de 30€ al mes para cada cliente. Esta parte del fee mensual, es obligatorio, ya que las redes sociales sin publicidad sencillamente no funcionan.
+Las campañas en redes sociales son SÚPER RENTABLES. Y cuando digo súper, creéme, realmente son súper. En Supertú realizamos como mínimo, campañas de 30€ al mes para cada cliente. Este importe forma parte del fee mensual de manera obligatoria, ya que las redes sociales sin publicidad sencillamente no funcionan.
 
-Estos 30€ mensuales (que si haces el cálculo anual te subiría tu presupuesto de publicidad en medios digitales al año en el módico precio de 360€) han servido como cohete propulsor de muchos negocios, sobretodo locales. 
+Estos 30€ mensuales (que si haces el cálculo anual te saldría tu presupuesto de publicidad en medios digitales al año al módico precio de 360€) han servido como cohete propulsor de muchos negocios, sobretodo a nivel local. 
 
 Te pongo un ejemplo:
 
-Realizamos campañas de publicidad en Facebook para un cliente que vende artículos de jardinería. Una de las campañas que hemos hecho estaba orientada a hacer crecer su masa de seguidores, es decir: aumentar los "me gusta" (opción que está habilitada en Facebook pero no en Instagram). Con un presupuesto de 30€ y orientando bien la campaña, llegamos a conseguir los "me gusta" a 1 céntimo(lo mínimo posible) en 2 días. Esto quiere decir que consiguió 3.000 seguidores nuevos con 30€. Le calculamos la tasa de conversión que tenía su tienda online con las redes sociales y era de aproximadamente un 15%. Esto significa que de cada 100 personas que consigue por medio de redes sociales, 15 entran a la web. Con que de esas 15, 1 compre, contando con que el ticket de venta medio es de 100€, ¡ya hemos amortizado la inversión y conseguido rendimiento de ella!
+Realizamos campañas de publicidad en Facebook para un cliente que vende artículos de jardinería. Una de las campañas que hemos hecho estaba orientada a hacer crecer su masa de seguidores, es decir: aumentar los "me gusta" (opción que está habilitada en Facebook pero no en Instagram). Con un presupuesto de 30€ y orientando bien la campaña, llegamos a conseguir los "me gusta" a 1 céntimo(lo mínimo posible) en 2 días. Esto quiere decir que consiguió 3.000 seguidores nuevos con 30€ de inversión. 
+
+Le calculamos la tasa de conversión que tenía su tienda online con las redes sociales y era de aproximadamente un 15%. Esto significa que de cada 100 personas que consigue por medio de redes sociales, 15 entran a la web. Con que de esas 15, 1 compre, contando con que el ticket de venta medio es de 200€, ¡ya hemos amortizado la inversión y conseguido rendimiento de ella!
 
 Multiplica el presupuesto por los ingresos que quieras conseguir y ¡ahí lo tienes! De Supertú al cielo.
 
@@ -55,13 +59,15 @@ Pues bien, si haces esta misa inversión en publicidad en redes sociales podrás
 
 \- Si a priori están interesados en tu tipo de producto/servicio
 
-\- Si clican encima de tu anuncio
+\- Si clickan encima de tu anuncio
 
-\- Si una vez clicado tu anuncio, acaban comprando o no
+\- Si una vez clickado tu anuncio, acaban comprando o no
 
 \- Cuánto te cuesta cada click
 
-Y así, un largo etcétera de datos que mide dónde va y por qué, cada céntimo de tu inversión lo cual te ayudará a definir la siguiente campaña para dar directo en el clavo, y así, sucesivamente.
+\- Si vuelven a no a tu anuncio
+
+Y así, un largo etcétera de datos que mide dónde va y por qué, cada céntimo de tu inversión, lo cual te ayudará a definir la siguiente campaña para dar directo en el clavo, y así, sucesivamente.
 
 ![facebook marketing anuncios publicidad](/img/upload/anuncioenfacebook.gif "Consigue notoriedad en Facebook ")
 
