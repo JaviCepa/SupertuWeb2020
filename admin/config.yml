@@ -24,6 +24,7 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Título (H1)", name: "title", widget: "string"}
       - {label: "Subtítulo (H2)", name: "subtitle", widget: "string"}
+      - {label: "URL", name: "permalink", widget: "string", required: true, default: "blog/", hint: "Debe empezar por 'blog/' (sin comillas) y tener este formato 'blog/como-pasar-accion-redes-sociales' (sin acentos y omitiendo preposiciones)", pattern: ['.{12,}', "Tiene que tener por lo menos 12 caracteres."]}
       - label: "Categorías"
         name: "tags"
         widget: "relation"
@@ -59,7 +60,6 @@ collections:
       - {label: "Contenido", name: "body", widget: "markdown", required: false}
       - {label: "SEO Title", name: "seotitle", widget: "string", required: false, hint: "Irá dentro del head y será el título mostrado en la barra del navegador."}
       - {label: "SEO Description", name: "description", widget: "string", required: false, hint: "Irá dentro de la etiqueta de meta-descripción del head."}
-      - {label: "SEO Custom URL", name: "permalink", widget: "string", required: false, hint: "Debe empezar por 'blog/' (sin comillas)"}
   - name: "teammember"
     label: "Equipo"
     folder: "_team"
