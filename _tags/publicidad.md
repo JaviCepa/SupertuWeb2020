@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag: Publicidad
-title: Posts por categoría
+title: Descubre la publicidad para vender en redes sociales
 
 permalink: /blog/categoria/publicidad/
 ---
