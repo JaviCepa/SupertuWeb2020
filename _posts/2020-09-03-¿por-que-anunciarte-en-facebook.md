@@ -39,8 +39,6 @@ La notoriedad de los anuncios en Facebook es notable. Esto no quiere decir que d
 
 Si alquilas una valla publicitaria en una autovía, puedes estar pagando por ella(siendo muy conservadores) pongamos que 500€ al mes. Si queremos saber el rendimiento de esa inversión, tendríamos que saber exactamente cuanta gente pasa diariamente por ese punto y en cualquier caso, será siempre un cálculo aproximado. 
 
-{% include contactform.html %}
-
 Pues bien, si haces esta misa inversión en publicidad en redes sociales podrás saber:
 
 \- Cuánta gente ve el anuncio
