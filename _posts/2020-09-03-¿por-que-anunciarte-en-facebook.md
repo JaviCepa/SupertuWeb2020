@@ -12,7 +12,6 @@ date: 2020-09-03T09:05:44.148Z
 hidden: false
 image: /img/upload/vender-en-facebook.png
 seotitle: Razones para anunciarte en Facebook
-permalink: ""
 ---
 La publicidad en redes sociales es la madre del cordero de las venta online, pero, ¿por qué? Te damos 3 argumentos de peso que te harán rendirte a esta buena práctica:
 
