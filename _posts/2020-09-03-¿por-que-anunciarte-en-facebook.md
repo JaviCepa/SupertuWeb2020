@@ -10,6 +10,9 @@ tags:
 author: Espe Olea
 date: 2020-09-03T09:05:44.148Z
 hidden: false
+image: /img/upload/vender-en-facebook.png
+seotitle: Razones para anunciarte en Facebook
+permalink: ""
 ---
 La publicidad en redes sociales es la madre del cordero de las venta online, pero, ¿por qué? Te damos 3 argumentos de peso que te harán rendirte a esta buena práctica:
 
@@ -37,7 +40,7 @@ La notoriedad de los anuncios en Facebook es notable. Esto no quiere decir que d
 
 3_ Métricas:
 
-Si alquilas una valla publicitaria en una autovía, puedes estar pagando por ella(siendo muy conservadores) pongamos que 500€ al mes. Si queremos saber el rendimiento de esa inversión, tendríamos que saber exactamente cuanta gente pasa diariamente por ese punto y en cualquier caso, será siempre un cálculo aproximado. 
+Si alquilas una valla publicitaria en una autovía, puedes estar pagando por ella(siendo muy conservadores) pongamos que 500€ al mes. Si queremos saber el rendimiento de esa inversión, tendríamos que saber exactamente cuánta gente pasa diariamente por ese punto y en cualquier caso, será siempre un cálculo aproximado. 
 
 Pues bien, si haces esta misa inversión en publicidad en redes sociales podrás saber:
 
@@ -53,9 +56,9 @@ Pues bien, si haces esta misa inversión en publicidad en redes sociales podrás
 
 \- Si a priori están interesados en tu tipo de producto/servicio
 
-\- Si clickan encima de tu anuncio
+\- Si clican encima de tu anuncio
 
-\- Si una vez clickado tu anuncio, acaban comprando o no
+\- Si una vez clicado tu anuncio, acaban comprando o no
 
 \- Cuánto te cuesta cada click
 
