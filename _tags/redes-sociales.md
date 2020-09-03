@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag: Redes sociales
-title: Posts por categoría
+title: Explota tus redes sociales como canal de venta
 
 permalink: /blog/categoria/redes-sociales/
 ---

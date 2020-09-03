@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag: Marketing
-title: Posts por categoría
+title: Diseña una estrategia de marketing en redes sociales
 
 permalink: /blog/categoria/marketing/
 ---
