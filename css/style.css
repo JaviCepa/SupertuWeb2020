@@ -870,3 +870,12 @@ ul.share-buttons .sr-only{
 	width: 60px;
 	display: inline-block;
 }
+
+.post-info-wrapper .client-social-icons {
+  height: 40px;
+	width: 40px;
+}
+
+.post-info-wrapper p {
+  margin-bottom: 8px;
+}

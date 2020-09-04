@@ -52,8 +52,24 @@ layout: default
             </script>
 			<hr />
 			<div class="post-info-wrapper">
-              <p class="italic">Por <span class="bold">{{ page.author }}</span> - <span class="bold">{{ page.date | date: "%d/%b/%Y" }}</span></p>
-            </div>
+        <p class="italic">Por <span class="bold">{{ page.author }}</span> - <span class="bold">{{ page.date | date: "%d/%b/%Y" }}</span></p>
+        
+        <a target="_blank" href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="client-social-icons">
+          <img src="/img/icons/twitter.svg">
+          </a>
+
+          <!-- <a href="{{client.instagram}}" class="client-social-icons">
+            <img src="/img/icons/instagram.svg">
+          </a> -->
+                  
+          <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url }}" class="client-social-icons">
+            <img src="/img/icons/facebook.svg">
+          </a>
+    
+          <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url }}" class="client-social-icons">
+            <img src="/img/icons/linkedin.svg">
+          </a>
+      </div>
 			
 			<hr />
           
