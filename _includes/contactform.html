@@ -1,21 +1,32 @@
 <form name="contact" method="POST" data-netlify="true">
   <div class="form-group">
-	<input name="nombre" type="text" class="form-control" placeholder="Tu nombre" aria-required="true" aria-label="Nombre" required>
+    <input name="nombre" type="text" class="form-control" placeholder="Tu nombre" aria-required="true"
+      aria-label="Nombre" required>
   </div>
   <div class="form-group">
-	<input name="email" type="text" class="form-control" placeholder="Tu email" aria-required="true" aria-label="Email" required>
+    <input name="email" type="text" class="form-control" placeholder="Tu email" aria-required="true" aria-label="Email"
+      required>
   </div>
   <div class="form-group">
-	<input name="asunto" type="text" class="form-control" placeholder="Asunto" aria-required="true" aria-label="Asunto" required>
+    <input name="asunto" type="text" class="form-control" placeholder="Asunto" aria-required="true" aria-label="Asunto"
+      required>
   </div>
   <div class="form-group">
-	<textarea name="mensaje" class="form-control" rows="3" placeholder="Mensaje" aria-required="true" aria-label="Mensaje" required></textarea>
+    <textarea name="mensaje" class="form-control" rows="3" placeholder="Mensaje" aria-required="true"
+      aria-label="Mensaje" required></textarea>
   </div>
   <div class="privacy-input">
-	<input style="width: 64px;"; name="privacy" type="checkbox" class="form-control" aria-required="true" aria-label="Política de privacidad" required>
-	<p style="display: inline-block;">He leído y acepto la <a target="_blank" style="color: #d4b055;" href="{{ site.baseurl }}/privacy">política de privacidad</a></p>
+    <input style="width: 64px;" name="privacy" type="checkbox" class="form-control" aria-required="true"
+      aria-label="Política de privacidad" required>
+    <p style="display: inline-block;">He leído y acepto la <a target="_blank" style="color: #d4b055;" href="{{ site.baseurl }}/privacy">política de privacidad</a></p>
   </div>
   <div class="form-group"></div>
-  
-  <button class="btn btn-default btn-call-to-action" type="submit">Quiero ser una supermarca</button>
+
+  <button class="btn btn-default btn-call-to-action" type="submit">
+    {% if include.button %}
+      {{ include.button }}
+    {% else %}
+      Quiero ser una supermarca
+    {% endif %}
+  </button>
 </form>
