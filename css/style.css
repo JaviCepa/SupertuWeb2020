@@ -82,6 +82,25 @@ img {
     box-shadow: black 0px 0px 5px 0px;
 }
 
+.other-tags {
+  position: initial;
+  width: 100%;
+}
+
+.other-tags ul {
+  position: initial;
+}
+
+.other-tags li {
+  margin: 0;
+  margin-right: 10px;
+  display: inline-block;
+}
+
+.other-tags li a {
+  border-radius: 20px;
+}
+
 .author-picture {
 	position: relative;
 	border-radius: 100%;

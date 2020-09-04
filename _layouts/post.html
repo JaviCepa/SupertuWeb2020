@@ -57,10 +57,6 @@ layout: default
         <a target="_blank" href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="client-social-icons">
           <img src="/img/icons/twitter.svg">
           </a>
-
-          <!-- <a href="{{client.instagram}}" class="client-social-icons">
-            <img src="/img/icons/instagram.svg">
-          </a> -->
                   
           <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" class="client-social-icons">
             <img src="/img/icons/facebook.svg">
@@ -69,8 +65,22 @@ layout: default
           <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}" class="client-social-icons">
             <img src="/img/icons/linkedin.svg">
           </a>
+          
+          <hr />
+
+          <p class="italic"><span class="bold">Otras categorías</span></p>
+          <div class="post-tags other-tags">
+            <ul>
+              {% for tag in site.tags%}
+                {% unless page.tags contains tag.tag %}
+                  <li><a href="{{ tag.url }}">#{{ tag.tag }}</a></li>
+                {% endunless %}
+              {% endfor %}
+            </ul>
+          </div>
+
       </div>
-			
+      
 			<hr />
           
           <!-- Construímos la lista con los demás tags que están en otros posts pero no en este -->
