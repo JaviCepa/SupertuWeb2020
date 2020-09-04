@@ -1,0 +1,14 @@
+<section style="padding: 50px; margin-top: 30px; margin-bottom: 30px; background-color: #d6dfe0; border-radius: 20px;">
+  <p style="font-size: 30px !important; text-align: center; margin-bottom: 20px;">
+    {% if include.message %}
+      {{ include.message }}
+    {% else %}
+      ¿Necesitas ayuda con tus redes sociales? ¡Contáctanos!
+    {% endif %}
+  </p>
+  <div class="row justify-content-md-center">
+    <div class="col-sm-12 col-lg-6">
+      {% include contactform.html button = include.button %}
+    </div>
+  </div>
+</section>

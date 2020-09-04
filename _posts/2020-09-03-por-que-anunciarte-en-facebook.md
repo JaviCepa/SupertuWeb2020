@@ -13,7 +13,7 @@ hidden: false
 image: /img/upload/vender-en-facebook.png
 seotitle: Razones para anunciarte en Facebook
 description: vender por Facebook
-permalink: blog/anunciosenFacebook
+permalink: blog/por-que-anunciarte-en-facebook
 ---
 La publicidad en redes sociales es la madre del cordero de las venta online pero ¿por qué? Te damos 3 argumentos de peso que te harán rendirte a esta buena práctica:
 
@@ -21,7 +21,7 @@ La publicidad en redes sociales es la madre del cordero de las venta online pero
 
 Las campañas en redes sociales son SÚPER RENTABLES. Y cuando digo súper, creéme, realmente son súper. En Supertú realizamos como mínimo, campañas de 30€ al mes para cada cliente. Este importe forma parte del fee mensual de manera obligatoria, ya que las redes sociales sin publicidad sencillamente no funcionan.
 
-Estos 30€ mensuales (que si haces el cálculo anual te saldría tu presupuesto de publicidad en medios digitales al año al módico precio de 360€) han servido como cohete propulsor de muchos negocios, sobretodo a nivel local. 
+Estos 30€ mensuales (que si haces el cálculo anual te saldría tu presupuesto de publicidad en medios digitales al año al módico precio de 360€) han servido como cohete propulsor de muchos negocios, sobretodo a nivel local.
 
 Te pongo un ejemplo:
 
