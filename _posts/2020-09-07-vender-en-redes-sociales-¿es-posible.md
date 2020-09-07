@@ -9,6 +9,8 @@ tags:
   - Redes sociales
 author: Espe Olea
 date: 2020-09-07T08:06:17.414Z
+image: /img/upload/gg.jpeg
+social_media_image: /img/upload/whatsapp-image-2020-09-07-at-11.42.51.jpeg
 seotitle: Vender por redes sociales
 description: Vende a través de las redes sociales gracias a las campañas de
   publicidad en redes sociales
