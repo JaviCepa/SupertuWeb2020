@@ -35,10 +35,7 @@ Ahora bien, una vez que tu tienda online funciona tanto en móvil como en pc, qu
 
 Los resultados de tu estrategia en redes sociales serán ...
 
-**{% include embed-contact.html\
-message="¡Quiero vender en redes sociales!"\
-button="AHORA"\
-%}**
+{% include embed-contact.html message="¡Quiero vender en redes  sociales!" button="AHORA" %}
 
 ... espectaculares en la medida en la que seas capaz de enlazarlos con una estrategia de social ads en condiciones. Este tipo de publicidad en redes sociales tiene opciones ilimitadas, puedes hacer: campañas para obtener me gusta, campañas que busquen leads de venta, campañas para promocionar productos concretos, campañas para publicitar enlaces de cualquier tipo, campañas que impulsen una oferta... Y puedes realizarlas tanto en Facebook como en Instagram. 
 
