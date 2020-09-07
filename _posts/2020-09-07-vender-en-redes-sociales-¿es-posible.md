@@ -2,7 +2,7 @@
 layout: post
 title: Vender en redes sociales... ¿Es posible?
 subtitle: 3 claves para entender el social selling
-permalink: blog/vender-en-redes-sociales
+permalink: vender-en-redes-sociales
 tags:
   - Marketing
   - Publicidad
