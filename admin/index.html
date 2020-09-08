@@ -14,16 +14,8 @@
 
     CMS.registerLocale('es', es);
     CMS.registerEditorComponent({
-      label: 'Image2',
       id: 'image2',
-      fromBlock: match => match && {
-        image: match[2],
-        alt: match[1],
-        title: match[3]
-      },
-      toBlock: ({ alt, image, title, attr }) =>
-        `![[${alt || ''}](${image || ''}${title ? ` "${title.replace(/"/g, '\\"')}"` : ''})](${image || ''}${title ? ` "${title.replace(/"/g, '\\"')}"` : ''})`,
-      pattern: /^!\[(.*)\]\((.*?)(?:\s"(.*)")?\)(?:\{\s(.*)\s\})?$/,
+      label: 'Image2',
       fields: [
         {
           label: 'Image',
@@ -42,6 +34,19 @@
           name: 'title',
         },
       ],
+      pattern: /^!\[(.*)\]\((.*?)(?:\s"(.*)")?\)(?:\{\s(.*)\s\})?$/,
+      fromBlock: match => match && {
+        image: match[2],
+        alt: match[1],
+        title: match[3]
+      },
+      toBlock: ({ alt, image, title, attr }) =>
+        `![[${alt || ''}](${image || ''}${title ? ` "${title.replace(/"/g, '\\"')}"` : ''})](${image || ''}${title ? ` "${title.replace(/"/g, '\\"')}"` : ''})`,
+      toPreview: function(obj) {
+        return (
+          '<p>hola :D</p>'
+        );
+      }  
     });
   </script>
   
