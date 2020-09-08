@@ -9,32 +9,23 @@
   <!-- Include the script that builds the page and powers Netlify CMS -->
   <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
   <script>
-    import CMS from 'netlify-cms-app';
-    import { de } from 'netlify-cms-locales';
+    // import CMS from 'netlify-cms-app';
+    // import { de } from 'netlify-cms-locales';
 
     CMS.registerLocale('es', es);
     CMS.registerEditorComponent({
       id: 'image2',
       label: 'Image2',
       fields: [
-        {
-          label: 'Image',
-          name: 'image',
-          widget: 'image',
+        { label: 'Image', name: 'image', widget: 'image',
           media_library: {
             allow_multiple: false,
           },
         },
-        {
-          label: 'Alt Text',
-          name: 'alt',
-        },
-        {
-          label: 'Title',
-          name: 'title',
-        },
+        { label: 'Alt Text', name: 'alt', widget: 'string' },
+        { label: 'Title', name: 'title', widget: 'string' },
       ],
-      pattern: /^!\[(.*)\]\((.*?)(?:\s"(.*)")?\)(?:\{\s(.*)\s\})?$/,
+      pattern: /^!\[(.*)\]\((.*?)(?:\s"(.*)")?\)(?:\{\s(.*)\s\})\]\((.*?)(?:\s"(.*)")?\)(?:\{\s(.*)\s\})?$/,
       fromBlock: match => match && {
         image: match[2],
         alt: match[1],
