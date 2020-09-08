@@ -31,7 +31,7 @@ Le calculamos la tasa de conversión que tenía su tienda online con las redes s
 
 Multiplica el presupuesto por los ingresos que quieras conseguir y ¡ahí lo tienes! De Supertú al cielo.
 
-![Facebook publicidad marketing redes sociales anuncios](/img/upload/rentabilidadfacebook.gif "Campañas de publicidad en Facebook")
+[![Facebook publicidad marketing redes sociales anuncios](/img/upload/rentabilidadfacebook.gif "Campañas de publicidad en Facebook")](/img/upload/rentabilidadfacebook.gif "Campañas de publicidad en Facebook")
 
 2_ Notoriedad:
 
