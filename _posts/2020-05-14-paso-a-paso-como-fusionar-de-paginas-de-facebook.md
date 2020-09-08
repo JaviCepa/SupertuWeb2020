@@ -32,7 +32,7 @@ EMPEZAMOS
 
 * **Paso 1:** al abrir el enlace te pedirá que confirmes la contraseña de tu perfil en Facebook
 
-[![](/img/upload/fusionar-facebook-step-1.png "")](/img/upload/fusionar-facebook-step-1.png "")
+[![](/img/upload/fusionar-facebook-step-1.png)](/img/upload/fusionar-facebook-step-1.png)
 
 * **Paso 2:** una vez introduzcas la contraseña, se te abrirá esta ventana. Debes introducir las dos páginas de Facebook que quieres fusionar.
 
