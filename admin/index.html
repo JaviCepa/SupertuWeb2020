@@ -25,13 +25,13 @@
         { label: 'Alt Text', name: 'alt', widget: 'string' },
         { label: 'Title', name: 'title', widget: 'string' },
       ],
-      pattern: /^\[!\[(.*)\]\((.*?)(?:\s"(.*)")?\)\]\((.*?)(?:\s"(.*)")?\)$/,
+      pattern: /^\[!\[(.*?)\]\((.*)(\s"(.*?)")?\)\]\((.*)(\s"(.*?)")?\)$/,
       fromBlock: match => match && {
         image: match[2],
         alt: match[1],
         title: match[3]
       },
-      toBlock: ({ alt, image, title, attr }) =>
+      toBlock: ({ alt, image, title }) =>
         `[![${alt || ''}](${image || ''}${title ? ` "${title.replace(/"/g, '\\"')}"` : ''})](${image || ''}${title ? ` "${title.replace(/"/g, '\\"')}"` : ''})`,
       toPreview: function(obj) {
         return (

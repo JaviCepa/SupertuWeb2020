@@ -18,7 +18,7 @@ Nosotros nos apoyamos en los bancos de imágenes para hacer creatividades o usar
 
 ¿Cuántas veces te has encontrado la misma foto de una playa o un dentista en diferentes perfiles en las redes? Nuestro consejo es que le des un toque único. Te ponemos como ejemplo algunas creatividades que hemos hecho para nuestros perfiles:
 
-![](https://lh5.googleusercontent.com/d3Qge3cUdJRJE5MXRdCAb8y2XKs0gZJ2kLmmapPVXLEB4GhlIKz3K97lQqhvNuO2iA2xkEFb2JPgDpCryGr2b7AB7bhM7iMMfek3zSOPsekC2clsg6VcZpLs4bwTv69IrIE245b7)![](https://lh5.googleusercontent.com/2BSibjcA_neopsCn1EPjeDuzRMrJ70UPOmbBPh9a90qqROi6zbip9uk7kZd3wD2czEvfM7GdxCQDL7G9aOeXjZhqA5lSPbLMZfEKQSHRN0Ly-EcbDLNMr07iLHo11cZUy__DJM85)
+[![](/img/upload/bancos-imagenes-1.png)](/img/upload/bancos-imagenes-1.png)[![](/img/upload/bancos-imagenes-2.png)](/img/upload/bancos-imagenes-2.png)
 
 Una vez tienes claro esto, es hora de empezar tu búsqueda de imágenes para completar tu estrategia. ¿Cuáles son los mejores bancos de imágenes y vídeos gratuitos?
 

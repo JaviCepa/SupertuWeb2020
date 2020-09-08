@@ -30,8 +30,14 @@ Si no cumples con estos requisitos, siempre puedes hacer estos cambios y luego f
 
 EMPEZAMOS
 
-* **Paso 1:** al abrir el enlace te pedirá que confirmes la contraseña de tu perfil en Facebook[![](/img/upload/fusionar-facebook-step-1.png "")](/img/upload/fusionar-facebook-step-1.png "")
-* **Paso 2:** una vez introduzcas la contraseña, se te abrirá esta ventana. Debes introducir las dos páginas de Facebook que quieres fusionar.[![](/img/upload/fusionar-facebook-step-2.png)](/img/upload/fusionar-facebook-step-2.png)
+* **Paso 1:** al abrir el enlace te pedirá que confirmes la contraseña de tu perfil en Facebook
+
+[![](/img/upload/fusionar-facebook-step-1.png "")](/img/upload/fusionar-facebook-step-1.png "")
+
+* **Paso 2:** una vez introduzcas la contraseña, se te abrirá esta ventana. Debes introducir las dos páginas de Facebook que quieres fusionar.
+
+[![](/img/upload/fusionar-facebook-step-2.png)](/img/upload/fusionar-facebook-step-2.png)
+
 * **Paso 3:** Elegir la página con la que te quedas y qué contenido de quieres eliminar y cuál dejar. (Lo más normal es fusionar los seguidores/me gusta y, si quieres, las publicaciones en el perfil)
 * **Paso 4:** cuando ya lo tienes todo listo, fusiona las páginas.
 

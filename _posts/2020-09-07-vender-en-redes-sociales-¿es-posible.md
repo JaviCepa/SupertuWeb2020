@@ -29,7 +29,7 @@ Una tienda online no vende por el simple hecho de existir. Necesita una inversi�
 
 Ahora bien, una vez que tu tienda online funciona tanto en móvil como en pc, que tiene pasos de compra intuitivos y una política de devoluciones potente, lo demás viene solo. Desde el primer mes de trabajo en redes sociales podrás notar las ventas e incrementar la inversión en social ads paulatinamente para definir tú el flujo de venta. Además, una de las muchas cosas que tienen las redes sociales es el feedback. Los usuarios son una herramienta útil a la hora de detectar errores tanto en la web, como en los productos, ofertas, etc. ¡Utilízala a tu favor!
 
-![ventas marketing redes sociales social selling](/img/upload/sell.gif "Optimiza tu tienda online")
+[![ventas marketing redes sociales social selling](/img/upload/sell.gif "Optimiza tu tienda online")](/img/upload/sell.gif "Optimiza tu tienda online")
 
 2_ PU-BLI-CI-DAD:
 
@@ -45,4 +45,4 @@ Para vender en redes sociales necesitas que tu imagen offline y la online concue
 
 Cuando esto lo tienes dominado, será mucho más fácil hacer una estrategia de redes sociales que junte lo mejor de ambos mundos y lance tu marca. Puedes hacer una combinación de ofertas exclusivas para tus redes sociales, puedes hacer campañas de publicidad que lancen un artículo en concreto al que no consigues darle salida en tu tienda física; y así, un largo etcétera de ideas que te ayudarán a que tu margen de venta en redes sociales se vaya incrementando a la velocidad que elijas. 
 
-![marketing ads redes sociales](/img/upload/puente.gif "Une lo offline y lo online")
+[![marketing ads redes sociales](/img/upload/puente.gif "Une lo offline y lo online")](/img/upload/puente.gif "Une lo offline y lo online")

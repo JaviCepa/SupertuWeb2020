@@ -39,7 +39,7 @@ Imagínate que tienes (como es el caso de otro de nuestros clientes) una clínic
 
 La notoriedad de los anuncios en Facebook es notable. Esto no quiere decir que debes ponerte a patrocinar post como un loco. Todo tiene un método y el de la publicidad en redes sociales, no es nada sencillo. Debes tener el post estructurado, elegir bien el target al que va dirigido, diseñar una creatividad que transmita lo que necesitas y monitorizarlo hasta exprimir al máximo cada céntimo. Pero haciéndolo de la mano de una agencia profesional, este objetivo es factible. 
 
-![facebook publicidad anuncios](/img/upload/notoriedadenredessociales.gif "Vender con anuncios de Facebook")
+[![facebook publicidad anuncios](/img/upload/notoriedadenredessociales.gif "Vender con anuncios de Facebook")](/img/upload/notoriedadenredessociales.gif "Vender con anuncios de Facebook")
 
 3_ Métricas:
 
@@ -69,6 +69,6 @@ Pues bien, si haces esta misa inversión en publicidad en redes sociales podrás
 
 Y así, un largo etcétera de datos que mide dónde va y por qué, cada céntimo de tu inversión, lo cual te ayudará a definir la siguiente campaña para dar directo en el clavo, y así, sucesivamente.
 
-![facebook marketing anuncios publicidad](/img/upload/anuncioenfacebook.gif "Consigue notoriedad en Facebook ")
+[![facebook marketing anuncios publicidad](/img/upload/anuncioenfacebook.gif "Consigue notoriedad en Facebook ")](/img/upload/anuncioenfacebook.gif "Consigue notoriedad en Facebook ")
 
 Si he conseguido disipar todas tus dudas acerca de por qué invertir en Facebook, [llámanos](https://supertu.es/contacto). Tenemos soluciones para ti que te garantizamos te ayudarán a conseguir tus objetivos.

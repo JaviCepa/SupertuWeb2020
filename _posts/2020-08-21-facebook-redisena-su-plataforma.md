@@ -27,13 +27,12 @@ Queridos **Community Managers**, podéis respirar tranquilos. Esta vez es un cam
 
 ⁣⁣Formato clásico:
 
-![](https://lh4.googleusercontent.com/eGrL-Vc0guAn_UOYvAx5ggmjZr-qRmvAa6tLwvtIrNiJaNVmQUD_tOQdPEGG1l-ijIdj6GnklgjVVzGMRQhIWuot5idqKA5i0mCvn7ccf4i1fpcyl75Y83K87DEfurX2BQkBVx8u)
-
+[![](/img/upload/facebook-redisena-su-plataforma-1.png)](/img/upload/facebook-redisena-su-plataforma-1.png)
 
 
 Formato actual:
 
-![](https://lh5.googleusercontent.com/HF9wWI-rr9u7buVZEO1XtMpTKIZVpnyF9ISwG5qH71odMZmw_gfvhivC6e-3Gzs-Rv119NmjUOJyZOsaRxxDcR2D_xxNibFcuJM47ErNmrmanDvDhY-5SMSL8OtV5FfkL8tWKP1K)
+[![](/img/upload/facebook-redisena-su-plataforma-2.png)](/img/upload/facebook-redisena-su-plataforma-2.png)
 
 A primera vista, los cambios de diseño son evidentes. Nos costará un par de días habituarnos a esta nueva versión pero estamos seguros de que traerá consigo grandes ventajas.
 

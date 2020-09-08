@@ -21,7 +21,7 @@ Es importante que sepáis que esto solo os valdrá si ya tenéis una web con un 
 
 Ahora vamos a hablar de qué herramientas podemos utilizar para la venta de nuestros productos en las diferentes plataformas de redes sociales. Empezamos por Facebook.
 
-![](https://lh5.googleusercontent.com/0k4QdZ6Gvd6zQDGwSSyXiy2LtuBPq6Wnl9LrLrc2BeBT7Jg729TYbin4lvpo61Jy0i7YiJ11RH9xfy-RC2YPuN3X1f3t2bnt4JJu_b29nNWVqjjvZU80ohtZsrWA-IB2oJHcd-gF)
+[![](/img/upload/vender-redes-sociales-1.png)](/img/upload/vender-redes-sociales-1.png)
 
 Facebook es la mejor plataforma para anunciar nuestros productos. ¿Por qué? Porque las herramientas de Facebook se sincronizan con las de Instagram, dándonos una comunicación multicanal de las dos redes sociales más potentes del mercado.
 
@@ -35,7 +35,7 @@ Una vez hayas hecho esto, ya tendrás tu tienda óptima para empezar a vender.
 
 En cuanto a Instagram, si no tienes tu perfil como cuenta de empresa, es hora de que lo hagas en la sección de configuración, que podrás encontrar en tu perfil. Además, deberás sincronizar tu perfil en esta red social con tu página en Facebook. Así, tu catálogo estará sincronizado en ambas plataformas, lo que será muy útil a la hora de realizar campañas en Facebook Ads en base a este catálogo. ¡Ya tienes tu tienda en Instagram!
 
-![](https://lh3.googleusercontent.com/_UnTYkCjIM_KHKA1raJ5tVfPbd-VNB7qQNDLMUebZsQe0hnhbrCzTXMEPPGT2B8NBLDKEC2JitsVodFYntk4fCz5LglCTk-pvjISLekqEU-s7quHG9fG3ou1JaAjBtEtvFrZ4Nyz)![](https://lh3.googleusercontent.com/peryYdmZ2o-Mf-KjsW_ObBYxz-EO5FdqF1iSGb7xUjIhlDjbQYL2oeqkIi0POkX4tc39JymBvDdX3O_ZggTK4EyXNUWWu80dHenLDeMdy3x6B6PMqhigg1k63TUcNUuer4zh1U_X)![](https://lh3.googleusercontent.com/Jmuo00J242Ec0erKGB3_lLkWKAmKb1-c9vIb_JTRkjbo3m51tZpLO1VgmYtWxjzBJjPiMQgj7DeiVRxWffbBUqloW_jhBz6LFHNUQvilrv-axiTP1N7qDVJAlTuaqcIpCQKk_iMw)
+[![](/img/upload/vender-redes-sociales-2.jpeg)](/img/upload/vender-redes-sociales-2.jpeg)[![](/img/upload/vender-redes-sociales-3.png)](/img/upload/vender-redes-sociales-3.png)[![](/img/upload/vender-redes-sociales-4.png)](/img/upload/vender-redes-sociales-4.png)
 
 Una vez tengas esto, ya podrás empezar a crear campañas en tu business manager en las dos plataformas y conseguir más visibilidad y ventas.
 
