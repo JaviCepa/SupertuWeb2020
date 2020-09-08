@@ -26,10 +26,11 @@ Las redes sociales están ganando importancia mes a mes y, además, es una maner
 
 Si entras en AdsLibrary, solo tendrás que buscar la empresa que necesitas “espiar” y te aparecerá la información de la página como los anuncios activos o inactivos que tengan. Os ponemos el ejemplo de Coca Cola:
 
-![](https://lh4.googleusercontent.com/0VgWo8rPJEwtynZLEVZww6ztpDObDvGxTA9JNRC6p2-8KJt6PAAAiCAMJauQ_g1l5AWaVmGVruJf609gVmF4vIi3W6PcsdaXrF4MotMJtLUMQwyqzMf85_DAgq0_wh12JWQHzr6Q)
+[![](/img/upload/espiar-anuncios-1.png)](/img/upload/espiar-anuncios-1.png)
 
 A parte de los anuncios, podrás revisar la “Transparencia de la página”, como historial de nombres y administradores:
 
-![](https://lh5.googleusercontent.com/IhNWx9wwKRM8hixEVzeA0WJF-2PnyDHYEkfDuYlkhFUE7aDBSYm0X9YNnBnGtNCNP8uo1bySRtydC5QD9OsLuyPPQ2arZUASnEA_02mSDNfcb7p9YLIVjqJfCFJ514nJ_RBfG5iN)![](https://lh3.googleusercontent.com/q_bgvgiipoqM-DrLBznHYAprIHBtD230ksuw-6C1haUtjJsf7yl8xAtgh0s7NK16pt3O57V8td_HVpNq7Tda61rtybXkOmPI9tR1qhTTk-qyZTwTGtLG-hTstxfmAzlMXETUW0J6)
+[![](/img/upload/espiar-anuncios-2.png)](/img/upload/espiar-anuncios-2.png)
+[![](/img/upload/espiar-anuncios-3.png)](/img/upload/espiar-anuncios-3.png)
 
 Ya conoces un nuevo truco para fichar a tu competencia en redes sociales. Esperamos que este consejo os sea útil para sacarle el máximo partido a tus social ads.

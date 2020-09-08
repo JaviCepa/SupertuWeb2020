@@ -22,11 +22,11 @@ Es importante que sepas que Facebook solo te dejará migrar a tus amigos, que se
 
 * Paso 1: Lo primero que tienes que hacer es loguearte en el perfil personal de tu negocio
 
-![](https://lh5.googleusercontent.com/kOEpyI9Jl0s4KOYtqJ-BIZ5VzS7zSuhL7mm3buQyvgaojHsGEahom7T4G_n7X6Fm2dj-cTv-ii74UqLBZ-PBHxsREoDyK3M3IzQlezpG8Ghh6N3_1YTDWpAdJEuQtBPYLDz7pP0c)
+[![](/img/upload/migrar-perfil-facebook-1.jpg)](/img/upload/migrar-perfil-facebook-1.jpg)
 
 * Paso 2: A continuación, [haz clic aquí](https://www.facebook.com/pages/create/migrate/), te llevará a la página específica de Facebook para **migrar perfiles personales a páginas comerciales**; te saldrá una pantalla parecida a esta con el nombre del perfil en el que estás logueado.
 
-![](https://lh6.googleusercontent.com/g3kmZJ8zZZzcI2RYMTN01omhryZbVVCXhlVGMi6KialCPBOmp2Qv7fyiKqArJqrgtp14XtDgrIS5GRYPgPl7g9WZ9uZjLrg-f2az-Lm1AVmBF6_dcQU7Zxr6LrJDGG0oNE2swPUf)
+[![](/img/upload/migrar-perfil-facebook-2.png)](/img/upload/migrar-perfil-facebook-2.png)
 
 * Paso 3: Una vez le hayas dado al botón “Empezar”, la página puede tardar más de lo normal en cargarse. Selecciona lo que quieres traspasar y configura tu negocio con categorías.
 * Paso 4: Solo debes darle a continuar y te saldrá un mensaje así

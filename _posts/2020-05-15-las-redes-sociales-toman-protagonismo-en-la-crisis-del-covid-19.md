@@ -19,13 +19,13 @@ Sin embargo para aquellos negocios que ya trabajaban las redes sociales, el camb
 
 Una vez comenzada nuestra andadura en redes sociales, son muchas las plataformas que han querido ayudar a la causa para mejorar nuestra comunicación. En el caso de [Google My Business,](https://supertu.es/como-sacarle-el-maximo-partido-a-tu-perfil-de-google-my-business/) ha premiado las publicaciones que hablaban del COVID-19 frente a otras más propagandísticas dándoles mayor difusión y protagonismo.
 
-![](https://lh6.googleusercontent.com/DkGhvyhyJ9rP2TBv2qvdDYQD4seEQOKeUajUfebmooKfUUx1R5QFqfNbW9YT_6c69pNioc_mQxLHXufumCbsPghHpH8Iyg8kXaXI4YpUPfBMpPwhy8UoZ_uKRt9TRgDr54-X0oJI)
+[![](/img/upload/redes-sociales-covid-1.png)](/img/upload/redes-sociales-covid-1.png)
 
 En el caso de Facebook, desde el primer momento ha querido ayudar a estas empresas que han tenido grandes pérdidas monetarias ofreciendo una pequeña ayuda. Además de ofrecer contenido y creatividades de forma gratuita para que realices tus publicaciones en la plataforma, ponen a la disposición de todos sus usuarios pequeños cursos y guías de acción para que te familiarices con la plataforma.
 
 ¡Pero eso no es todo! Además, está repartiendo 100 millones de dólares en efectivo y [créditos publicitarios](https://supertu.es/servicios/publicidad-en-facebook/) a aquellas empresas que hayan perdido gran parte de su facturación y puedan demostrarlo.
 
-![](https://lh6.googleusercontent.com/f95IKWLeIw5Z1XSUIGpfcsk15Oq1Fcp01c4KFWKV7WFcj8vKRNW-5RxIdeVzvn8PO_dGps7clYXVoqMRkgnuMt-xVmXDrnqpdWOUbpfkafx3HdPyX0bqa5wjJhmYd8PYepKiX0Lg)
+[![](/img/upload/redes-sociales-covid-2.png)](/img/upload/redes-sociales-covid-2.png)
 
 Si quieres solicitar la ayuda y enviar tu solicitud, puedes hacerlo a través de este [enlace](https://www.facebook.com/business/boost/grants#).
 

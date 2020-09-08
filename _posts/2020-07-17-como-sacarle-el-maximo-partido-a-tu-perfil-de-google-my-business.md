@@ -28,7 +28,7 @@ Si tu empresa tiene muchos años y nunca has creado una **ficha de Google My Bus
 
 Para saber si se ha creado o no, bastará con poner el nombre de tu empresa en el buscador de Google.
 
-![](https://lh4.googleusercontent.com/jcZwaEenpO4Huvj2Fe_MHIA6-QW4NgRoLbtNUxxs_L-lZV5EWjG0b6LgeaPfE_qSs93sWSpcqNfB96ocl_kVVSZjnt6xBN1QVgbhOMOLxrzMFIsOKY87wZdF-dikQvpdfQuz2fPZ)
+[![](/img/upload/optimizar-google-my-business-1.png)](/img/upload/optimizar-google-my-business-1.png)
 
 Si te aparece tal que así, una ficha sin información alguna más que el nombre y la dirección, sabrás que se ha creado de forma automática. En ese caso tendremos que clicar el “¿Eres el propietario de esta empresa?” y pedir la autoridad de la misma. Para ello, únicamente tendrás que rellenar el formulario que te aparece paso a paso.
 
@@ -44,7 +44,7 @@ Una vez rellenado todo el formulario nos aparecerá nuestro perfil de Google My 
 
 La mejor forma de **optimizar tu ficha y sacarle el máximo partido** es completar todos los apartados que Google te ofrece. Para ello, comencemos con lo básico, la información de tu negocio. Para ello, clicaremos en el apartado de “Información” que nos aparece en la izquierda de nuestro perfil (tal y como os mostramos en la imagen).
 
-![](https://lh4.googleusercontent.com/QBZbXF9ypVd-QUeZD9xfUl_d_Rnu9sDoCK21GJd_w7DdkoReVTewC1BK6eSSoP6gDdmQurAf3eLq0IyXuWKzGOVHhlwknN9gQUqXlbxpfnCp7Nh8tf_KiMP9nTncqLygiLpUZS4Q)
+[![](/img/upload/optimizar-google-my-business-2.png)](/img/upload/optimizar-google-my-business-2.png)
 
 Una vez dentro tenemos que rellenar todos los apartados que nos aparecen:
 

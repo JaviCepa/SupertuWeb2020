@@ -2,7 +2,7 @@
 layout: post
 title: "Cómo fusionar dos páginas de Facebook - Paso a Paso "
 subtitle: Unir páginas es unir fuerzas
-date: 2019-05-14
+date: 2020-05-14
 tags:
   - Facebook
 author: Marina Aneas
@@ -30,8 +30,8 @@ Si no cumples con estos requisitos, siempre puedes hacer estos cambios y luego f
 
 EMPEZAMOS
 
-* **Paso 1:** al abrir el enlace te pedirá que confirmes la contraseña de tu perfil en Facebook![](https://lh3.googleusercontent.com/ajN17-_CP9qeDo7d7YUcJ3f372B0jDGCuJ8gDP0xBMc5zXgveb19jeegOVc7eCBtU8Bb5341SLa4tVT-Dp84EYBP76M6kiDKDDHD26Ku5Mdx-9DaIle27dX_KglXlCJ1gHOy1HyT)
-* **Paso 2:** una vez introduzcas la contraseña, se te abrirá esta ventana. Debes introducir las dos páginas de Facebook que quieres fusionar.![](https://lh3.googleusercontent.com/MnICmz230o5Ozsggr_f7zd95e48wVFNVY_R6-d0legvZo7wUtJ3txNyM6aJWCy_aNfTY4K9-oJqxWVC8xuuAxPOVO0f_5na9Y6xfLgT6DYlNfqsn7-KPB-g9jTpJYWdb9IBnz0KU)
+* **Paso 1:** al abrir el enlace te pedirá que confirmes la contraseña de tu perfil en Facebook[![](/img/upload/fusionar-facebook-step-1.png "")](/img/upload/fusionar-facebook-step-1.png "")
+* **Paso 2:** una vez introduzcas la contraseña, se te abrirá esta ventana. Debes introducir las dos páginas de Facebook que quieres fusionar.[![](/img/upload/fusionar-facebook-step-2.png)](/img/upload/fusionar-facebook-step-2.png)
 * **Paso 3:** Elegir la página con la que te quedas y qué contenido de quieres eliminar y cuál dejar. (Lo más normal es fusionar los seguidores/me gusta y, si quieres, las publicaciones en el perfil)
 * **Paso 4:** cuando ya lo tienes todo listo, fusiona las páginas.
 
