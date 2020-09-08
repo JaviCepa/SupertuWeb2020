@@ -7,6 +7,8 @@ $(document).ready(function(){
 		autoPlay: 5000,
 	});
 
+	document.cookie += ";SameSite=Lax";
+
 
 	// $("#clients-logo").owlCarousel({
 	// 	autoPlay: 3000,
