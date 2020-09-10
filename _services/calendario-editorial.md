@@ -11,7 +11,7 @@ description: Uno de los documentos que más agradecen nuestros clientes. Podrás
 permalink: /servicios/calendario-editorial-redes-sociales/
 image: /img/upload/service_1.png
 ---
-Cuando le das tus redes sociales a una agencia como la nuestra, te puede generar mucha incertidumbre no saber qué se va a publicar, cómo serán las [fotos y los textos](https://supertu.es/fotos-y-microvideos-redes-sociales/).
+Cuando le das tus redes sociales a una agencia como la nuestra, te puede generar mucha incertidumbre no saber qué se va a publicar, cómo serán las [fotos y los textos](https://supertu.es/servicios/fotos-y-microvideos-redes-sociales/).
 
 Para evitar esa incertidumbre y acordar contigo un **plan de acción**, nosotros creamos un documento llamado “calendario editorial”. En él, encontrarás las publicaciones que vamos a emitir desde todos los canales de tu marca a lo largo de un mes. Así, sabrás exactamente qué publicaciones salen los lunes, cuales los martes, cuales los miércoles, etc.
 
@@ -24,7 +24,7 @@ El calendario editorial además de quitarte incertidumbre, nos ayuda a:
 * Dar difusión a los **eventos** de interés para tu marca que puedan tener lugar a lo largo del mes
 * Y por último y más importante: analizar los **datos 📊**  y afinarlos para el mes siguiente
 
-Una vez realizado este documento te lo enviamos para que lo veamos juntos. Tú nos das feedback acerca de si te encajan las imágenes, los [copys](https://supertu.es/redaccion-de-contenidos-social-media/) (palabra técnica que usamos cuando hablamos de los textos) y el lugar del mes en el que hemos insertado el contenido. Con tu “ok”, empezamos a publicar y una vez finaliza el mes, analizamos los datos y preparamos el calendario editorial del mes siguiente.
+Una vez realizado este documento te lo enviamos para que lo veamos juntos. Tú nos das feedback acerca de si te encajan las imágenes, los [copys](https://supertu.es/servicios/redaccion-de-contenidos-social-media/) (palabra técnica que usamos cuando hablamos de los textos) y el lugar del mes en el que hemos insertado el contenido. Con tu “ok”, empezamos a publicar y una vez finaliza el mes, analizamos los datos y preparamos el calendario editorial del mes siguiente.
 
 Lo que nos suele suceder con los calendarios editoriales, es que en el primer mes y el segundo necesitaremos que nos ayudes un poco a afinar 100% los contenidos a lo que tú quieres y esperas ver. Una vez te pillamos el punto, tiramos millas solas, ya que **cada mes que pasa conocemos mejor tu marca**, y nos resultará más fácil  expresarnos con su propia voz.
 
