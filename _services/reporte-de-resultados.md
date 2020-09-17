@@ -21,6 +21,8 @@ Crecer es importante, pero convertir es vital. Nuestra experiencia empresarial n
 
 La vida de un empresario o un director de marketing suele ser movida, lo sabemos. Nosotras te mandaremos los reportes de manera informativa, pero nos mantendremos contigo en contacto constante para que sepas cómo avanzamos y para que tú nos digas cómo te podemos seguir ayudando. El trabajo en equipo es otro de nuestros puntos fuertes ;)
 
-Si quieres ver un ejemplo de reporte de resultados, pincha aquí
+Si quieres ver un ejemplo de reporte de resultados, pincha [aquí]
 
 ¿Empezamos?
+
+[aquí]:{{ site.url }}/download/Reporte Centro Javaloyes - Julio 2020.pdf
