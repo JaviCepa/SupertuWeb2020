@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: JaviCepa/supertu-web-netlify
+  repo: JaviCepa/SupertuWeb2020
   branch: master
   site_domain: supertu.es
 
