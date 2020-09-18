@@ -10,6 +10,8 @@ tags:
 author: Espe Olea
 date: 2020-09-17T11:23:01.198Z
 hidden: true
+image: /img/upload/1.jpg
+social_media_image: /img/upload/whatsapp-image-2020-09-18-at-10.37.45-1-.jpeg
 seotitle: Claves para triunfar en internet
 description: 4 pilares fundamentales para que tu marca tenga una presencia online impecable
 ---
