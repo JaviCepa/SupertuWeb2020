@@ -45,10 +45,7 @@ Si no lo has probado todavía, pídenos presu, en esto somos la fórmula 1.
 
 El SEO es el arte de...
 
-**{% include embed-contact.html\
-message="Esto aparece en la cabecera"\
-button="Esto aparece en el botón"\
-%}** 
+{% include embed-contact.html message="Esto aparece en la cabecera" button="Esto aparece en el botón" %}
 
 ... gustarle a Google. Consiste en cumplir con forma y fondo con todos los requerimientos que nos impone
 
