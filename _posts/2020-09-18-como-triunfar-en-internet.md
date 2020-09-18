@@ -19,8 +19,6 @@ Si tienes una empresa, sabrás que las áreas de mejora son prácticamente infin
 
 Esto es algo de lo que nos damos cuenta cuando alguien nos dice que ha entrado en nuestra web, o que ha visto nuestra página de facebook. Ay madre, ¡¿qué se habrá encontrado?! No entres en pánico, todo tiene solución dedicándole el tiempo y los recursos adecuados.
 
-
-
 Descubre los 4 pilares fundamentales para que tu marca tenga una presencia online impecable:
 
 1_ Web:
@@ -41,7 +39,7 @@ Si has descartado contratar este servicio porque las redes sociales no sirven pa
 
 Si no lo has probado todavía, pídenos presu, en esto somos la fórmula 1.
 
-[![redes sociales](/img/upload/f1.gif "La F1 de las redes sociales")](/img/upload/f1.gif "La F1 de las redes sociales")
+[![redes sociales](/img/upload/f1.gif)](/img/upload/f1.gif)
 
 3_ SEO:
 
@@ -61,7 +59,5 @@ Resulta bastante engorroso y técnico este trabajo, pero con el profesional adec
 4_ SEM:
 
 Las campañas de anuncios en google son un recurso útil que puede darte un empujón mientras pones tu SEO a punto. Bien es cierto, que dependerá de cómo de competitivo sea tu sector en internet, pero esto no te debe desanimar a la hora de, como mínimo, valorar si entrar o no a realizar este tipo de campañas de publicidad.
-
-
 
 Si has rellenado esta check list de 4 pilares fundamentales para triunfar en internet ¡enhorabuena!, vas en el camino correcto.
