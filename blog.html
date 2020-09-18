@@ -11,13 +11,7 @@ social_media_image: /img/home/slider-bg.jpg
 
 {% include hero.html title="Creando supermarcas" subtitle="¡Bienvenido a nuestro blog!" %}
 
-<div class="container" style="margin-top: 30px;">
-	<div class="row">
-		{% for post in site.posts %}
-			{% include postentry.html %}
-		{% endfor %}
-	</div>
-</div>
+{% include blog-posts.html %}
 
 <!-- Call to action Start -->
 {% include calltoaction.html %}

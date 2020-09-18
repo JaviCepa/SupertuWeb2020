@@ -13,6 +13,18 @@
   <script async src="{{ site.baseurl }}/js/plugins.js"></script>
   <script async src="{{ site.baseurl }}/js/main.js"></script>
 
+  <!-- Global site tag (gtag.js) - Google Ads: 618974798 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-618974798"></script>
+
+  {% if page.trigger_traffic_event %}
+    <!-- Event snippet for Website traffic conversion page -->
+    <script> gtag('event', 'conversion', {'send_to': 'AW-618974798/fTnRCILA8d4BEM6ck6cC'}); </script>
+  {% endif %}
+
+  <script>
+    window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-618974798');
+  </script>
+
   {% include facebookpixelcode.html %}
 
   <link rel="stylesheet" href="{{ site.baseurl }}/css/unloader.css"/>
