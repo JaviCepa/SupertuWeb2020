@@ -15,7 +15,7 @@
 <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="keywords" content="social media, redes sociales, málaga, agencia de marketing, pymes, startups, clientes, agencias, publicidad, marketing">
+<meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}">
 
 <!-- Open graph tags -->
 <meta property="og:locale" content="es_ES">
