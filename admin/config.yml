@@ -17,7 +17,7 @@ collections:
   - name: "blogpost"
     label: "Blogposts"
     folder: "_posts"
-    preview_path: /{{slug}}
+    preview_path: /blog/{{slug}}
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
     fields:
