@@ -1,0 +1,29 @@
+---
+layout: page
+permalink: /status/
+---
+
+{% include hero.html
+    title="Estado del servidor"
+%}
+
+<section>
+    <div class="status container" style="margin-top: 40px">
+      <div class="row">
+        <div class="col-sm-12">
+            <p>¡En esta página podrás comprobar si los últimos cambios realizados desde el admin se han reflejado correctamente en la web!</p>
+            <p>Solo tienes que fijarte en el mensaje del marcador de abajo:</p>
+            <ul>
+                <li>Success: ¡todo ha ido bien!</li>
+                <li>Building: aún se están reflejando los cambios y deberás comprobarlo un poco más tarde.</li>
+                <li>Failed o cualquier otro mensaje: contacta con el equipo técnico para que puedan echar un vistazo.</li>
+            </ul>
+        </div>
+        <div class="col-sm-12" style="text-align: center; margin: 40px 0;">
+            <a href="https://app.netlify.com/sites/supertu/deploys">
+                <img src="https://api.netlify.com/api/v1/badges/8becec50-6e66-404c-8511-d41319809ea5/deploy-status" alt="Netlify Status" style="width: 250px;">
+            </a>
+        </div>
+      </div>
+    </div>
+  </section>

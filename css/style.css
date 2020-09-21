@@ -765,12 +765,14 @@ ul.share-buttons .sr-only{
   }
 }
 
-.service ul {
+.service ul,
+.status  ul {
   margin: 1rem 0;
   margin-left: 2rem
 }
 
-.service ul li {
+.service ul li,
+.status  ul li {
   margin-bottom: 0.5rem;
   list-style-type: disc;
   text-align: left;
