@@ -60,6 +60,7 @@ collections:
       - {label: "Contenido", name: "body", widget: "markdown", required: false}
       - {label: "SEO Title", name: "seotitle", widget: "string", required: false, hint: "Irá dentro del head y será el título mostrado en la barra del navegador."}
       - {label: "SEO Description", name: "description", widget: "string", required: false, hint: "Irá dentro de la etiqueta de meta-descripción del head."}
+      - {label: "SEO Keywords", name: "keywords", widget: "string", required: false}
   - name: "teammember"
     label: "Equipo"
     folder: "_team"
@@ -76,6 +77,9 @@ collections:
       - {label: "LinkedIn", name: "linkedin", widget: "string", required: false}
       - {label: "Orden", name: "order", widget: "hidden", required: false}
       - {label: "Imagen", name: "image", widget: "image", required: false}
+      - {label: "SEO Custom URL", name: "permalink", widget: "string", required: false}
+      - {label: "SEO Title", name: "seotitle", widget: "string", required: false, hint: "Irá dentro del head y será el título mostrado en la barra del navegador."}
+      - {label: "SEO Keywords", name: "keywords", widget: "string", required: false}
   - name: "client"
     label: "Clientes"
     folder: "_clients"
@@ -90,6 +94,9 @@ collections:
       - {label: "Twitter", name: "twitter", widget: "string", required: false}
       - {label: "Facebook", name: "facebook", widget: "string", required: false}
       - {label: "LinkedIn", name: "linkedin", widget: "string", required: false}
+      - {label: "SEO Custom URL", name: "permalink", widget: "string", required: false}
+      - {label: "SEO Title", name: "seotitle", widget: "string", required: false, hint: "Irá dentro del head y será el título mostrado en la barra del navegador."}
+      - {label: "SEO Keywords", name: "keywords", widget: "string", required: false}
   - name: "services"
     label: "Servicios"
     folder: "_services"
@@ -105,6 +112,8 @@ collections:
       - {label: "Descripción", name: "description", widget: "string"}
       - {label: "URL", name: "permalink", widget: "string"}
       - {label: "Contenido", name: "body", widget: "markdown"}
+      - {label: "SEO Title", name: "seotitle", widget: "string", required: false, hint: "Irá dentro del head y será el título mostrado en la barra del navegador."}
+      - {label: "SEO Keywords", name: "keywords", widget: "string", required: false}
   - name: "tags"
     label: "Categorías"
     folder: "_tags"
