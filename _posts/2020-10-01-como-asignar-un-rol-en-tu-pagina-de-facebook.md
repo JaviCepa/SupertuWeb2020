@@ -5,6 +5,7 @@ subtitle: Permisos para gestionar tu marca
 permalink: blog/como-asignar-un-rol-en-tu-pagina-de-facebook
 tags:
   - Facebook
+  - Redes sociales
 author: María Araujo
 date: 2020-10-01T07:49:31.792Z
 image: /img/upload/roles-pagina-facebook.png
@@ -18,23 +19,21 @@ Una vez ya creada la página de Facebook, es posible que quieras que otra person
 
 # ¿Cómo le doy un rol a otra persona?
 
-Paso 1: Accede a tu página de [Facebook](https://www.facebook.com/SomosSuperTu/).
+**Paso 1:** Accede a tu página de [Facebook](https://www.facebook.com/SomosSuperTu/).
 
-Paso 2: Dirígete al menú de la izquierda de tu página y accede a “Configuración".
+**Paso 2:** Dirígete al menú de la izquierda de tu página y accede a “Configuración".
 
 ![](https://lh4.googleusercontent.com/Ql3PBir5yeLpILoz5m8G24HjQPqBwMxX9D7R3zOCuPKzXQyGNa2cUJvQ-IlQemeu92AF4cdACGQqPabnuQOHy5Qe3ELlY1mnOxg5dUECayWhnLPHQlR3j7QNFoQfZEWGWkXAfb95)
 
-Paso 3: Clica en “Roles de la página”
+**Paso 3:** Clica en “Roles de la página”
 
-Paso 4: Donde aparece “Asignar un nuevo rol de página” introduce el correo electrónico de la persona que quieres asignar.
+**Paso 4:** Donde aparece “Asignar un nuevo rol de página” introduce el correo electrónico de la persona que quieres asignar.
 
-\*TIP\*: El correo electrónico debe ser con el que inicia sesión en Facebook la otra persona. Con cualquier otro correo no vas a poder darle acceso.
+> *\*TIP\*: El correo electrónico debe ser con el que inicia sesión en Facebook la otra persona. Con cualquier otro correo no vas a poder darle acceso.*
 
 ![](https://lh5.googleusercontent.com/DuswKive5dFA319KQqrlnIig0HXzVkG4z-AmI9Go1LeXu8E3xf7Z3mdADzLiIZ04frE2eX9MdMStPrM_N9JDjeRUjmiPz_QiHrefM-QWEOUtYF2etMH19dSwcwtThgXzDQwTPst3)
 
-Paso 5: Define el rol que quieras darle (administrador, editor, moderador, anunciante, analista y personalizado.
-
-
+**Paso 5:** Define el rol que quieras darle (administrador, editor, moderador, anunciante, analista y personalizado.
 
 # ¿Cómo saber qué rol asignar?
 
