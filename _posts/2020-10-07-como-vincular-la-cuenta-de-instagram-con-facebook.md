@@ -10,8 +10,8 @@ tags:
   - Redes sociales
 author: Marina Aneas
 date: 2020-10-07T07:11:37.314Z
-image: /img/upload/13.png
-social_media_image: /img/upload/14.png
+image: /img/upload/14.png
+social_media_image: /img/upload/13.png
 seotitle: vincular instagram facebook
 description: como vincular perfil de instagram y pagina de facebook
 keywords: instagram facebook vincular
