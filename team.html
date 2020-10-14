@@ -18,6 +18,9 @@ permalink: /nuestro-equipo/
 
     <div class="row">
       {% for teammember in sorted_team %}
+      {% if teammember.hidden == true %}
+        <!--Not available-->
+      {% else %}
       <div class="col-lg-4 col-md-6" style="padding-bottom: 30px">
         {% if teammember.name_filter %}
         <div
@@ -61,6 +64,7 @@ permalink: /nuestro-equipo/
           <p style="padding: 0 20px 20px 20px">{{ teammember.description }}</p>
         </div>
       </div>
+      {% endif %}
       {% endfor %}
     </div>
     <br />

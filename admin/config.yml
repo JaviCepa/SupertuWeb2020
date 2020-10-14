@@ -70,6 +70,7 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post", required: false}
       - {label: "Nombre", name: "name", widget: "string"}
+      - {label: "Oculto", name: "hidden", widget: "boolean", required: false, hint: "Puedes marcar este miembro como oculto si quieres publicarlo más adelante."}
       - {label: "Descripción", name: "description", widget: "string", required: false}
       - {label: "Teléfono", name: "telephone", widget: "string", required: false}
       - {label: "Cargo", name: "position", widget: "string", required: false}
