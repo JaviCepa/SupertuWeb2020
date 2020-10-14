@@ -65,10 +65,10 @@ collections:
     label: "Equipo"
     folder: "_team"
     create: true
-    slug: "{{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     identifier_field: name
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post", required: false}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "teammember", required: false}
       - {label: "Nombre", name: "name", widget: "string"}
       - {label: "Oculto", name: "hidden", widget: "boolean", required: false, hint: "Puedes marcar este miembro como oculto si quieres publicarlo más adelante."}
       - {label: "Descripción", name: "description", widget: "string", required: false}

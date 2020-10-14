@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teammember
 name: Elena Molina
 hidden: true
 telephone: "623025248"
