@@ -9,6 +9,8 @@ description: Lo de invertir en comunicación en redes sociales suena muy bonito
   así que elaboramos reportes para contarte dónde ha llegado cada una de
   nuestras acciones y cuales serán los siguientes pasos.
 permalink: /servicios/reporte-de-resultados-social-media/
+seotitle: Reportes de resultados en redes sociales
+keywords: social media manager, redes sociales, community manager
 image: /img/upload/service_6.png
 ---
 Me gusta decir que la diferencia entre un buen social media manager y un community manager es su capacidad para leer los datos. Las redes sociales son creativas, divertidas, bonitas… Sí sí, pero si no tienes resultados, no sirven más que para perder el tiempo. Saber leer valores objetivos de crecimiento, alcance, interacción, coste por click, reconocimiento de marca… Debe ser el día a día de la persona encargada de sacarle el máximo partido a los canales sociales de una marca.
