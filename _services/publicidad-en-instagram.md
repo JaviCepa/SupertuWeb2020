@@ -8,6 +8,7 @@ description: Creamos campañas de publicidad que acompañen a tu marca en
   Instagram. Elige tu objetivo y nosotras trazamos la trayectoria. Además las
   monitorizaremos día a día y recibirás un resumen en tu reporte de resultados.
 permalink: /servicios/publicidad-en-instagram/
+seotitle: Publicidad en Instagram, creamos campañas de publicidad en Instagram
 image: /img/upload/service_5.png
 ---
 Cada dos stories: un anuncio, ¿te has dado cuenta? Si has llegado hasta esta parte de nuestra web, tu respuesta será que sí, que te has dado cuenta de lo importante que es hacer publicidad en Instagram.
