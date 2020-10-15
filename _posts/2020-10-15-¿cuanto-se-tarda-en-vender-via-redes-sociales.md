@@ -11,6 +11,9 @@ tags:
 author: Espe Olea
 date: 2020-10-15T15:38:13.534Z
 hidden: true
+seotitle: vender en redes sociales
+description: cuánto se tarda en vender en social media
+keywords: vender, redes sociales, marketing digital
 ---
 Cuando una empresa contrata los servicios de una agencia especializada en social media como la nuestra, una de sus principales inquietudes es cuánto va a tardar en amortizar nuestros servicios. Esto depende de las diferentes variables que te expongo a continuación, igual que se las expongo a mis clientes cuando llegan a nuestra casa:
 
