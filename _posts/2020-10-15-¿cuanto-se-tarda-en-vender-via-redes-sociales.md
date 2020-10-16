@@ -11,8 +11,8 @@ tags:
 author: Espe Olea
 date: 2020-10-15T15:38:13.534Z
 hidden: false
-image: /img/upload/18.jpg
-social_media_image: /img/upload/19.jpg
+image: /img/upload/19.jpg
+social_media_image: /img/upload/18.jpg
 seotitle: vender en redes sociales
 description: cuánto se tarda en vender en social media
 keywords: vender, redes sociales, marketing digital
