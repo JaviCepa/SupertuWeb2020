@@ -1,0 +1,14 @@
+<div class="container" style="margin-top: 30px;">
+	<div class="row">
+		{% assign cont = 0 %}
+		{% for post in site.posts %}
+			{% if cont < 3 %}
+				{% include postentry.html %}
+			{% else %}
+				{% break %}
+			{% endif %}
+
+			{% assign cont = cont | plus:1 %}
+		{% endfor %}
+	</div>
+</div>
