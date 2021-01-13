@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>Locations for Supertu</name>
+		<atom:author>
+			<atom:name>Supertu</atom:name>
+		</atom:author>
+		<atom:link rel="related" href="https://supertu.es" />
+		<Folder>
+			<Placemark>
+				<name><![CDATA[Supertu]]></name>
+				<address><![CDATA[Av. Jane Bowles, S/N, Promálaga Virreina, Málaga, 29011, Spain]]></address>
+				<phoneNumber><![CDATA[(34)653903359]]></phoneNumber>
+				<description><![CDATA[Supertú pone a tu disposición los conocimientos de marketing social de las grandes empresas al alcance de tu negocio, para abrirte las puertas al canal de venta con mayor potencial en la actualidad: las redes sociales.]]></description>
+				<Point>
+					<coordinates>-4.4272958,36.748101,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>
