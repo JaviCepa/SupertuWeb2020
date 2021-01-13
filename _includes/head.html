@@ -1,18 +1,20 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-{% if page.noIndex%}<meta name="robots" content="noindex">{% endif %}
+{% if page.noIndex%}
+<meta name="robots" content="noindex">{% endif %}
 <title>
   {% if page.seotitle %}
-    {{ page.seotitle }}
+  {{ page.seotitle }}
   {% elsif page.title %}
-    {{ page.title }}
+  {{ page.title }}
   {% else %}
-    {{ site.title }}
+  {{ site.title }}
   {% endif %}
 </title>
 
 
-<meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
+<meta itemprop="description" name="description"
+  content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}">
@@ -20,17 +22,21 @@
 <!-- Open graph tags -->
 <meta property="og:locale" content="es_ES">
 <meta property="og:type" content="article">
-<meta property="og:title" content="{% if page.seotitle %}{{ page.seotitle }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta property="og:title"
+  content="{% if page.seotitle %}{{ page.seotitle }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-<meta property="og:image" content="{% if page.social_media_image %}{{ site.url }}{{ page.social_media_image }}{% else %}{{ site.url }}{{ page.image }}{% endif %}" />
+<meta property="og:image"
+  content="{% if page.social_media_image %}{{ site.url }}{{ page.social_media_image }}{% else %}{{ site.url }}{{ page.image }}{% endif %}" />
 <meta property="og:site_name" content="Supertú | Tu agencia de redes sociales">
 <meta property="article:published_time" content="{{ page.date }}" />
-<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:description"
+  content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 
 <!-- Twitter card tags -->
-<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta name="twitter:description"
+  content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 <meta name="twitter:site" content="@SomosSuperTu" />
 <meta name="twitter:creator" content="@SomosSuperTu">
 <meta name="twitter:card" content="summary">
@@ -39,18 +45,50 @@
 <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}" />
 
 <!-- CSS -->
-<link rel="stylesheet" href="{{ site.baseurl }}/css/airspace.css" media="print" onload="this.media='all'"/>
-<link rel="stylesheet" href="{{ site.baseurl }}/css/bootstrap.min.css" media="print" onload="this.media='all'"/>
-<link rel="stylesheet" href="{{ site.baseurl }}/css/owl.carousel.css" media="print" onload="this.media='all'"/>
-<link rel="stylesheet" href="{{ site.baseurl }}/css/style.css" media="print" onload="this.media='all'"/>
-<link rel="stylesheet" href="{{ site.baseurl }}/css/animate.css" media="print" onload="this.media='all'"/>
-<link rel="stylesheet" href="{{ site.baseurl }}/css/responsive.css" media="print" onload="this.media='all'"/>
-<link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css" media="print" onload="this.media='all'"/>
+<link rel="stylesheet" href="{{ site.baseurl }}/css/airspace.css" media="print" onload="this.media='all'" />
+<link rel="stylesheet" href="{{ site.baseurl }}/css/bootstrap.min.css" media="print" onload="this.media='all'" />
+<link rel="stylesheet" href="{{ site.baseurl }}/css/owl.carousel.css" media="print" onload="this.media='all'" />
+<link rel="stylesheet" href="{{ site.baseurl }}/css/style.css" media="print" onload="this.media='all'" />
+<link rel="stylesheet" href="{{ site.baseurl }}/css/animate.css" media="print" onload="this.media='all'" />
+<link rel="stylesheet" href="{{ site.baseurl }}/css/responsive.css" media="print" onload="this.media='all'" />
+<link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css" media="print" onload="this.media='all'" />
 <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
 
 <!-- Js -->
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" media="print" onload="this.media='all'">
-<link rel="preload" href="{{ site.baseurl }}/js/plugins.js" as="script"></script>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+  integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous"
+  media="print" onload="this.media='all'">
+<link rel="preload" href="{{ site.baseurl }}/js/plugins.js" as="script">
+</script>
 
 <!-- Metrics -->
-<img hidden src="https://tracker.metricool.com/c3po.jpg?hash=f33545fe9871cc373fc12371e9bb26c2"/>
+<img hidden src="https://tracker.metricool.com/c3po.jpg?hash=f33545fe9871cc373fc12371e9bb26c2" />
+
+<script type='application/ld+json'>
+  {
+    "@context": "http://www.schema.org",
+    "@type": "ProfessionalService",
+    "name": "Supertu",
+    "url": "https://supertu.es/",
+    "logo": "https://d33wubrfki0l68.cloudfront.net/a223545edbc2452fee3e924032726c4ba3ddbba5/3c47a/img/logo_full.svg",
+    "image": "https://d33wubrfki0l68.cloudfront.net/5c7c7435472e1cda225930326457a89cf2840f4c/71c8f/img/home/wrapper-img-2.webp",
+    "description": "Además de ser expertas manejando las redes sociales, nos movemos como pez en el agua en todo el mundo digital.\n\nTenemos un conocimiento 360 de los entornos digitales, por eso hacemos que tu estrategia social y de marketing digital encajen y cobren sentido en conjunto.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Av. Jane Bowles, S/N, Promálaga Virreina",
+      "addressLocality": "Málaga",
+      "postalCode": "29011",
+      "addressCountry": "Spain"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "36.748134",
+      "longitude": "-4.4294808"
+    },
+    "openingHours": "Mo, Tu, We, Th, Fr 09:00-18:00",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "+(0034)653903359"
+    }
+  }
+   </script>
