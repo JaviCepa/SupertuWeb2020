@@ -3,7 +3,7 @@ layout: post
 title: ¿Por qué anunciarte en Facebook?
 subtitle: La publicidad en redes sociales como MUST en cualquier estrategia de
   marketing online
-permalink: blog/por-que-anunciarte-en-facebook
+permalink: blog/por-que-anunciarte-en-facebook/
 tags:
   - Facebook
   - Publicidad

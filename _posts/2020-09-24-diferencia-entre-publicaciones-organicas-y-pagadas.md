@@ -3,7 +3,7 @@ layout: post
 title: Diferencia entre publicaciones orgánicas y pagadas
 subtitle: ¿Publicar sin invertir? Entra y descubre todo lo que tenemos que
   contarte sobre las publicaciones orgánicas y pagadas
-permalink: blog/diferencia-publicacion-pagada-organica
+permalink: blog/diferencia-publicacion-pagada-organica/
 tags:
   - Publicidad
   - Redes sociales

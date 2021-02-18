@@ -2,7 +2,7 @@
 layout: post
 title: Cómo asignar un rol en tu página de Facebook
 subtitle: Permisos para gestionar tu marca
-permalink: blog/como-asignar-un-rol-en-tu-pagina-de-facebook
+permalink: blog/como-asignar-un-rol-en-tu-pagina-de-facebook/
 tags:
   - Facebook
   - Redes sociales

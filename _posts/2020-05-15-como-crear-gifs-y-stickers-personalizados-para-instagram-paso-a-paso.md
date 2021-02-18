@@ -8,7 +8,7 @@ author: Marina Aneas
 date: 2020-05-15T11:35:52.885Z
 image: /img/upload/como-crear-stickers-personalizados-para-instagram.png
 description: crear sticker personalizados
-permalink: blog/crear-gifs-stickers-instagram
+permalink: blog/crear-gifs-stickers-instagram/
 ---
 Si has llegado hasta este blog es porque has visto todo el potencial que tienen los GIFS y stickers en la plataforma de **stories de Instagram** y quieres aprovechar. 
 

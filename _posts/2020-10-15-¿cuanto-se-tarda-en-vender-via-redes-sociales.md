@@ -3,7 +3,7 @@ layout: post
 title: ¿Cuánto se tarda en vender vía redes sociales?
 subtitle: Responde 3 preguntas clave para conseguir los máximos resultados en el
   menor tiempo posible
-permalink: blog/cuanto-se-tarda-en-vender-en-redes-sociales
+permalink: blog/cuanto-se-tarda-en-vender-en-redes-sociales/
 tags:
   - Marketing
   - Publicidad

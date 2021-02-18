@@ -8,7 +8,7 @@ author: Marina Aneas
 date: 2020-08-12T11:33:11.497Z
 image: /img/upload/supertu-blog.png
 description: bancos de imagenes gratis
-permalink: blog/bancos-imagenes-videos-gratis-redes-sociales
+permalink: blog/bancos-imagenes-videos-gratis-redes-sociales/
 ---
 ## Las redes sociales son cada vez más visuales y ya sabes lo que dicen: “Una imagen vale más que diez mil palabras”. Hoy os vamos a enseñaros los bancos de imágenes con los que trabajamos en la agencia siempre que nos hace falta alguna imagen.
 

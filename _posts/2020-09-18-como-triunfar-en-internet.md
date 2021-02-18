@@ -2,7 +2,7 @@
 layout: post
 title: Cómo triunfar en Internet
 subtitle: 4 pilares fundamentales para que tu marca tenga una presencia online impecable
-permalink: blog/como-triunfar-en-internet
+permalink: blog/como-triunfar-en-internet/
 tags:
   - Marketing
   - Publicidad

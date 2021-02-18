@@ -3,7 +3,7 @@ layout: post
 title: Cómo vincular la cuenta de Instagram con Facebook
 subtitle: ¿Quieres tener tus perfiles enlazados para sacarles el máximo provecho
   a tus anuncios? ¡Te explicamos como hacerlo!
-permalink: blog/vincular-instagram-facebook
+permalink: blog/vincular-instagram-facebook/
 tags:
   - Facebook
   - Instagram

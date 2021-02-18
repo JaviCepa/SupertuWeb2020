@@ -8,7 +8,7 @@ author: María Araujo
 date: 2020-07-17T11:38:43.858Z
 image: /img/upload/como-sacarle-el-maximo-partido-a-tu-perfil-de-google-my-business.png
 description: Máximo rendimiento de tu negocio en Google My Business
-permalink: blog/optimizar-google-my-business
+permalink: blog/optimizar-google-my-business/
 ---
 # Empecemos por lo básico, ¿qué es Google My Business?
 
