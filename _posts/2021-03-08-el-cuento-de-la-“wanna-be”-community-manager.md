@@ -10,7 +10,7 @@ tags:
 author: Espe Olea
 date: 2021-03-08T11:21:11.589Z
 image: /img/upload/_supertu-blog-1-.png
-social_media_image: /img/upload/_supertu-blog-1-.png
+social_media_image: /img/upload/_supertu-blog.png
 seotitle: El cuento de la wanna be Community Manager
 description: community manager
 keywords: community manager
@@ -73,8 +73,8 @@ Ha sido emocionante ver mi copy e ideas en las cuentas de nuestros clientes. Ha 
 
 
 
-##### **Estar online, pero siendo una persona real.** 
+###### **Estar online, pero siendo una persona real.** 
 
-##### **Informar pero también educar a tus comunidades.**
+###### **Informar pero también educar a tus comunidades.**
 
-##### Y sobre todo: ¡diviértete haciéndolo!
+###### Y sobre todo: ¡diviértete haciéndolo!
