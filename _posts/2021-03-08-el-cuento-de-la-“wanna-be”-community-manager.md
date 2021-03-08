@@ -70,7 +70,11 @@ Ha sido emocionante ver mi copy e ideas en las cuentas de nuestros clientes. Ha 
 
 
 
+
+
 #### **Estar online, pero siendo una persona real. Informar pero también educar a tus comunidades.**
+
+
 
 
 
