@@ -8,5 +8,5 @@ description: En constante aprendizaje en el mundo de la comunicación. Dinámi
 telephone: (0034) 623 025 248
 position: Social Media Manager
 linkedin: https://www.linkedin.com/in/paloma-padr%C3%B3n-ba84b8103/
-image: /img/upload/diseño-sin-título-4-.png
+image: /img/upload/paloma.png
 ---

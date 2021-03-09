@@ -6,7 +6,7 @@ description: >-
   disfrutar de la vida y del trabajo en equipo. Cuando un profesional tiene la
   suerte de dedicarse a lo que le gusta y de <b>rodearse de los mejores</b>, ¿qué puede
   fallar? ¡Mi caso 100%!
-telephone: TBD
+telephone: Social media manager
 position: TBD
 quote: Lorem ipsum dolor sit amet
 order: 4

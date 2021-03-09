@@ -9,8 +9,8 @@ tags:
   - Redes sociales
 author: Espe Olea
 date: 2021-03-08T11:21:11.589Z
-image: /img/upload/_supertu-blog-1-.png
-social_media_image: /img/upload/_supertu-blog.png
+image: /img/upload/wanna-be.png
+social_media_image: /img/upload/wanna-be-letras.png
 seotitle: El cuento de la wanna be Community Manager
 description: community manager
 keywords: community manager
