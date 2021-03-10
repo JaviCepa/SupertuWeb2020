@@ -23,7 +23,7 @@ Me gusta pensar que soy una mujer ingeniosa y actualizada gracias a mi adicción
 
 Lo primero que hacemos aquí en Supertú es conocer a nuestros clientes, estoy hablando de  **"cuéntanos tus sueños, temores y el nombre de tu primer hijo"**. Esta conexión ha sido clave en el éxito de la empresa. Veo que mis compañeros tienen una "buena onda" con sus clientes y al final del día es como tener un Community Manager en su propia empresa, porque estamos muy presentes.
 
-### **2.- Crea y crece comunidades**
+### **2.- Crea y aumenta comunidades**
 
 Este es el objetivo pero, ¿cómo lo hacemos? 
 
