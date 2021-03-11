@@ -9,8 +9,8 @@ tags:
   - Marketing
 author: Espe Olea
 date: 2021-03-11T10:23:45.679Z
-image: ""
-social_media_image: ""
+image: /img/upload/_supertu-blog-1-.jpg
+social_media_image: /img/upload/_supertu-blog.jpg
 seotitle: Tik tok empresas
 description: tik tok empresas
 keywords: "tik tok "
