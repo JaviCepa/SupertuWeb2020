@@ -9,8 +9,8 @@ tags:
   - Marketing
 author: Espe Olea
 date: 2021-03-11T10:23:45.679Z
-image: /img/upload/_supertu-blog-2-.png
-social_media_image: /img/upload/_supertu-blog-3-.png
+image: ""
+social_media_image: ""
 seotitle: Tik tok empresas
 description: tik tok empresas
 keywords: "tik tok "
@@ -37,17 +37,15 @@ Ponte delante de un folio, esboza ideas, mira contenido de otros (¡mucho conten
 
 [![](/img/upload/captura-de-pantalla-2021-03-08-a-las-12.20.43.png)](/img/upload/captura-de-pantalla-2021-03-08-a-las-12.20.43.png)
 
-Después de este overview para situarte un poco, te comentamos las diferentes conclusiones que hemos sacado a la hora de ejecutar estrategias de Tik Tok para marcas Lo primero que notamos es que hace falta dedicarles mucho tiempo, y no tiempo de una empresa externa que te lo gestione, sino tiempo tuyo y de tu equipo destinado a grabar contenido. Aunque nosotros como agencia, te montemos el contenido y lo publiquemos, las grabaciones deben correr de tu parte, ¿os sobra algo de tiempo de la jornada laboral?
+Después de este overview para situarte un poco, te comentamos las diferentes conclusiones que hemos sacado a la hora de ejecutar estrategias de **Tik Tok** para marcas Lo primero que notamos es que hace falta dedicarles mucho tiempo, y no tiempo de una empresa externa que te lo gestione, sino **tiempo tuyo y de tu equipo destinado a grabar contenido.** Aunque nosotros como agencia, te montemos el contenido y lo publiquemos, las grabaciones deben correr de tu parte, ¿os sobra algo de tiempo de la jornada laboral?
 
-Si tu respuesta es que sí, vamos al turrón. La rentabilidad de Tik Tok para marcas, por ahora, no deja de ser un océano de corrientes impredecibles y dudosamente rentables.  Ahora bien, existen las campañas de publicidad, que son la forma más interesante que ofrece a día de hoy esta red social para generarle negocio a las marcas. Anuncios en formato de vídeo creado específicamente para Tik Tok con un toque irreverente y desenfadado para un target de edad de 16 a 24 años (Generación Z). 
+Si tu respuesta es que sí, vamos al turrón. La rentabilidad de **Tik Tok** para marcas, por ahora, no deja de ser un océano de corrientes impredecibles y dudosamente rentables.  Ahora bien, existen las campañas de publicidad, que son la forma más interesante que ofrece a día de hoy esta red social para generarle negocio a las marcas. Anuncios en formato de vídeo creado específicamente para **Tik Tok** con un toque irreverente y desenfadado para un target de edad de 16 a 24 años (Generación Z). 
 
-Los resultados aún quedan lejos de otras formas de social ads más interesantes como por ejemplo las campañas de captación de leads de Facebook pero, no debemos perder de vista a esta reina de corazones que poco a poco va modificando el tipo de campañas que permite y cómo ayudar a las marcas a hacer negocio gracias a ella. 
+Los resultados aún quedan lejos de **otras formas de social ads** más interesantes como por ejemplo las campañas de captación de leads de Facebook pero, no debemos perder de vista a esta reina de corazones que poco a poco va modificando el tipo de campañas que permite y cómo ayudar a las marcas a hacer negocio gracias a ella. 
 
 Seguiremos monitorizando su avance, sacando conclusiones y contándolas por este blog.
 
 Gracias por leernos,
-
-
 
 Espe Olea
 
