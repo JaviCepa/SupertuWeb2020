@@ -24,17 +24,13 @@ No te preocupes, la parálisis que te supone sentarte a crear contenido para tu 
 
 No te estamos incitando a copiar, que conste. Te estamos recomendando que la mejor manera de crear contenido molón evitando sentarse delante del folio en blanco, ¡es bichear! Nosotras solemos hacer listas de seguimiento que nos sirven para inspirarnos así como guardar post de marcas en IG. Luego le damos un vuelco, las repensamos y suelen no parecerse en nada a la idea que vimos inicialmente, pero nos mucho ayudan a salir del bloqueo. 
 
-
-
 [![](https://media2.giphy.com/media/3ohc0Rnm6JE0cg0RvG/giphy.gif)](https://media2.giphy.com/media/3ohc0Rnm6JE0cg0RvG/giphy.gif)
 
 **2_ Pregúntale al de al lado:**
 
-Cuando trabajas con una sola marca en redes sociales, después del primer, segundo, tercer y cuarto mes… Suele llegar una pequeña crisis creativa. Sentarte con un compañero de trabajo suele ayudarte a imaginar la marca desde otro punto de vista y a replantear nuevos escenarios.
+Cuando trabajas con una sola marca en **redes sociales**, después del primer, segundo, tercer y cuarto mes… Suele llegar una pequeña crisis creativa. Sentarte con un compañero de trabajo suele ayudarte a imaginar la marca desde otro punto de vista y a replantear nuevos escenarios.
 
-Si tus coworkers no te ayudan, o directamente no los tienes, pregunta a amigos ¡entre una cosa y otra alguna idea chula cazarás!
-
-
+Si tus coworkers no te ayudan, o directamente no los tienes, pregunta a amigos **¡entre una cosa y otra alguna idea chula cazarás!**
 
 [![](https://media1.giphy.com/media/l2RnrZ5URYCfZ37eE/giphy.gif)](https://media1.giphy.com/media/l2RnrZ5URYCfZ37eE/giphy.gif)
 
@@ -44,14 +40,14 @@ Una vez has prospectado varias opciones, sueles tener más ideas de lo normal. A
 
 **4_ Crea concursos y sorteos: ¡Haz que la comunidad se mueva!** 
 
-Igual que te gusta que alguien te sorprenda de vez en cuando con algún detalle, a tus seguidores también les gustará que te acuerdes de ellos y les hagas un regalo. Piensa en ellos y en ti, elige un regalo que cuadre con tu marca, con tu filosofía de empresa y, a la vez, con tus seguidores. Elige un producto que sea atractivo, no vale sortear bolsas de plástico 😝
+Igual que te gusta que alguien te sorprenda de vez en cuando con algún detalle, a tus seguidores también les gustará que te acuerdes de ellos y les hagas un regalo. Piensa en ellos y en ti, **elige un regalo que cuadre con tu marca, con tu filosofía de empresa y, a la vez, con tus seguidores.** Elige un producto que sea atractivo, no vale sortear bolsas de plástico 😝
 
 ¡Suerte!
 
-[![](https://media4.giphy.com/media/jltuIcAMViLHYaz9bN/giphy.gif)](https://media4.giphy.com/media/jltuIcAMViLHYaz9bN/giphy.gif)
+[![]()]()
 
 **5_ Enséñale tu alma al diablo:**
 
-Si hay algo que funciona en las redes sociales de un negocio local, esas sin dudas son las fotos del personal y el insight del negocio. Hazle fotos a tu equipo o cuenta los entresijos de aquello en lo que andas metido cada día. Conseguirás ser un prescriptor en tu sector y hacer que tu comunidad se involucre más en tu día a día. 
+Si hay algo que funciona en las **redes sociales** de un negocio local, esas sin dudas son las fotos del personal y el insight del negocio. Hazle fotos a tu equipo o cuenta los entresijos de aquello en lo que andas metido cada día. Conseguirás ser un prescriptor en tu sector y hacer que tu comunidad se involucre más en tu día a día. 
 
-Si este post ha conseguido contagiarte de entusiasmo y ganas, abre un excel y empieza a volcar ideas, ¡la creatividad te está esperando!
+Si este post ha conseguido contagiarte de entusiasmo y ganas, abre un excel y empieza a volcar ideas, **¡la creatividad te está esperando!**
