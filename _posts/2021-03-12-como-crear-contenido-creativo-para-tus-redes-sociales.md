@@ -9,7 +9,7 @@ tags:
   - Marketing
 author: Espe Olea
 date: 2021-03-12T08:48:43.266Z
-hidden: true
+hidden: false
 image: /img/upload/blog-.png
 social_media_image: /img/upload/contenido.png
 ---
