@@ -26,7 +26,7 @@ No te estamos incitando a copiar, que conste. Te estamos recomendando que la mej
 
 
 
-[![](<https://giphy.com/gifs/crazy-ex-girlfriend-ex-girlfriend-the-cw-3ohc0Rnm6JE0cg0RvG>)](<https://giphy.com/gifs/crazy-ex-girlfriend-ex-girlfriend-the-cw-3ohc0Rnm6JE0cg0RvG>)
+[![](crazy-ex-girlfriend-ex-girlfriend-the-cw-3ohc0Rnm6JE0cg0RvG)](crazy-ex-girlfriend-ex-girlfriend-the-cw-3ohc0Rnm6JE0cg0RvG)
 
 **2_ Pregúntale al de al lado:**
 
@@ -36,7 +36,7 @@ Si tus coworkers no te ayudan, o directamente no los tienes, pregunta a amigos �
 
 
 
-[![](**<https://giphy.com/gifs/fastcompany-fast-company-l2RnrZ5URYCfZ37eE>**)](**<https://giphy.com/gifs/fastcompany-fast-company-l2RnrZ5URYCfZ37eE>**)
+[![](https://giphy.com/gifs/fastcompany-fast-company-l2RnrZ5URYCfZ37eE)](https://giphy.com/gifs/fastcompany-fast-company-l2RnrZ5URYCfZ37eE)
 
 **3_ Si te llega la inspiración, ¡qué te pille trabajando!** 
 
@@ -48,7 +48,7 @@ Igual que te gusta que alguien te sorprenda de vez en cuando con algún detalle,
 
 ¡Suerte!
 
-[![](**<https://giphy.com/gifs/TELUS-surprise-frog-telus-jltuIcAMViLHYaz9bN>**)](**<https://giphy.com/gifs/TELUS-surprise-frog-telus-jltuIcAMViLHYaz9bN>**)
+[![](https://giphy.com/gifs/TELUS-surprise-frog-telus-jltuIcAMViLHYaz9bN)](https://giphy.com/gifs/TELUS-surprise-frog-telus-jltuIcAMViLHYaz9bN)
 
 **5_ Enséñale tu alma al diablo:**
 
