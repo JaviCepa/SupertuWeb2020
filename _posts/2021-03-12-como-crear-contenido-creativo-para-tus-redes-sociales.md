@@ -38,7 +38,7 @@ Si tus coworkers no te ayudan, o directamente no los tienes, pregunta a amigos �
 
 [![](**<https://giphy.com/gifs/fastcompany-fast-company-l2RnrZ5URYCfZ37eE>**)](**<https://giphy.com/gifs/fastcompany-fast-company-l2RnrZ5URYCfZ37eE>**)
 
-**3_ Si te llega la inspiración, ¡qué te pille trabajando!**
+**3_ Si te llega la inspiración, ¡qué te pille trabajando!** 
 
 Una vez has prospectado varias opciones, sueles tener más ideas de lo normal. Anótalas en un documento que vayas nutriendo cada vez que esto te suceda. Todas las iniciativas que te propongan los demás, anótalas también en este documento, que las hayas descartado en su momento no significa que no te vayan a encajar en el futuro.
 
