@@ -24,8 +24,6 @@ No te preocupes, la parálisis que te supone sentarte a crear contenido para tu 
 
 No te estamos incitando a copiar, que conste. Te estamos recomendando que la mejor manera de crear contenido molón evitando sentarse delante del folio en blanco, ¡es bichear! Nosotras solemos hacer listas de seguimiento que nos sirven para inspirarnos así como guardar post de marcas en IG. Luego le damos un vuelco, las repensamos y suelen no parecerse en nada a la idea que vimos inicialmente, pero nos mucho ayudan a salir del bloqueo. 
 
-
-
 [![](crazy-ex-girlfriend-ex-girlfriend-the-cw-3ohc0Rnm6JE0cg0RvG)](crazy-ex-girlfriend-ex-girlfriend-the-cw-3ohc0Rnm6JE0cg0RvG)
 
 **2_ Pregúntale al de al lado:**
@@ -34,9 +32,7 @@ Cuando trabajas con una sola marca en redes sociales, después del primer, segun
 
 Si tus coworkers no te ayudan, o directamente no los tienes, pregunta a amigos ¡entre una cosa y otra alguna idea chula cazarás!
 
-
-
-[![](https://giphy.com/gifs/fastcompany-fast-company-l2RnrZ5URYCfZ37eE)](https://giphy.com/gifs/fastcompany-fast-company-l2RnrZ5URYCfZ37eE)
+[![](https://media1.giphy.com/media/l2RnrZ5URYCfZ37eE/giphy.gif)](https://media1.giphy.com/media/l2RnrZ5URYCfZ37eE/giphy.gif)
 
 **3_ Si te llega la inspiración, ¡qué te pille trabajando!** 
 
