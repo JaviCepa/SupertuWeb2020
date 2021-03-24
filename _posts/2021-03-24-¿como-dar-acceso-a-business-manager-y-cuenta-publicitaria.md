@@ -9,11 +9,13 @@ tags:
 author: Marina Aneas
 date: 2021-03-24T07:52:52.185Z
 hidden: false
-image: /img/upload/_supertu-blog-13-.png
-social_media_image: /img/upload/_supertu-blog-12-.png
+image: /img/upload/fb-business-rrss.png
+social_media_image: /img/upload/fb-business.png
 seotitle: facebook-business-manager
 ---
 **Facebook Business Manager**  es una herramienta de gestión para poder administrar todas tus acciones de publicidad en **Facebook e Instagram** desde el mismo lugar.
+
+
 
 Con esta herramienta, puedes tener diferentes páginas de Facebook, cuentas publicitarias, perfiles de Instagram o píxeles, entre otros recursos. 
 
