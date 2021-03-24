@@ -11,6 +11,7 @@ date: 2021-03-24T07:52:52.185Z
 hidden: false
 image: /img/upload/_supertu-blog-13-.png
 social_media_image: /img/upload/_supertu-blog-12-.png
+seotitle: facebook-business-manager
 ---
 **Facebook Business Manager**  es una herramienta de gestión para poder administrar todas tus acciones de publicidad en **Facebook e Instagram** desde el mismo lugar.
 
@@ -22,9 +23,7 @@ Si ya tienes un perfil creado y quieres dar acceso a las personas que van a gest
 
 **1)** Primero, debes entrar en la plataforma del negocio de Facebook, [pinchando aquí](https://business.facebook.com/)
 
-[![](/img/upload/_supertu-blog-8-.png)](/img/upload/_supertu-blog-8-.png)
-
-
+[![](/img/upload/plataforma.png)](/img/upload/plataforma.png)
 
 **2)** Si no estás logueado, loguéate con el usuario y contraseña de Facebook con el que tengas acceso al perfil. 
 
@@ -37,8 +36,6 @@ Posteriormente selecciona el negocio en el que quieres dar acceso (debe salir un
 
 ![](https://lh4.googleusercontent.com/p-eEl2q6hJxINiZ50ksXJ8lQu9Ldixhc47Gsp38L2L1a11NHcNK0S--eWbLYiAjqNaiC7PJvKOJziDwjujMqoNYnM70MZeJLfs7_-N8pXXqPvdskxWA0JAboJQ-jfVqW_fefQoWL)
 
-
-
 **4)** Pincha en la configuración del negocio, esta es la pantalla que debes ver. Fíjate en la columna de la izquierda y pincha en:
 
 **"Usuarios"** -> **"Personas"** -> **“Añadir”**
@@ -47,11 +44,7 @@ Se te abrirá un pop up como el que ves a la derecha de la imagen:
 
 **Escribe el mail al que vas a dar acceso -> Seleccionas todos los accesos disponibles -> Siguiente**
 
-
-
 ![](https://lh6.googleusercontent.com/IOM7am6Fd6Pd21sA3ddT_zFYEMxOxiodaWYr-Gh1ZSKZcYonQfAV8d5LagyCQYTKjJ7m_JWzY81y80Vv1INKOovf2M7WqbnfP_G-U-0NWFKN5--YtFrv4XxKKMwIKNbj1gaSWBuf)
-
-
 
 **5)** Por último, debes seleccionar en la columna izquierda del popup las pestañas de 
 
@@ -59,10 +52,6 @@ Se te abrirá un pop up como el que ves a la derecha de la imagen:
 
 "Página" (círculo naranja suave) -> Seleccionar, en las columnas que aparecerán a la derecha del pop up, todos los accesos (círculo naranja chillón).
 
-
-
-
-
-[![](/img/upload/_supertu-blog-11-.png)](/img/upload/_supertu-blog-11-.png)
+[![](/img/upload/acceso.png)](/img/upload/acceso.png)
 
 ¡Y listo!
