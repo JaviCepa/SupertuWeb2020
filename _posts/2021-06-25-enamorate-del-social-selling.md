@@ -10,8 +10,8 @@ tags:
   - Redes sociales
 author: Espe Olea
 date: 2021-06-25T11:32:13.536Z
-image: /img/upload/socialselling.png
-social_media_image: /img/upload/socialsellingmininiatura.jpg
+image: ""
+social_media_image: /img/upload/19.jpg
 seotitle: "social selling "
 description: publicidad en redes sociales
 keywords: redes sociales, publicidad, instagram, facebook, ventas
