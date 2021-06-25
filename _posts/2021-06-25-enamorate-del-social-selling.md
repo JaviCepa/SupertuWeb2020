@@ -11,7 +11,7 @@ tags:
 author: Espe Olea
 date: 2021-06-25T11:32:13.536Z
 image: ""
-social_media_image: /img/upload/19.jpg
+social_media_image: /img/upload/socialsellingmininiatura.jpg
 seotitle: "social selling "
 description: publicidad en redes sociales
 keywords: redes sociales, publicidad, instagram, facebook, ventas
