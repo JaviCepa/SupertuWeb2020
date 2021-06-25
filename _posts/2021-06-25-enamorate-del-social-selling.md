@@ -47,13 +47,11 @@ Los datos que les vuelca este tipo de campañas son tan útiles como los siguien
 
 ![](https://lh6.googleusercontent.com/uJTcYwZK7-G0TSqfsUkm1vFLDF1gOYqEWld6MxpDichKXOW4TkVzowKIEgcjXL63erqsAdxb1oEM3dctilEhTymbK3o_rb_2-cC0GmY1RT44mNMhQsn97QRR7QhFubfy-yco4E4)
 
-
-
 Si te ha gustado lo que acabas de ver, entiendo que quieres saber más acerca de cómo utilizar el social selling de manera adecuada. 
 
 Sigue leyendo.
 
-{% include embed-contact.html message="Esto aparece en la cabecera" button="Esto aparece en el botón" %}
+{% include embed-contact.html message="Quiero vender vía redes sociales" button="YA" %}
 
 ¿Qué necesito para que el *social selling* me funcione?
 
@@ -84,7 +82,5 @@ Los documentos que compartimos con los clientes que reflejan los leads son algo 
 Teniendo estas tres patas de tu negocio listas, solo te hace falta frotarte las manos y disfrutar de la aventura. Esperamos que te entusiasmes con esto tanto como nosotras porque:
 
 Creedme, funciona.
-
-
 
 *Si quieres llevar tus redes sociales a un nivel más profesional, puedes ponerte en contacto con nosotras a través del formulario de contacto que encontrarás al final de esta página o llamándonos al 653903359.*
