@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cómo integrar el chat de Facebook a tu página web
-subtitle: Mantén activa tu comunicación con tus clientes
+subtitle: Mantén activa la comunicación con tus clientes
 permalink: blog/integrar-chat-facebook-web
 tags:
   - Facebook
