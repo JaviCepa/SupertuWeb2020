@@ -5,8 +5,8 @@ subtitle: Te damos las claves para aumentar tu visibilidad
 permalink: blog/claves-instagram-reels
 author: Paloma Padrón
 date: 2021-07-15T12:48:38.163Z
-image: /img/upload/copia-de-supertu-blog-1-.png
-social_media_image: /img/upload/copia-de-supertu-blog-2-.png
+image: /img/upload/copia-de-supertu-blog-2-.png
+social_media_image: /img/upload/copia-de-supertu-blog-1-.png
 ---
 Instagram nos sorprendió lanzando esta funcionalidad, **Instagram reels**, hace casi un año y es que esta red social no se queda atrás a la hora de reinventarse. 
 
