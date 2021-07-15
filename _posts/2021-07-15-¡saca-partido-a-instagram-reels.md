@@ -8,7 +8,7 @@ date: 2021-07-15T12:48:38.163Z
 image: /img/upload/copia-de-supertu-blog-2-.png
 social_media_image: /img/upload/copia-de-supertu-blog-1-.png
 ---
-Instagram nos sorprendió lanzando esta funcionalidad, **Instagram reels**, hace casi un año y es que esta red social no se queda atrás a la hora de reinventarse. 
+Instagram nos sorprendió lanzando esta funcionalidad, **Instagram reels**, hace casi un año; y es que esta red social no se queda atrás a la hora de reinventarse. 
 
 Si eres un apasionado de Tik Tok, ([descubre más en este post](https://supertu.es/blog/marketing-digital-tiktok)), esta función te resultará coser y cantar, ya que son semejantes: vídeos cortos en los que se premia a la imaginación. Pero si aún así, no das con la tecla, ¡te dejamos algunos trucos para que se disparen tus visualizaciones! 
 
@@ -31,20 +31,14 @@ Descubre los challenge más repetidos este último año, ¡es el momento de empe
   No te quedes atrás, y actualízate a diario para sacarle el máximo partido. Puedes utilizarlo para tener un aspecto envidiable, o elegir los más divertidos para ser original, estos últimos son nuestros favoritos. 
 
   Una opción para encontrar los mejores filtros es buscar algunos de los más populares. Busca recopilaciones de filtros temáticos. Por ejemplo, puedes encontrar colecciones de filtros de Verano o Navidad.
-
-
 * **La velocidad importa** 
 
   Ralentizar el tiempo, acelerar algunos clips... la velocidad no es algo fijo, por lo que puedes variarla para destacar una parte o darle un toque de humor a tu reels. 
-
-
 * **¡Qué no se noten los saltos!** 
 
   Si quieres unir varios clips en un vídeo corto, puede ser complicado. Para ello, instagram cuenta con la herramienta ghost, que nos permite alinear clips. 
 
   Con esta herramienta se crea una capa semitransparente para indicarte la posición de los objetos en el último frame, así, podrás colocar todo igual que estaba y grabar un nuevo vídeo. Esta herramienta es indispensable para los vídeos en los que te cambias de ropa o vas incluyendo amigos o nuevos objetos al vídeo. 
-
-
 
 #### 3.- No te olvides de los hashtags 
 
