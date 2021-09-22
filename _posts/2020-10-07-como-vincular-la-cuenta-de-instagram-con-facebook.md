@@ -8,7 +8,7 @@ tags:
   - Facebook
   - Instagram
   - Redes sociales
-author: María Araujo
+author: Espe Olea
 date: 2020-10-07T07:11:37.314Z
 image: /img/upload/14.png
 social_media_image: /img/upload/13.png
