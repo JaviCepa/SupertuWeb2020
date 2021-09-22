@@ -6,7 +6,7 @@ permalink: blog/facebook-business-manager
 tags:
   - Facebook
   - Redes sociales
-author: Marina Aneas
+author: María Araujo
 date: 2021-03-24T07:52:52.185Z
 hidden: false
 image: /img/upload/fb-business-rrss.png
