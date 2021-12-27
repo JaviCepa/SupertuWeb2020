@@ -15,15 +15,16 @@ Subir vídeos a Instagram está de moda, ¡esto no se puede discutir!
 
 Usar IGTV desde la aplicación móvil de Instagram es muy sencillo, nosotras te enseñamos el paso a paso para que te conviertas en una experta y no te pierdas ni un detalle del proceso:
 
+
+
 1. Haz clic en el símbolo ‘+’ que se encuentra en el menú inferior de la app.
 2. Escoge el video que quieras subir y pulsa siguiente (recuerda que no admite vídeos en formato cuadrado, tendrá que ser en horizontal o vertical). 
-3. Selecciona la opción de ‘vídeo largo’ para poder subir un vídeo de más de 60 segundos a la plataforma. 
-
-¡Ten cuidado! si seleccionas la opción ‘vídeo corto’, el video se cortará en ese momento y no se subirá el resto. 
-
+3. Selecciona la opción de ‘vídeo largo’ para poder subir un vídeo de más de 60 segundos a la plataforma. ¡Ten cuidado! si seleccionas la opción ‘vídeo corto’, el video se cortará en ese momento y no se subirá el resto. 
 4. Añade un título y una descripción que encajen con el vídeo que estás subiendo. 
 5. Selecciona una portada para el video, deslizando la imagen de la parte inferior de la pantalla.
 6. Por último, haz clic en ‘publicar’ y ¡tu vídeo estará listo!
+
+
 
 Otra cuestión a tener en cuenta es: ¿qué formato tiene que tener mi vídeo? 
 
