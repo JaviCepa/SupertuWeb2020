@@ -55,6 +55,4 @@ No te olvides de la papelería**
 
 Es una parte fundamental para el diseño de una imagen corporativa. Es importante de cara al público que los diseños sean únicos y que incluyan el logotipo de la empresa, así crearemos una buena impresión a los posibles clientes.
 
- 
-
 Estos son los elementos a tener en cuenta que consideramos vitales, pero también hay otros como la cara al público, las opiniones, etc. Tener unificada nuestra identidad corporativa nos hará parecer una marca sólida y 100% fiable.
