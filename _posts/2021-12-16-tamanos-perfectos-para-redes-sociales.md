@@ -16,6 +16,8 @@ Te traemos la **guía perfecta para saber cuál es el tamaño de las imágenes y
 
 ¡Comenzamos! Te enseñamos los formatos recomendados para: 
 
+
+
 **Tamaño de las imágenes en Facebook:**
 
 * Fotografía de perfil: escritorio 180 x 180 y móvil 128 x 128
