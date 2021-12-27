@@ -31,12 +31,12 @@ Conociendo su importante, te hacemos unas recomendaciones para que tu engagement
 8. **Realiza sorteos:** sin duda esto hará que accedan a tu cuenta muchos usuarios nuevos, lo realmente difícil es conservarlos. 
 9. **Analiza los resultados:** para dar con la tecla debes calcular el engagement rate de todas las publicaciones en redes sociales. Usa la táctica ensayo y error, averigua qué tipo de publicaciones gustan más y cuáles menos. 
 
+
+
 El **engagement** te ayuda a medir también el éxito de tus estrategias social media. 
 
 ¿No sabes medirlo? ¡Te ayudamos! 
 
 La manera más conocida de hacerlo es analizar el número de interacciones (me gustas, comentarios, compartidos y guardados) durante un periodo determinado, después lo divides entre el número de seguidores actual y lo multiplicas por 100.![](https://lh5.googleusercontent.com/ZlaXnslxKk6vPYnGsuJ_Rhkamt4uC_q4jkmTXAV5PqrN8FpYx6D-_E42Li6J_6ukaZzRpqxNJhb_AiPPMqJvWVYBupzV2aviCYFoC3EO3WEELQYgnow9P9pRAKhyOLWymgKX0RU7)
-
-
 
 Por ejemplo, en **Instagram** los expertos consideran que un buen engagement rate estaría entre el 1% y el 5%. Si tu cuenta está por debajo de estas cifras… ¡dale caña a nuestros consejos y verás resultados!
