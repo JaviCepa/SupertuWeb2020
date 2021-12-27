@@ -22,15 +22,21 @@ Desde Supertú te recomendamos una serie de herramientas básicas que harán tu 
 * **Trello:** es muy visual e intuitivo y facilita la gestión y supervisión de las diferentes tareas de un proyecto.
 * **IFTTT:** permite configurar avisos personalizados: nuevos seguidores en redes, comentarios, mensajes directos, etc. Tiene una gran conectividad con todas las redes.
 
+
+
 **Administradores de Redes Sociales:**
 
 * **Hootsuite**: es uno de los gestores de contenido más completos, populares e intuitivos. Hay una versión gratuita (permite hasta cinco cuentas en tres redes sociales) y una de pago, permitiendo administrar Twitter, Facebook, Instagram, LinkedIn, YouTube y Pinterest. Se puede acortar links y programar mensajes.  Además, incorpora una opción donde podrás ver la interacción de la audiencia. La propia herramienta ofrece tutoriales y cursos con los que mejorar las habilidades de un community manager.
-* **Buffer**: hay una versión gratuita (permite administrar hasta tres redes sociales y programar diez publicaciones) y una de pago. Permite elaborar un calendario editorial en Twitter, Facebook, Instagram, LinkedIn y Pinterest. También propone los mejores horarios para publicar, puedes programarlo manualmente. Cuenta con un editor  de imágenes que resulta muy útil para crear contenido de calidad, se llama Pablo.
+* **Buffer**: hay una versión gratuita (permite administrar hasta tres redes sociales y programar diez publicaciones) y una de pago. Permite elaborar un calendario editorial en Twitter, Facebook, Instagram, LinkedIn y Pinterest. También propone los mejores horarios para publicar, puedes programarlo manualmente. Cuenta con un editor  de imágenes que resulta muy útil para crear contenido de calidad.
+
+
 
 **Imágenes:**
 
 * **Canva**: puedes crear elementos gráficos con facilidad. También puedes subir imágenes, añadir textos y personalizar tus plantillas. Hay una versión gratuita y una de pago premium (con más plantillas y recursos).
 * **Thinglink**: puedes realizar imágenes y vídeos interactivos con enlaces propios que redirijan a tu sitio web. Es muy fácil de usar y la versión gratuita es muy completa.
+
+
 
 **Monitorización:**
 
