@@ -20,6 +20,8 @@ Estas son las algunas de las cuestiones más importantes que podrás responder a
 * Personalizar mensajes con los que ofrecer respuestas rápidas a quienes quieran conocer la información de contacto o la ubicación de tu empresa.
 * Preguntar a tu audiencia qué opina.
 
+
+
 Como **requisito** esencial debes ser administrador, editor o moderador de una página de Facebook. Si lo cumples, solo tienes que seguir estos sencillos **pasos**: 
 
 1. Ve a la sección de Facebook en Creator Studio.
@@ -39,5 +41,7 @@ Estos son los **tipos de respuestas** que puedes configurar en Facebook una vez 
 * **Recomendación de la página**: responde a aquellas personas que han compartido públicamente que recomiendan tu página. Se envía diez minutos después de que alguien comparta públicamente que recomienda tu página.
 * **No recomendación de la página**: responde a aquellas personas que han compartido públicamente que no recomiendan tu página. Se envía diez minutos después de que alguien comparta públicamente que no recomienda tu página.
 * **Solicitud recibida**: responde a aquellas personas que han enviado su solicitud a una oferta de empleo que has publicado en tu página. Se envía al instante. 
+
+
 
 ¿Crees que alguna de estas opciones puede encajar con tu negocio? Nosotras pensamos que es una herramienta muy útil, ¡ahorramos mucho tiempo con ella!
