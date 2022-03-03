@@ -15,8 +15,6 @@ Una **paleta de colores** es el conjunto de tonalidades elegidas para ser usados
 
 Una buena paleta debe tener en cuenta la psicología del color, ya que es un aspecto importante que condiciona mucho nuestra percepción.
 
-
-
 Lo ideal es que la paleta se componga de 10 colores: 
 
 * **Color principal**: el que define a nuestra marca.
@@ -37,7 +35,5 @@ A continuación, te contamos cuáles son los **significados de los colores**, es
 * **Blanco**: implica inocencia, pureza y evoca sentimientos de igualdad. Ayuda en momentos de estrés. Representa pureza, limpieza, bondad e inocencia.
 * **Gris**: transmite equilibrio y neutralidad, mejor usar en pequeñas dosis para transmitir elegancia y evitar aburrir.
 * **Negro**: es el color más elegante, misterioso, oscuro y poderoso. Transmite sofisticación, pero también puede evocar ira y tristeza. Evoca emociones fuertes.
-
-
 
 ¿Ya sabes de qué color te gustaría que fuera tu marca? ¡Cuéntanoslo!
