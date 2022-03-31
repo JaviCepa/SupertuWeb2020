@@ -1,6 +1,6 @@
 ---
 layout: post
-title: El Kit Digital
+title: "El Kit Digital: Qué es y cómo se puede solicitar"
 subtitle: Qué es y cómo se puede solicitar
 permalink: blog/kit-digital
 tags:
