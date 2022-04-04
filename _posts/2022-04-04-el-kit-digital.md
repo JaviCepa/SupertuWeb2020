@@ -34,6 +34,8 @@ El Kit Digital está diseñado para PYMEs,  y para poder obtener estas subvenci
 
 
 
+
+
 ¿Qué abarcan las ayudas del Kit Digital?
 
 Las ayudas del Kit Digital cubren gastos dependiendo del tamaño de la empresa (dependiendo del número de empleados). Dependiendo de este número, podrás conseguir una ayuda máxima de estos importes: 
@@ -46,13 +48,20 @@ Hasta 2.000€ de subvención para empresas que tengan entre 1-2 empleados/as.
 
 La subvención se le dará a la empresa en una especie de ‘bono digital’ el cual se podrá utilizar para comprar soluciones digitales (hasta que el bono se acabe). 
 
-**\
-Cómo solicitar el Kit Digital**
+
+
+
+
+**Cómo solicitar el Kit Digital**
 
 1. Deberás estar registrado en la página web [www.acelerapyme.es](http://www.acelerapyme.es) y completar un test de autodiagnóstico. Con este registro, permitirá que la cuenta de la empresa pueda acceder a un número de servicios determinados en función de las necesidades que tenga.
 2. Tendrás que consultar el catálogo de soluciones digitales, en el cual podrás seleccionar una o varias de estas soluciones.
 3. Estas subvenciones procedentes del Kit Digital pueden ser solicitadas en la sede electrónica de sede.red.gob.es (Red.es) al haber completado los pasos del formulario correspondiente.
 4. El teléfono gratuito 900 909 001 creado por el Gobierno sirve para informar telemáticamente a las empresas si cumplen o no los requisitos que deben tener para obtener esta ayuda. Además, con este teléfono, se puede ayudar a las empresas a seguir los procedimientos requeridos online.
+
+
+
+
 
 
 
