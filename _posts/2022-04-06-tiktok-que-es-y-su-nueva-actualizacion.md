@@ -13,7 +13,7 @@ social_media_image: /img/upload/xx_blog_texto.jpg
 ---
 Desde 2018, **TikTok** pasó a ser una de las top 10 aplicaciones más descargadas a nivel mundial (concretamente pasó a la cuarta posición- sin tener en cuenta a los juegos). Tuvo casi las mismas descargas en App Store y Google Play que han tenido Whatsapp, Messenger o Facebook, entre otros. Esta aplicación cuenta con 1.190 millones de usuarios activos en todo el mundo, según Statista.
 
-[![](/img/upload/tiktok-logo-2-1.svg)](/img/upload/tiktok-logo-2-1.svg)
+
 
 **¿Qué es TikTok?**
 
@@ -22,8 +22,6 @@ TikTok es una red basada en compartir clips musicales, ya sea añadiendo vídeos
 A principios de 2014, se creó esta aplicación la cual antes se conocía como Musical.ly. En 2018, Musical.ly y TikTok se unieron y desde entonces esta aplicación no ha parado de evolucionar y actualizarse, aumentando así el número de usuarios que se crean un perfil en esta aplicación. 
 
 En plena pandemia de Covid 19, TikTok se convirtió en una de las aplicaciones más usadas en cuarentena. De hecho, ha pasado a estar por delante de Facebook, Instagram, YouTube y Snapchat en lo que a número de descargas se refiere. 
-
-
 
 
 
