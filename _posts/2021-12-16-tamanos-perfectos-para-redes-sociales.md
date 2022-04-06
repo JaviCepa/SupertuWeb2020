@@ -10,15 +10,17 @@ date: 2021-12-16T12:16:33.029Z
 image: /img/upload/whatsapp-image-2021-12-16-at-1.13.42-pm-1-.jpeg
 social_media_image: /img/upload/whatsapp-image-2021-12-16-at-1.13.42-pm.jpeg
 ---
-¿Trabajas con redes sociales y has tenido problemas para subir contenido? 
+¿Trabajas con redes sociales y has tenido dificultades para subir el contenido que querías? 
 
-Te traemos la **guía perfecta para saber cuál es el tamaño de las imágenes y vídeos que puedes subir a cada red social.** 
+En Supertú te ofrecemos la **guía perfecta para saber cuál es el tamaño y formato de las imágenes y vídeos** que puedes subir a cada una de las redes sociales. 
+
+
 
 ¡Comenzamos! Te enseñamos los formatos recomendados para: 
 
 
 
-**Tamaño de las imágenes en Facebook:**
+**Tamaño del contenido para Facebook:**
 
 * Fotografía de perfil: escritorio 180 x 180 y móvil 128 x 128
 * Imagen de portada: escritorio 851 x 315 y móvil 560 x 315 (mejor en formato png)
@@ -30,7 +32,7 @@ Te traemos la **guía perfecta para saber cuál es el tamaño de las imágenes y
 
 
 
-**Tamaño de las imágenes en Instagram:**
+**Tamaño del contenido para Instagram:**
 
 * Fotografía de perfil: 110 x 110
 * Publicaciones cuadradas: 1080 x 1080 (o 640 x 640, en menor calidad)
@@ -43,7 +45,7 @@ Te traemos la **guía perfecta para saber cuál es el tamaño de las imágenes y
 
 
 
-**Tamaño de las imágenes en Twitter:**
+**Tamaño del contenido para Twitter:**
 
 * Fotografía de perfil: 400 x 400
 * Imagen de cabecera: 1500 x 500
@@ -51,7 +53,7 @@ Te traemos la **guía perfecta para saber cuál es el tamaño de las imágenes y
 
 
 
-**Tamaño de las imágenes en LinkedIn:**
+**Tamaño del contenido para LinkedIn:**
 
 * Fotografía de perfil: 400 x 400
 * Imagen de cabecera: 1584 x 369 (4MB de tamaño máximo).
@@ -60,9 +62,7 @@ Te traemos la **guía perfecta para saber cuál es el tamaño de las imágenes y
 * Logotipo de empresa: 300 x 300
 * Imagen de cabecera de empresa: 1584 x 396
 
-
-
-**Tamaño de las imágenes en Youtube:**
+**Tamaño del contenido para Youtube:**
 
 * Fotografía de perfil: 800 x 800 (4MB de tamaño máximo).
 * Imagen de cabecera: 2560 x 1440
@@ -72,29 +72,25 @@ Te traemos la **guía perfecta para saber cuál es el tamaño de las imágenes y
 
 
 
-**Tamaño de las imágenes en TikTok:**
+**Tamaño del contenido para TikTok:**
 
 * Fotografía de perfil: 200 x 200
 * Vídeos: 1080 x 1920
 
-
-
-**Tamaño de las imágenes en Pinterest:**
+**\
+Tamaño del contenido para Pinterest:**
 
 * Fotografía de perfil: 165 x 165 
 * Pin: 600 x 900
 * Fotografía de portada de los tablero: 200 x 200
 * Miniatura de la portada de los tableros: 100 x 100
 
-
-
-**Tamaño de las imágenes en WhatsApp:**
+**\
+Tamaño del contenidopara WhatsApp:**
 
 * Fotografía de perfil: 400 x 400
 * Estado: 1080 x 1920
 
 
 
-Todos estos tamaños se van actualizando constantemente, lo mejor es estar muy atento a cualquier novedad posible.
-
-Ahora que ya sabéis los tamaños de todas las medidas de imágenes y vídeos, ¡toca crear contenido de calidad!
+Todas estas indicaciones se van actualizando constantemente, lo mejor es estar muy atento a cualquier novedad. Ahora que ya sabéis los tamaños de todas las medidas de imágenes y vídeos, os toca crear contenido de calidad. ¡Ánimo!
