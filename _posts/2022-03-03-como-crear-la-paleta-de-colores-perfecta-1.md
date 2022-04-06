@@ -15,16 +15,12 @@ Una **paleta de colores** es el conjunto de tonalidades elegidas para ser usados
 
 Una buena paleta debe regirse por la psicología del color. Esta es la ciencia que estudia las percepciones que proporcionan los colores al ser humano. 
 
-
-
 Lo ideal es que la paleta que diseñemos se componga de diez colores: 
 
 * **Color principal**: este es el que define a la marca en mayor medida.
 * **Color acento**: este es el que se encarga de resaltar los detalles y dar énfasis a lo que necesitemos. Lo mejor es que sea un color análogo al principal.
 * **Cuatro colores semánticos**: azul, rojo, verde y amarillo. Siempre están presentes en todos los diseños, ya que psicológicamente envían mensajes básicos como información, alerta, éxito y aviso.
 * **Cuatro colores neutros**: se obtiene a través del principal, hay que modificar la saturación y el brillo y sin hacer modificaciones del tono.
-
-
 
 A continuación, te contamos cuáles son los significados de los colores. Es una de las cosas más importantes a la hora de escoger el color principal de tu marca, puesto que ya dan unas emociones claras de entrada: 
 
@@ -38,6 +34,4 @@ A continuación, te contamos cuáles son los significados de los colores. Es una
 * **Gris**: transmite equilibrio, elegancia y neutralidad. Puede aburrir, por lo que es preferible usarlo en pequeñas cantidades. 
 * **Negro**: es el color más elegante, sofisticado, misterioso y poderoso. En contrapunto, también puede evocar ira y tristeza. Es un color que evoca emociones fuertes en todos los sentidos. 
 
-
-
-¿Ya sabes de qué color te gustaría que fuera tu marca? Hay muchas cosas a tener en cuenta y no es algo para elegir a la ligera ¡Cuéntanoslo! Y si tienes dudas, no dudes en contactar con nosotras a través de redes sociales @somossupertu.v
+¿Ya sabes de qué color te gustaría que fuera tu marca? Hay muchas cosas a tener en cuenta y no es algo para elegir a la ligera ¡Cuéntanoslo! Y si tienes dudas, no dudes en contactar con nosotras a través de redes sociales @somossupertu.
