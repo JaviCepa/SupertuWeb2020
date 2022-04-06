@@ -23,6 +23,8 @@ A principios de 2014, se creó esta aplicación la cual antes se conocía como M
 
 En plena pandemia de Covid 19, TikTok se convirtió en una de las aplicaciones más usadas en cuarentena. De hecho, ha pasado a estar por delante de Facebook, Instagram, YouTube y Snapchat en lo que a número de descargas se refiere. 
 
+
+
 **El ‘Repost’ en TikTok**
 
 [![](/img/upload/captura-de-pantalla-2022-04-06-a-las-13.25.16.png)](/img/upload/captura-de-pantalla-2022-04-06-a-las-13.25.16.png)
