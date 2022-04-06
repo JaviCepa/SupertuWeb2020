@@ -13,9 +13,7 @@ date: 2022-02-09T10:41:36.378Z
 image: /img/upload/10_blog.jpg
 social_media_image: /img/upload/10_blog_texto.jpg
 ---
-**Facebook Wi-Fi** permitirá que las personas se conecten a tu red de wifi sin necesidad de compartir contraseñas. Aumentando así la cantidad de visitas a tu página de Facebook, lo que facilitará que los amigos de tus visitantes descubran tu negocio.
-
-
+**Facebook Wi-Fi** permitirá que las personas se conecten a una red wifi sin tener que compartir la contraseña.Aumentando así la cantidad de visitas a tu página de Facebook, lo que facilitará que los amigos de tus visitantes descubran tu negocio.
 
 Las ventajas de agregar esto a tu empresa pueden ser las siguientes: 
 
@@ -23,13 +21,9 @@ Las ventajas de agregar esto a tu empresa pueden ser las siguientes: 
 * **Acceso seguro a la red de wifi sin compartir contraseñas**: las personas que visiten tu empresa ya no necesitarán una contraseña para acceder a tu wifi. Adiós al inconveniente de compartir contraseñas.
 * **Obtendrás estadísticas sobre los visitantes**: accede a información anónima sobre cuántos visitantes entraron a tu página a través de Facebook WiFi.
 
-
-
 La función de audiencia personalizada de Facebook WiFi te permitirá dirigir tus anuncios a clientes que han visitado tu negocio y se han conectado a tu WiFi, así como dirigirte a personas parecidas a tus visitantes mediante las audiencias similares.
 
 También podrás enlazarlo a Instagram, all conectarse a tu WiFi a través de su inicio de sesión de Instagram, los visitantes pueden seguir el perfil de tu empresa para recibir tus últimas actualizaciones.
-
-
 
 ¿Estás decidido? A nosotras nos parece muy interesante esta implementación.
 
