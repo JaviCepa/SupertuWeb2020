@@ -7,7 +7,7 @@ tags:
   - Redes sociales
   - Marketing
   - Publicidad
-author: María Araujo
+author: Paloma Padrón
 date: 2021-07-29T12:10:00.310Z
 image: /img/upload/redes_sociales_fuente_trafico.png
 social_media_image: /img/upload/redes_sociales_fuente_trafico_rrss.png
