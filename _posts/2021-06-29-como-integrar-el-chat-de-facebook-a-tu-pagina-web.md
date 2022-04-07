@@ -5,7 +5,7 @@ subtitle: Mantén activa la comunicación con tus clientes
 permalink: blog/integrar-chat-facebook-web
 tags:
   - Facebook
-author: María Araujo
+author: Paloma Padrón
 date: 2021-06-29T10:45:43.677Z
 image: /img/upload/integrar-chat-facebook-web.png
 social_media_image: /img/upload/integrar-chat-facebook-web-text.png
