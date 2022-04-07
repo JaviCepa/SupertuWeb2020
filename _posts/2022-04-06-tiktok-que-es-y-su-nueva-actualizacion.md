@@ -6,6 +6,7 @@ permalink: blog/tiktok-actualizacion
 tags:
   - TikTok
   - Redes sociales
+  - Actualidad
 author: Paloma Padrón
 date: 2022-04-06T11:22:31.818Z
 image: /img/upload/xx_blog.jpg
