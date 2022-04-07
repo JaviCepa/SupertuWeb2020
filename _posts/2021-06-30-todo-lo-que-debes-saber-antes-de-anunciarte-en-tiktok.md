@@ -8,7 +8,7 @@ tags:
   - Publicidad
   - Actualidad
   - TikTok
-author: María Araujo
+author: Paloma Padrón
 date: 2021-06-30T09:05:15.901Z
 image: /img/upload/3.png
 social_media_image: /img/upload/2.png
