@@ -5,6 +5,7 @@ subtitle: ¿Qué es el Green Marketing?
 permalink: blog/marketing-ecologico
 tags:
   - Marketing
+  - Facebook
 author: Rocío Cabrera
 date: 2022-04-07T10:49:32.674Z
 image: /img/upload/xxx_blog.jpg
