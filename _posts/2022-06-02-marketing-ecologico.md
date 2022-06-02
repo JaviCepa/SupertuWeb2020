@@ -9,14 +9,16 @@ tags:
   - Publicidad
 author: Rocío Cabrera
 date: 2022-06-02T08:29:56.551Z
-image: /img/upload/13_blog_texto1.jpg
-social_media_image: /img/upload/13_blog1.jpg
+image: /img/upload/13_blog1.jpg
+social_media_image: /img/upload/13_blog_texto1.jpg
 ---
 La preocupación por el medio ambiente ha aumentado en los últimos años, por ello las empresas deben tenerlo en cuenta a la hora de crear una estrategia para vender sus productos o servicios. 
 
 A continuación, te contamos qué es el marketing ecológico o ‘verde’ y cómo podría beneficiarse tu empresa al implementarlo a tus estrategias de marketing habituales. 
 
 El marketing ecológico se encarga de que el producto cause el menor impacto posible sobre el medio ambiente, o incluso que intente mejorarlo. La clave del movimiento es la responsabilidad social y ambiental. 
+
+
 
 
 
@@ -30,6 +32,8 @@ El marketing ecológico se encarga de que el producto cause el menor impacto pos
 
 
 Si te hemos convencido para implementar el ‘green marketing’ en tu empresa, ahora vamos a contarte algo que seguro te puede interesar y ayudar.
+
+
 
 
 
