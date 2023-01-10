@@ -13,5 +13,5 @@ description: "Licenciada en Periodismo y especializada en marketing digital por
   de empatía y energía positiva. Me considero una privilegiada por poder
   acompañar cada día a mis clientes en sus proyectos. "
 quote: ""
-image: /img/upload/www.sealovers.es-supertu-307.jpg
+image: /img/upload/captura-de-pantalla-2022-12-29-a-las-11.14.05.png
 ---
