@@ -7,8 +7,8 @@ tags:
   - Publicidad
 author: Espe Olea
 date: 2023-01-13T12:06:45.842Z
-image: /img/upload/10.jpg
-social_media_image: /img/upload/11.jpg
+image: /img/upload/11.jpg
+social_media_image: /img/upload/10.jpg
 seotitle: social ads
 keywords: marketing online
 ---
